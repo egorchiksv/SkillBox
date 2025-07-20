@@ -1,0 +1,45 @@
+1. Создайте в домашней папке путь skillbox/storage.
+mkdir skillbox/storage
+
+2. Создайте файлы file1 и file2 в папке storage.
+touch skillbox/storage/file1
+touch skillbox/storage/file2
+
+3. Выполните ls -l skillbox/storage. 
+ls -l skillbox/storage
+
+4. Создайте в домашней папке пользователя папку mnt.
+mkdir mnt
+
+5. Подмонтируйте папку storage в папку mnt в домашней директории.
+sudo mount /dev/sdb1 /home/egor/mnt
+
+6. Выведите содержимое папки mnt, находящейся в домашней директории пользователя. 
+ls -l /home/egor/mnt/
+
+7. Отмонтируйте папку storage.
+sudo umount /dev/sdb1
+
+8. Выведите содержимое папки mnt, находящейся в домашней директории пользователя.
+ls -l /home/egor/mnt/
+
+9. Выведите список устройств в системе.
+lsblk
+df -h
+
+10. Отметьте на нём одно дисковое устройство и одно устройство, соответствующее разделу диска.
+sda диск, sda1 дисковое пространство
+
+11. Создайте папку для монтирования флеш-карты usb/mnt.
+mkdir /home/egor/usb
+mkdir /home/egor/usb/mnt
+
+12. Подмонтируйте флеш-карту к mnt.
+sudo mount /dev/sdb1 /home/egor/usb/mnt/
+
+13. Удостоверьтесь, что флеш-карта подключилась, путём вывода файлов.
+ls -l /home/egor/usb/mnt
+
+14. Отмонтируйте флеш-карту.
+sudo umount /dev/sdb1
+sudo mkfs.ext4 /dev/sdb1

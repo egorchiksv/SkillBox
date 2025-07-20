@@ -1,0 +1,34 @@
+1. Создайте структуру каталогов ~/skillbox/test/ в домашней директории пользователя.
+mkdir test
+
+2. Создайте пустой файл file1 в директории ~/skillbox/.
+touch file1
+
+3. Запишите вывод утилиты cal в созданный файл file1.
+cal > ~/skillbox/file1
+
+4. Скопируйте файл в директорию ~/skillbox/test/.
+cp ~/skillbox/file1 ~/skillbox/test
+
+5. Переименуйте файл file1 в директории ~/skillbox/вfile0.
+mv ~/skillbox/file1 ~/skillbox/file0
+
+6. Перейдите в директорию /etc.
+cd /etc/
+
+7. Выведите содержимое каталога /etc в файл ~/skillbox/file2.
+ls -l > ~/skillbox/file2
+
+8. Найдите подстроки host в файле file2 и допишите их в конец файла file1. Выведите десять первых и последних строк файла file1.
+grep 'host' ~/skillbox/file2 >> ~/skillbox/test/file1
+head -n 10 ~/skillbox/test/file1
+tail -n 10 ~/skillbox/test/file1
+
+9. Вернитесь в домашнюю директорию.
+cd
+
+10 .Выведите историю переходов по каталогам.
+history | grep 'cd'
+
+11. Найдите в домашней директории пользователя (включая поддиректории) все файлы (искать нужно только файлы), в имени которых есть цифра 2.
+find /home/egor/ -type f -name '*2*'
