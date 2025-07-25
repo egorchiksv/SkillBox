@@ -1,0 +1,2482 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0
+Subject: =?utf-8?Q?HOW-TO:=20=D0=A1=D0=B1=D0=BE=D1=80=D0=BA=D0=B0=20=D1=8F=D0=B4?=
+ =?utf-8?Q?=D1=80=D0=B0=20Linux=20|=20=D0=A0=D1=83=D1=81=D1=81=D0=BA=D0=BE?=
+ =?utf-8?Q?=D1=8F=D0=B7=D1=8B=D1=87=D0=BD=D0=B0=D1=8F=20=D0=B4=D0=BE=D0=BA?=
+ =?utf-8?Q?=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F=20=D0=BF?=
+ =?utf-8?Q?=D0=BE=20Ubuntu?=
+Date: Tue, 22 Jul 2025 18:38:40 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----"
+
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: text/html
+Content-ID: <frame-0C950489ADD5E29A65C8637C1842CDDE@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml" xml:lang=3D"ru" lang=3D"ru" dir=3D"ltr"><head><meta http-equiv=3D"Conte=
+nt-Type" content=3D"text/html; charset=3DUTF-8">
+=09
+	<title>HOW-TO: =D0=A1=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =D1=8F=D0=B4=D1=80=D0=
+=B0 Linux | =D0=A0=D1=83=D1=81=D1=81=D0=BA=D0=BE=D1=8F=D0=B7=D1=8B=D1=87=D0=
+=BD=D0=B0=D1=8F =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=
+=86=D0=B8=D1=8F =D0=BF=D0=BE Ubuntu</title><link rel=3D"shortcut icon" href=
+=3D"https://help.ubuntu.ru/lib/tpl/ubuntu-portal/images/favicon.ico">
+<link rel=3D"apple-touch-icon" href=3D"https://help.ubuntu.ru/lib/tpl/ubunt=
+u-portal/images/apple-touch-icon.png">
+        <link href=3D"https://fonts.googleapis.com/css?family=3DUbuntu:400,=
+700,400italic,700italic&amp;subset=3Dlatin,cyrillic" rel=3D"stylesheet" typ=
+e=3D"text/css">
+                <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://=
+s.ubuntu.ru/portal/ubuntu-portal.css?alarm">
+        <meta name=3D"generator" content=3D"DokuWiki">
+<meta name=3D"robots" content=3D"index,follow">
+<meta name=3D"keywords" content=3D"howto,linux,=D1=8F=D0=B4=D1=80=D0=BE,=D0=
+=BC=D0=BE=D0=B6=D0=BD=D0=BE =D1=83=D0=BB=D1=83=D1=87=D1=88=D0=B8=D1=82=D1=
+=8C,fixme">
+<link rel=3D"search" type=3D"application/opensearchdescription+xml" href=3D=
+"https://help.ubuntu.ru/lib/exe/opensearch.php" title=3D"=D0=A0=D1=83=D1=81=
+=D1=81=D0=BA=D0=BE=D1=8F=D0=B7=D1=8B=D1=87=D0=BD=D0=B0=D1=8F =D0=B4=D0=BE=
+=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F =D0=BF=D0=BE U=
+buntu">
+<link rel=3D"start" href=3D"https://help.ubuntu.ru/">
+<link rel=3D"contents" href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%=
+BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0?do=3Dindex" title=3D"=D0=92=
+=D1=81=D0=B5 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=8B">
+<link rel=3D"alternate" type=3D"application/rss+xml" title=3D"=D0=9D=D0=B5=
+=D0=B4=D0=B0=D0=B2=D0=BD=D0=B8=D0=B5 =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=
+=D0=BD=D0=B8=D1=8F" href=3D"https://help.ubuntu.ru/feed.php">
+<link rel=3D"alternate" type=3D"application/rss+xml" title=3D"=D0=A2=D0=B5=
+=D0=BA=D1=83=D1=89=D0=B5=D0=B5 =D0=BF=D1=80=D0=BE=D1=81=D1=82=D1=80=D0=B0=
+=D0=BD=D1=81=D1=82=D0=B2=D0=BE =D0=B8=D0=BC=D1=91=D0=BD" href=3D"https://he=
+lp.ubuntu.ru/feed.php?mode=3Dlist&amp;ns=3Dwiki">
+<link rel=3D"alternate" type=3D"text/html" title=3D"=D0=9F=D1=80=D0=BE=D1=
+=81=D1=82=D0=BE=D0=B9 HTML" href=3D"https://help.ubuntu.ru/_export/xhtml/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0">
+<link rel=3D"alternate" type=3D"text/plain" title=3D"=D0=B2=D0=B8=D0=BA=D0=
+=B8-=D1=80=D0=B0=D0=B7=D0=BC=D0=B5=D1=82=D0=BA=D0=B0" href=3D"https://help.=
+ubuntu.ru/_export/raw/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B=
+4%D1%80%D0%B0">
+<link rel=3D"canonical" href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0=
+%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0">
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://help.ubuntu.ru/l=
+ib/exe/css.php?t=3Dubuntu-portal&amp;tseed=3Dbef559b7b29c2b8394b197c3576187=
+2f">
+<!--[if gte IE 9]><!-->
+
+
+
+<!--<![endif]-->
+        	=09
+</head>
+<body class=3D"with-bottom-panel act-show">
+<div id=3D"__container">
+<!-- Document -->
+<div>
+	<!-- Page -->
+	<div id=3D"__page">
+		<div id=3D"__wrapper"><div>
+			<!-- Header -->
+			<div id=3D"__header">
+	<div id=3D"__header-menu">
+		<ul>
+			<li>
+				<a href=3D"https://ubuntu.ru/" title=3D"=D0=93=D0=BB=D0=B0=D0=B2=D0=BD=
+=D0=B0=D1=8F =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D0=B0 =D1=81=D0=B0=
+=D0=B9=D1=82=D0=B0 ubuntu.ru">=D0=A1=D0=B0=D0=B9=D1=82</a>			</li>
+			<li>
+				<a href=3D"https://forum.ubuntu.ru/" title=3D"=D0=A4=D0=BE=D1=80=D1=83=
+=D0=BC =D1=80=D1=83=D1=81=D1=81=D0=BA=D0=BE=D1=8F=D0=B7=D1=8B=D1=87=D0=BD=
+=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D1=81=D1=82=D0=B2=
+=D0=B0 Ubuntu. =D0=9D=D0=B0 =D0=BD=D1=91=D0=BC =D0=B2=D1=8B =D0=BC=D0=BE=D0=
+=B6=D0=B5=D1=82=D0=B5 =D0=B7=D0=B0=D0=B4=D0=B0=D1=82=D1=8C =D0=B8=D0=BD=D1=
+=82=D0=B5=D1=80=D0=B5=D1=81=D1=83=D1=8E=D1=89=D0=B8=D0=B5 =D0=B2=D0=B0=D1=
+=81 =D0=B2=D0=BE=D0=BF=D1=80=D0=BE=D1=81=D1=8B =D0=B8 =D0=BF=D0=BE=D0=BB=D1=
+=83=D1=87=D0=B8=D1=82=D1=8C =D0=BF=D0=BE=D0=BC=D0=BE=D1=89=D1=8C =D0=BE=D1=
+=82 =D0=B4=D1=80=D1=83=D0=B3=D0=B8=D1=85 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=
+=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=D0=B9 Ubuntu.">=D0=A4=D0=BE=D1=80=
+=D1=83=D0=BC</a>			</li>
+			<li>
+				<a href=3D"https://help.ubuntu.ru/" title=3D"=D0=A0=D0=B0=D0=B7=D0=BB=
+=D0=B8=D1=87=D0=BD=D0=B0=D1=8F =D1=80=D1=83=D1=81=D1=81=D0=BA=D0=BE=D1=8F=
+=D0=B7=D1=8B=D1=87=D0=BD=D0=B0=D1=8F =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=
+=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F =D0=BF=D0=BE =D1=81=D0=B5=D0=BC=D0=B5=
+=D0=B9=D1=81=D1=82=D0=B2=D1=83 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=86=D0=B8=
+=D0=BE=D0=BD=D0=BD=D1=8B=D1=85 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC =D0=BD=
+=D0=B0 =D0=B1=D0=B0=D0=B7=D0=B5 Ubuntu" class=3D"active">=D0=94=D0=BE=D0=BA=
+=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F</a>					<div class=
+=3D"header-submenu">
+						<div>
+							<ul>
+								<li>
+					<a href=3D"https://help.ubuntu.ru/wiki" title=3D"=D0=94=D0=BE=D0=BA=D1=
+=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F, =D1=81=D0=BE=D0=B7=D0=
+=B4=D0=B0=D0=B2=D0=B0=D0=B5=D0=BC=D0=B0=D1=8F =D0=BF=D0=BE=D0=BB=D1=8C=D0=
+=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F=D0=BC=D0=B8 Ubuntu" class=3D"=
+active">=D0=9F=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=
+=D1=8C=D1=81=D0=BA=D0=B0=D1=8F =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=
+=D1=82=D0=B0=D1=86=D0=B8=D1=8F</a>
+				<div class=3D"header-popup">
+					<ul>
+						<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B5%D0%BC%D0%B5%D=
+0%B9%D1%81%D1%82%D0%B2%D0%BE_ubuntu" title=3D"=D0=94=D0=BE=D0=BA=D1=83=D0=
+=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F =D0=BF=D0=BE =D0=B4=D0=B8=D1=
+=81=D1=82=D1=80=D0=B8=D0=B1=D1=83=D1=82=D0=B8=D0=B2=D0=B0=D0=BC, =D0=B2=D1=
+=85=D0=BE=D0=B4=D1=8F=D1=89=D0=B8=D0=BC =D0=B2 =D1=81=D0=B5=D0=BC=D0=B5=D0=
+=B9=D1=81=D1=82=D0=B2=D0=BE Ubuntu">=D0=A1=D0=B5=D0=BC=D0=B5=D0=B9=D1=81=D1=
+=82=D0=B2=D0=BE Ubuntu</a></li>
+						<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%80%D1%83%D0%BA%D0%BE%D=
+0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0" title=3D"=D0=A0=D0=B0=D0=B7=D0=BB=
+=D0=B8=D1=87=D0=BD=D1=8B=D0=B5 =D0=BC=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=B0=
+=D0=BB=D1=8B =D0=BF=D0=BE Ubuntu, =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=
+=BD=D1=8B=D0=B5 =D0=B4=D0=BB=D1=8F =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=
+=BA=D0=B8">=D0=9C=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=B0=D0=BB=D1=8B =D0=B4=D0=
+=BB=D1=8F =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=BA=D0=B8</a></li>
+						<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%BE%D0%B2%D0%BC%D=
+0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title=3D"=D0=A0=D0=B0=
+=D0=B7=D0=B4=D0=B5=D0=BB, =D0=BF=D0=BE=D1=81=D0=B2=D1=8F=D1=89=D1=91=D0=BD=
+=D0=BD=D1=8B=D0=B9 =D1=81=D0=BE=D0=B2=D0=BC=D0=B5=D1=81=D1=82=D0=B8=D0=BC=
+=D0=BE=D1=81=D1=82=D0=B8 Ubuntu =D1=81 =D0=BE=D0=B1=D0=BE=D1=80=D1=83=D0=B4=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC, =D0=B2 =D0=BF=D0=B5=D1=80=D0=B2=
+=D1=83=D1=8E =D0=BE=D1=87=D0=B5=D1=80=D0=B5=D0=B4=D1=8C - =D1=81 =D0=BD=D0=
+=BE=D1=83=D1=82=D0=B1=D1=83=D0=BA=D0=B0=D0=BC=D0=B8">=D0=A1=D0=BE=D0=B2=D0=
+=BC=D0=B5=D1=81=D1=82=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D1=8C =D1=81 =D0=BE=D0=
+=B1=D0=BE=D1=80=D1=83=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC</a></=
+li>
+					</ul>
+				</div></li>
+								<li><a href=3D"https://help.ubuntu.ru/doc" title=3D"=D0=9F=D0=B5=D1=
+=80=D0=B5=D0=B2=D0=BE=D0=B4=D1=8B =D0=BE=D1=84=D0=B8=D1=86=D0=B8=D0=B0=D0=
+=BB=D1=8C=D0=BD=D0=BE=D0=B9 =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=
+=82=D0=B0=D1=86=D0=B8=D0=B8 =D0=BF=D0=BE Ubuntu =D0=BD=D0=B0 =D1=80=D1=83=
+=D1=81=D1=81=D0=BA=D0=B8=D0=B9 =D1=8F=D0=B7=D1=8B=D0=BA">=D0=9E=D1=84=D0=B8=
+=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=B4=D0=BE=D0=BA=D1=83=
+=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F</a></li>
+							</ul>
+									<div id=3D"__header-controls">			<div id=3D"__header-user"><a href=
+=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F=
+%D0%B4%D1%80%D0%B0?do=3Dlogin&amp;sectok=3D" class=3D"action login" rel=3D"=
+nofollow" title=3D"=D0=92=D0=BE=D0=B9=D1=82=D0=B8">=D0=92=D0=BE=D0=B9=D1=82=
+=D0=B8 / =D0=97=D0=B0=D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=82=D1=80=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F</a>			</div>		</div>							<div =
+class=3D"clearer"></div>
+						</div>
+					</div>
+							</li>
+			<li>
+				<a href=3D"https://team.ubuntu.ru/" title=3D"=D0=9C=D0=B0=D1=82=D0=B5=
+=D1=80=D0=B8=D0=B0=D0=BB=D1=8B, =D0=BA=D0=B0=D1=81=D0=B0=D1=8E=D1=89=D0=B8=
+=D0=B5=D1=81=D1=8F =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=8B =D1=80=D1=83=D1=81=
+=D1=81=D0=BA=D0=BE=D1=8F=D0=B7=D1=8B=D1=87=D0=BD=D0=BE=D0=B3=D0=BE =D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=B0 =D0=B8 =D1=80=D1=83=
+=D1=81=D1=81=D0=BA=D0=BE=D1=8F=D0=B7=D1=8B=D1=87=D0=BD=D0=BE=D0=B9 LoCo =D0=
+=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=8B Ubuntu">=D0=A1=D0=BE=D0=BE=D0=B1=D1=
+=89=D0=B5=D1=81=D1=82=D0=B2=D0=BE</a>			</li>
+			<li>
+				<a href=3D"https://ubuntu.ru/get" title=3D"=D0=A1=D1=82=D1=80=D0=B0=D0=
+=BD=D0=B8=D1=86=D0=B0 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=
+=8F =D0=B4=D0=B8=D1=81=D1=82=D1=80=D0=B8=D0=B1=D1=83=D1=82=D0=B8=D0=B2=D0=
+=B0 Ubuntu">=D0=A1=D0=BA=D0=B0=D1=87=D0=B0=D1=82=D1=8C Ubuntu</a>			</li>
+		</ul>
+		<div id=3D"__header-logo">
+			<a href=3D"https://ubuntu.ru/" title=3D"=D0=9D=D0=B0 =D0=B3=D0=BB=D0=B0=
+=D0=B2=D0=BD=D1=83=D1=8E =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=83 =
+=D1=81=D0=B0=D0=B9=D1=82=D0=B0">
+				<img src=3D"https://s.ubuntu.ru/img/logo_ru.png" alt=3D"">
+			</a>
+		</div>
+	</div>
+	<div id=3D"__search-box">
+		<form action=3D"https://help.ubuntu.ru/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%=
+B0%D1%8F" accept-charset=3D"utf-8" class=3D"search" id=3D"dw__search" metho=
+d=3D"get" role=3D"search"><div class=3D"no"><input type=3D"text" placeholde=
+r=3D"=D0=9D=D0=B0=D0=B9=D1=82=D0=B8" id=3D"qsearch__in" accesskey=3D"f" nam=
+e=3D"id" class=3D"edit" title=3D"[F]"><button type=3D"submit" title=3D"=D0=
+=9D=D0=B0=D0=B9=D1=82=D0=B8">=D0=9D=D0=B0=D0=B9=D1=82=D0=B8</button><div id=
+=3D"qsearch__out" class=3D"ajax_qsearch JSpopup"></div></div></form>	</div>
+</div>
+			<!-- /Header -->
+			<!-- Main -->
+							<div id=3D"__main">
+					<div id=3D"__main-title">
+						<h1><a name=3D"how-to=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B0_=D1=8F=D0=
+=B4=D1=80=D0=B0_linux" id=3D"how-to=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B0_=D1=
+=8F=D0=B4=D1=80=D0=B0_linux">HOW-TO: =D0=A1=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =
+=D1=8F=D0=B4=D1=80=D0=B0 Linux</a></h1>
+					</div>
+					<div class=3D"msgarea">
+											</div>
+					<div class=3D"content">
+						<div class=3D"content-main dokuwiki">
+							<!-- TOC START -->
+<div id=3D"dw__toc">
+<h3 class=3D"toggle">=D0=A1=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D0=BD=D0=B8=
+=D0=B5</h3>
+<div>
+
+<ul class=3D"toc">
+<li class=3D"level1"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#how-to%D1%=
+81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0_linux">HOW-TO: =
+=D0=A1=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =D1=8F=D0=B4=D1=80=D0=B0 Linux</a></di=
+v>
+<ul class=3D"toc">
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#%D1%88%D0%=
+B0%D0%B3_1_%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8%D1=
+%81%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%B4%D0%B0_%D1%=
+8F%D0%B4%D1%80%D0%B0">=D0=A8=D0=B0=D0=B3 1. =D0=9F=D0=BE=D0=BB=D1=83=D1=87=
+=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D0=BE=D0=B3=
+=D0=BE =D0=BA=D0=BE=D0=B4=D0=B0 =D1=8F=D0=B4=D1=80=D0=B0</a></div></li>
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#%D1%88%D0%=
+B0%D0%B3_2_%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0=
+%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D1%8B%D1%85_%D0%B4%D0%BB%D1%8=
+F_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE=
+%D0%B2">=D0=A8=D0=B0=D0=B3 2. =D0=9F=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D1=8B=D1=
+=85 =D0=B4=D0=BB=D1=8F =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D0=BF=D0=B0=D0=
+=BA=D0=B5=D1=82=D0=BE=D0=B2</a></div></li>
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#%D1%88%D0%=
+B0%D0%B3_3_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0=
+%BF%D0%B0%D1%82%D1%87%D0%B5%D0%B9">=D0=A8=D0=B0=D0=B3 3. =D0=9F=D1=80=D0=B8=
+=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=82=D1=87=D0=B5=
+=D0=B9</a></div></li>
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#%D1%88%D0%=
+B0%D0%B3_4_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%=
+B8%D1%8F_%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B9_%D1%81%D0%B1%D0%BE%D1%8=
+0%D0%BA%D0%B8_%D1%8F%D0%B4%D1%80%D0%B0">=D0=A8=D0=B0=D0=B3 4. =D0=9A=D0=BE=
+=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D1=8F =D0=B1=D1=83=
+=D0=B4=D1=83=D1=89=D0=B5=D0=B9 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D1=8F=
+=D0=B4=D1=80=D0=B0</a></div></li>
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#%D1%88%D0%=
+B0%D0%B3_5_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0">=
+=D0=A8=D0=B0=D0=B3 5. =D0=A1=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =D1=8F=D0=B4=D1=
+=80=D0=B0</a></div></li>
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#%D1%88%D0%=
+B0%D0%B3_6_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BE%D0=
+%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2_%D0%B8_%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%=
+BE%D0%B2%D0%BA%D0%BE%D0%B2_%D1%8F%D0%B4%D1%80%D0%B0">=D0=A8=D0=B0=D0=B3 6. =
+=D0=A3=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BA=D0=B0 =D0=BE=D0=B1=D1=80=
+=D0=B0=D0=B7=D0=BE=D0=B2 =D0=B8 =D0=B7=D0=B0=D0=B3=D0=BE=D0=BB=D0=BE=D0=B2=
+=D0=BA=D0=BE=D0=B2 =D1=8F=D0=B4=D1=80=D0=B0</a></div></li>
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#%D1%88%D0%=
+B0%D0%B3_7_%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0=
+%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_ram-%D0%B4%D0%B8%D1%81%=
+D0%BA%D0%B0">=D0=A8=D0=B0=D0=B3 7. =D0=93=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D1=
+=86=D0=B8=D1=8F =D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=
+=BE RAM-=D0=B4=D0=B8=D1=81=D0=BA=D0=B0</a></div></li>
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#%D1%88%D0%=
+B0%D0%B3_8_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0=
+%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%B=
+7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA%D0%B0_grub">=D0=A8=D0=B0=
+=D0=B3 8. =D0=9E=D0=B1=D0=BD=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D0=
+=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D0=
+=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D1=87=D0=B8=D0=BA=D0=B0 GRUB</a></div></l=
+i>
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#%D1%88%D0%=
+B0%D0%B3_9_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1=
+%80%D0%B0">=D0=A8=D0=B0=D0=B3 9. =D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=
+=D0=B0 =D1=8F=D0=B4=D1=80=D0=B0</a></div></li>
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#%D1%81%D1%=
+81%D1%8B%D0%BB%D0%BA%D0%B8">=D0=A1=D1=81=D1=8B=D0=BB=D0=BA=D0=B8</a></div><=
+/li>
+<li class=3D"level2"><div class=3D"li"><a href=3D"https://help.ubuntu.ru/wi=
+ki/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0#todo">ToDo=
+</a></div></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+<div class=3D"level1">
+
+<p>
+=D0=92 =D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=D0=BC =D0=BF=D0=BE=D1=88=D0=B0=D0=B3=
+=D0=BE=D0=B2=D0=BE=D0=BC =D1=80=D1=83=D0=BA=D0=BE=D0=B2=D0=BE=D0=B4=D1=81=
+=D1=82=D0=B2=D0=B5 =D0=B2=D1=8B =D1=83=D0=B7=D0=BD=D0=B0=D0=B5=D1=82=D0=B5,=
+ =D0=BA=D0=B0=D0=BA =D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE =
+=D1=81=D0=BE=D0=B1=D1=80=D0=B0=D1=82=D1=8C =D0=B8 =D1=83=D1=81=D1=82=D0=B0=
+=D0=BD=D0=BE=D0=B2=D0=B8=D1=82=D1=8C =D1=8F=D0=B4=D1=80=D0=BE =D0=B2=D0=B5=
+=D1=82=D0=B2=D0=B5=D0=B9 &gt;2.6 =D0=B2 =D1=81=D0=B5=D0=BC=D0=B5=D0=B9=D1=
+=81=D1=82=D0=B2=D0=B5 =D0=9E=D0=A1 Ubuntu.
+</p>
+
+</div>
+
+<h2 class=3D"sectionedit2" id=3D"=D1=88=D0=B0=D0=B3_1_=D0=BF=D0=BE=D0=BB=D1=
+=83=D1=87=D0=B5=D0=BD=D0=B8=D0=B5_=D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D0=
+=BE=D0=B3=D0=BE_=D0=BA=D0=BE=D0=B4=D0=B0_=D1=8F=D0=B4=D1=80=D0=B0">=D0=A8=
+=D0=B0=D0=B3 1. =D0=9F=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=
+=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D0=BE=D0=B3=D0=BE =D0=BA=D0=BE=D0=B4=D0=
+=B0 =D1=8F=D0=B4=D1=80=D0=B0</h2>
+<div class=3D"level2">
+
+<p>
+=D0=98=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D0=B8=D0=BA=D0=B8 =D1=8F=D0=B4=D1=80=
+=D0=B0 Ubuntu =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=BF=D0=BE=D0=BB=D1=83=D1=87=
+=D0=B8=D1=82=D1=8C <a href=3D"https://help.ubuntu.com/community/Kernel/Comp=
+ile" class=3D"urlextern" title=3D"https://help.ubuntu.com/community/Kernel/=
+Compile" rel=3D"nofollow">=D0=B4=D0=B2=D1=83=D0=BC=D1=8F =D1=81=D0=BF=D0=BE=
+=D1=81=D0=BE=D0=B1=D0=B0=D0=BC=D0=B8</a>:
+</p>
+<ul>
+<li class=3D"level1"><div class=3D"li"> =D0=A3=D1=81=D1=82=D0=B0=D0=BD=D0=
+=BE=D0=B2=D0=B8=D0=B2 =D0=B0=D1=80=D1=85=D0=B8=D0=B2 =D0=B8=D0=B7 =D1=80=D0=
+=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=82=D0=BE=D1=80=D0=B8=D1=8F, =D1=81 =D0=B0=D0=
+=B2=D1=82=D0=BE=D0=BC=D0=B0=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=BC=
+ =D0=BD=D0=B0=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC =D0=BF=D0=BE=
+=D1=81=D0=BB=D0=B5=D0=B4=D0=BD=D0=B8=D1=85 =D0=BE=D1=84=D0=B8=D1=86=D0=B8=
+=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D0=BF=D0=B0=D1=82=D1=87=D0=B5=D0=B9. =
+=D0=9F=D1=80=D0=B8 =D1=8D=D1=82=D0=BE=D0=BC =D1=81=D0=BA=D0=B0=D1=87=D0=B0=
+=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=B0=D0=BA=D0=B5=D1=82 =D1=80=D0=B0=D0=B7=
+=D0=BC=D0=B5=D1=80=D0=BE=D0=BC ~150 =D0=9C=D0=B1 =D0=B2 =D1=82=D0=B5=D0=BA=
+=D1=83=D1=89=D1=83=D1=8E =D0=BF=D0=B0=D0=BF=D0=BA=D1=83. =D0=A7=D1=82=D0=BE=
+=D0=B1=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=B8=D1=81=
+=D1=85=D0=BE=D0=B4=D0=BD=D0=B8=D0=BA=D0=B8 =D1=8F=D0=B4=D1=80=D0=B0, =D0=B2=
+=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B3=
+=D0=BE =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=B0 =
+=D0=BD=D0=B0 =D0=BA=D0=BE=D0=BC=D0=BF=D1=8C=D1=8E=D1=82=D0=B5=D1=80=D0=B5 =
+=D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D0=BA=D0=BE=D0=BC=
+=D0=B0=D0=BD=D0=B4=D1=83: <pre class=3D"code">apt-get source linux-image-`u=
+name -r`</pre>
+
+<p>
+ =D0=98=D0=BB=D0=B8 =D0=B2=D0=BC=D0=B5=D1=81=D1=82=D0=BE <code>`uname -r`</=
+code> =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=
+=D1=8C =D0=BA=D0=BE=D0=BD=D0=BA=D1=80=D0=B5=D1=82=D0=BD=D1=83=D1=8E =D0=B2=
+=D0=B5=D1=80=D1=81=D0=B8=D1=8E =D0=B8=D0=B7 =D0=B8=D0=BC=D0=B5=D1=8E=D1=89=
+=D0=B8=D1=85=D1=81=D1=8F =D0=B2 =D1=80=D0=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=82=
+=D0=BE=D1=80=D0=B8=D0=B8.=20
+</p>
+</div>
+</li>
+</ul>
+<div class=3D"noteclassic">=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA =D0=B8=D0=
+=BC=D0=B5=D1=8E=D1=89=D0=B8=D1=85=D1=81=D1=8F =D0=B2 =D1=80=D0=B5=D0=BF=D0=
+=BE=D0=B7=D0=B8=D1=82=D0=BE=D1=80=D0=B8=D0=B8 =D0=B2=D0=B5=D1=80=D1=81=D0=
+=B8=D0=B9 =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D1=83=D0=B2=D0=B8=D0=B4=D0=B5=D1=
+=82=D1=8C =D0=BD=D0=B0=D0=B1=D1=80=D0=B0=D0=B2 =D0=BA=D0=BE=D0=BC=D0=B0=D0=
+=BD=D0=B4=D1=83: <code>=C2=ABapt-get source linux-image-=C2=BB</code> =D0=
+=B8, =D0=BD=D0=B5 =D0=BD=D0=B0=D0=B6=D0=B8=D0=BC=D0=B0=D1=8F <code>Enter</c=
+ode>, =D0=BD=D0=B0=D0=B6=D0=B0=D1=82=D1=8C =D0=B4=D0=B2=D0=B0 =D1=80=D0=B0=
+=D0=B7=D0=B0 =D0=BA=D0=BB=D0=B0=D0=B2=D0=B8=D1=88=D1=83 <code>Tab</code>.
+<p>
+=D0=9D=D0=B5 =D0=B7=D0=B0=D0=B1=D1=83=D0=B4=D1=8C=D1=82=D0=B5 =D0=B2=D0=BA=
+=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D1=8C =D0=BE=D0=B1=D1=89=D0=B8=D0=B9 =D0=B4=
+=D0=BE=D1=81=D1=82=D1=83=D0=BF =D0=BA =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=
+=D0=B8=D0=BA=D0=B0=D0=BC =D0=B2 =D1=80=D0=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=82=
+=D0=BE=D1=80=D0=B8=D0=B8 (<code>=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=
+=D1=80=D1=8B =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B =E2=86=92 =D0=9F=D1=
+=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D1=8B =D0=B8 =D0=BE=D0=B1=D0=BD=D0=
+=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =E2=86=92 =D0=9F=D1=80=D0=BE=D0=B3=
+=D1=80=D0=B0=D0=BC=D0=BC=D0=BD=D0=BE=D0=B5 =D0=BE=D0=B1=D0=B5=D1=81=D0=BF=
+=D0=B5=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 Ubuntu =E2=86=92 =D0=98=D1=81=D1=85=D0=
+=BE=D0=B4=D0=BD=D1=8B=D0=B9 =D0=BA=D0=BE=D0=B4</code>). =D0=98=D0=B7 =D0=BA=
+=D0=BE=D0=BD=D1=81=D0=BE=D0=BB=D0=B8 =D1=8D=D1=82=D0=BE =D1=81=D0=B4=D0=B5=
+=D0=BB=D0=B0=D1=82=D1=8C =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D1=80=D0=B0=D1=81=
+=D0=BA=D0=BE=D0=BC=D0=BC=D0=B5=D0=BD=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=
+=B2 =D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B8 =D0=BD=D0=B0=D1=87=D0=B8=D0=BD=D0=
+=B0=D1=8E=D1=89=D0=B8=D0=B5=D1=81=D1=8F =D1=81 deb-src =D0=B2 =D1=84=D0=B0=
+=D0=B9=D0=BB=D0=B5 /etc/apt/sources.list, =D0=B0 =D0=B7=D0=B0=D1=82=D0=B5=
+=D0=BC =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D1=8C =D0=BE=D0=B1=
+=D0=BD=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BA=D0=BE=D0=BC=D0=B0=
+=D0=BD=D0=B4=D0=BE=D0=B9: =C2=ABsudo apt-get update=C2=BB.=20
+</p>
+
+</div><ul>
+<li class=3D"level"><div class=3D"li">
+ =D0=A1=D0=B0=D0=BC=D0=B0=D1=8F =D1=81=D0=B2=D0=B5=D0=B6=D0=B0=D1=8F =D0=B2=
+=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D1=8F=D0=B4=D1=80=D0=B0 =D0=B4=D0=BE=D1=81=
+=D1=82=D1=83=D0=BF=D0=BD=D0=B0 =D0=BF=D0=BE <a href=3D"https://wiki.ubuntu.=
+com/Kernel/Dev/KernelGitGuide" class=3D"urlextern" title=3D"https://wiki.ub=
+untu.com/Kernel/Dev/KernelGitGuide" rel=3D"nofollow">git</a>. =D0=A0=D0=B0=
+=D0=B7=D0=BC=D0=B5=D1=80 =D1=81=D0=BA=D0=B0=D1=87=D0=B8=D0=B2=D0=B0=D0=B5=
+=D0=BC=D0=BE=D0=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0 ~500=E2=80=94=
+800 =D0=9C=D0=B1. <pre class=3D"code">git clone git://kernel.ubuntu.com/ubu=
+ntu/ubuntu-&lt;release codename&gt;.git</pre>
+
+<p>
+ =D0=93=D0=B4=D0=B5 &lt;release codename&gt; - =D0=B8=D0=BC=D1=8F =D1=80=D0=
+=B5=D0=BB=D0=B8=D0=B7=D0=B0, =D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=
+=80:=20
+</p>
+<pre class=3D"code">git clone git://kernel.ubuntu.com/ubuntu/ubuntu-xenial.=
+git</pre>
+
+
+
+</div></li>
+</ul>
+
+
+<p>
+<strong>=D0=94=D1=80=D1=83=D0=B3=D0=B8=D0=B5 =D1=8F=D0=B4=D1=80=D0=B0</stro=
+ng>
+</p>
+
+<p>
+=D0=A2=D0=B0=D0=BA=D0=B6=D0=B5 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=
+=D1=83=D1=8E=D1=82 =D1=8F=D0=B4=D1=80=D0=B0, =D1=80=D0=B0=D0=B1=D0=BE=D1=82=
+=D0=BE=D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=BD=D0=BE=D1=81=D1=82=D1=8C =
+=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D1=85 =D0=B2 Ubuntu =D0=BD=D0=B5 =D0=
+=B3=D0=B0=D1=80=D0=B0=D0=BD=D1=82=D0=B8=D1=80=D1=83=D0=B5=D1=82=D1=81=D1=8F=
+. =D0=9D=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80, =D0=B8=D0=B7=D0=B2=D0=
+=B5=D1=81=D1=82=D0=BD=D0=B0 =D0=BF=D1=80=D0=BE=D0=B1=D0=BB=D0=B5=D0=BC=D0=
+=B0 =D1=81 =D1=80=D1=8F=D0=B4=D0=BE=D0=BC =D0=BF=D0=BE=D0=BF=D1=83=D0=BB=D1=
+=8F=D1=80=D0=BD=D1=8B=D1=85 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=BD=D1=
+=8B=D1=85 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=B9 (=D0=
+=B2 =D1=87=D0=B0=D1=81=D1=82=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D0=B4=D1=80=D0=
+=B0=D0=B9=D0=B2=D0=B5=D1=80=D0=B0 NVidia, VirtualBox), =D0=BA=D0=BE=D1=82=
+=D0=BE=D1=80=D1=8B=D0=B5 =D0=BF=D1=80=D0=B8 =D1=81=D0=B2=D0=BE=D0=B5=D0=B9 =
+=D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BA=D0=B5 =D0=BA=D0=BE=D0=BC=
+=D0=BF=D0=B8=D0=BB=D0=B8=D1=80=D1=83=D1=8E=D1=82=D1=81=D1=8F =D0=BF=D0=BE=
+=D0=B4 =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=BD=
+=D0=BE=D0=B5 =D1=8F=D0=B4=D1=80=D0=BE. =D0=9F=D0=BE=D1=8D=D1=82=D0=BE=D0=BC=
+=D1=83 =D0=B4=D0=BB=D1=8F =D0=B8=D1=85 =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=
+=D0=B2=D0=BA=D0=B8 =D0=BD=D0=B0 =D1=8F=D0=B4=D1=80=D0=BE, =D0=BD=D0=B5=D1=
+=81=D1=82=D0=B0=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BD=D0=BE=D0=B5 =D0=B4=D0=
+=BB=D1=8F =D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=D0=B9 =D0=B2=D0=B5=D1=80=D1=81=D0=
+=B8=D0=B8 Ubuntu (=D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80, Ubuntu =
+16.04 =D0=B8=D0=B4=D1=91=D1=82 =D1=81 =D1=8F=D0=B4=D1=80=D0=BE=D0=BC 4.4.0)=
+, =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=BF=D0=BE=D1=82=D1=80=D0=B5=D0=B1=D0=BE=
+=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=B8=D1=85 =D0=BE=D1=82=D0=B4=D0=B5=
+=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=
+=D1=86=D0=B8=D1=8F =D0=B2=D1=80=D1=83=D1=87=D0=BD=D1=83=D1=8E =D0=B8=D0=BB=
+=D0=B8 =D1=81=D0=BF=D0=B5=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 =
+=D0=BF=D0=B0=D1=82=D1=87=D0=B8, =D0=B0 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=
+=D0=BD=D0=B8=D0=B5 =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D0=B8 =D1=8F=D0=B4=D0=B5=
+=D1=80 =D1=81 kernel.org =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B2=D0=BE=D0=BE=D0=B1=D1=89=
+=D0=B5 =D0=BD=D0=B5 =D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=B2=
+=D0=B0=D1=82=D1=8C.
+</p>
+<ul>
+<li class=3D"level"><div class=3D"li">
+ =D0=90=D1=80=D1=85=D0=B8=D0=B2 =D1=81 =D0=B1=D0=B0=D0=B7=D0=BE=D0=B2=D0=BE=
+=D0=B9 =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D0=B9 =D0=B1=D0=B5=D0=B7 =D0=BF=D0=B0=
+=D1=82=D1=87=D0=B5=D0=B9, =D1=82.=D0=B5. =D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=
+=BC=D0=B5=D1=80 =C2=AB4.8.0=C2=BB, =C2=AB4.8.10=C2=BB: <pre class=3D"code">=
+sudo apt-get install linux-source</pre>
+
+<p>
+
+</p></div></li>
+<li class=3D"level"><div class=3D"li">
+ =D0=AF=D0=B4=D1=80=D0=B0 =D1=82=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D0=BE=D0=B9 =
+=D0=BB=D0=B8=D0=BD=D0=B8=D0=B8 <a href=3D"https://wiki.ubuntu.com/Kernel/Ma=
+inlineBuilds" class=3D"urlextern" title=3D"https://wiki.ubuntu.com/Kernel/M=
+ainlineBuilds" rel=3D"nofollow">Mainline</a>: <a href=3D"http://kernel.ubun=
+tu.com/~kernel-ppa/mainline/" class=3D"urlextern" title=3D"http://kernel.ub=
+untu.com/~kernel-ppa/mainline/" rel=3D"nofollow">http://kernel.ubuntu.com/~=
+kernel-ppa/mainline/</a>
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ =D0=9E=D0=B1=D1=89=D0=B8=D0=B5 =D1=8F=D0=B4=D1=80=D0=B0 Linux, =D0=BD=D0=
+=B5 =D0=B0=D0=B4=D0=B0=D0=BF=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=BD=D1=8B=D0=B5 =D0=BA Ubuntu: <a href=3D"https://www.kernel.org/" class=3D=
+"urlextern" title=3D"https://www.kernel.org" rel=3D"nofollow">kernel.org</a=
+>
+<p></p>
+
+</div></li>
+</ul>
+
+
+<p>
+=D0=A0=D0=B0=D1=81=D0=BF=D0=B0=D0=BA=D1=83=D0=B9=D1=82=D0=B5 =D0=BF=D0=BE=
+=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=BD=D1=8B=D0=B9 =D0=B0=D1=80=D1=85=D0=B8=
+=D0=B2, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8F =D0=BA=D0=BE=
+=D0=BC=D0=B0=D0=BD=D0=B4=D1=8B:
+</p>
+<pre class=3D"code">cd ~/
+tar -xjf linux-2.6.x.y.tar.bz2</pre>
+
+<p>
+=D0=98=D0=BB=D0=B8 =D0=B2 =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=B5 =D1=81 linux=
+-source:
+</p>
+<pre class=3D"code">cd /usr/src
+tar -xjf linux-source-2.6.x.y.tar.bz2</pre>
+
+</div>
+
+<h2 class=3D"sectionedit3" id=3D"=D1=88=D0=B0=D0=B3_2_=D0=BF=D0=BE=D0=BB=D1=
+=83=D1=87=D0=B5=D0=BD=D0=B8=D0=B5_=D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=
+=B4=D0=B8=D0=BC=D1=8B=D1=85_=D0=B4=D0=BB=D1=8F_=D1=81=D0=B1=D0=BE=D1=80=D0=
+=BA=D0=B8_=D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2">=D0=A8=D0=B0=D0=B3 2.=
+ =D0=9F=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BD=D0=B5=D0=BE=
+=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D1=8B=D1=85 =D0=B4=D0=BB=D1=8F =D1=81=
+=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2</=
+h2>
+<div class=3D"level2">
+<div class=3D"noteclassic">=D0=94=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=88=D0=
+=B0=D0=B3 =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE =D0=
+=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D1=8C, =D1=82=D0=BE=D0=BB=D1=
+=8C=D0=BA=D0=BE =D0=B5=D1=81=D0=BB=D0=B8 =D1=8F=D0=B4=D1=80=D0=BE =D1=81=D0=
+=BE=D0=B1=D0=B8=D1=80=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BD=D0=B0 =D0=BA=D0=
+=BE=D0=BC=D0=BF=D1=8C=D1=8E=D1=82=D0=B5=D1=80=D0=B5 =D0=B2 =D0=BF=D0=B5=D1=
+=80=D0=B2=D1=8B=D0=B9 =D1=80=D0=B0=D0=B7
+</div>
+<p>
+=D0=92=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D1=81=D0=BB=D0=B5=
+=D0=B4=D1=83=D1=8E=D1=89=D0=B8=D0=B5 =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=
+=D1=8B =D0=B4=D0=BB=D1=8F =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BA=
+=D0=B8 =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=D0=BD=D1=8B=D1=85 =D0=BF=D0=B0=D0=BA=
+=D0=B5=D1=82=D0=BE=D0=B2:
+</p>
+<pre class=3D"code">sudo apt-get update
+sudo apt-get build-dep linux
+sudo apt-get install kernel-package</pre>
+
+<p>
+=D0=94=D0=B0=D0=BB=D0=B5=D0=B5 =D0=B2=D1=81=D1=91 =D0=B7=D0=B0=D0=B2=D0=B8=
+=D1=81=D0=B8=D1=82 =D0=BE=D1=82 =D1=82=D0=BE=D0=B3=D0=BE, =D0=BA=D0=B0=D0=
+=BA=D0=B8=D0=BC =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=BE=D0=BC =D0=B2=D1=
+=8B =D1=85=D0=BE=D1=82=D0=B8=D1=82=D0=B5 =D0=BF=D1=80=D0=BE=D0=B8=D0=B7=D0=
+=B2=D0=B5=D1=81=D1=82=D0=B8 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=
+=80=D0=B0=D1=86=D0=B8=D1=8E =D1=8F=D0=B4=D1=80=D0=B0. =D0=AD=D1=82=D0=BE =
+=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D1=81=D0=B4=D0=B5=D0=BB=D0=B0=D1=82=D1=8C =
+=D0=BD=D0=B5=D1=81=D0=BA=D0=BE=D0=BB=D1=8C=D0=BA=D0=B8=D0=BC=D0=B8 =D1=81=
+=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=B0=D0=BC=D0=B8.
+</p>
+<ul>
+<li class=3D"level"><div class=3D"li">
+ <strong>config</strong> - =D1=82=D1=80=D0=B0=D0=B4=D0=B8=D1=86=D0=B8=D0=BE=
+=D0=BD=D0=BD=D1=8B=D0=B9 =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1 =D0=BA=D0=BE=
+=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D1=8F. =D0=9F=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B0 =D0=B2=D1=
+=8B=D0=B2=D0=BE=D0=B4=D0=B8=D1=82 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=
+=82=D1=80=D1=8B =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=
+=86=D0=B8=D0=B8 =D0=BF=D0=BE =D0=BE=D0=B4=D0=BD=D0=BE=D0=BC=D1=83, =D0=BF=
+=D1=80=D0=B5=D0=B4=D0=BB=D0=B0=D0=B3=D0=B0=D1=8F =D0=B2=D0=B0=D0=BC =D1=83=
+=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=B8=D1=82=D1=8C =D0=B4=D0=BB=D1=8F =
+=D0=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=B3=D0=BE =D0=B8=D0=B7 =D0=BD=D0=B8=D1=85 =
+=D1=81=D0=B2=D0=BE=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5. =
+=D0=9D=D0=B5 =D1=80=D0=B5=D0=BA=D0=BE=D0=BC=D0=BC=D0=B5=D0=BD=D0=B4=D1=83=
+=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=BD=D0=B5=D0=BE=D0=BF=D1=8B=
+=D1=82=D0=BD=D1=8B=D1=85 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=
+=D1=82=D0=B5=D0=BB=D0=B5=D0=B9.
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>oldconfig</strong> - =D1=84=D0=B0=D0=B9=D0=BB =D0=BA=D0=BE=D0=BD=
+=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D1=81=D0=BE=D0=B7=
+=D0=B4=D0=B0=D1=91=D1=82=D1=81=D1=8F =D0=B0=D0=B2=D1=82=D0=BE=D0=BC=D0=B0=
+=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8, =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=
+=D1=8B=D0=B2=D0=B0=D1=8F=D1=81=D1=8C =D0=BD=D0=B0 =D1=82=D0=B5=D0=BA=D1=83=
+=D1=89=D0=B5=D0=B9 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=
+=D1=86=D0=B8=D0=B8 =D1=8F=D0=B4=D1=80=D0=B0. =D0=A0=D0=B5=D0=BA=D0=BE=D0=BC=
+=D0=B5=D0=BD=D0=B4=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=BD=
+=D0=B0=D1=87=D0=B8=D0=BD=D0=B0=D1=8E=D1=89=D0=B8=D1=85.
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>defconfig</strong> - =D1=84=D0=B0=D0=B9=D0=BB =D0=BA=D0=BE=D0=BD=
+=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D1=81=D0=BE=D0=B7=
+=D0=B4=D0=B0=D1=91=D1=82=D1=81=D1=8F =D0=B0=D0=B2=D1=82=D0=BE=D0=BC=D0=B0=
+=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8, =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=
+=D1=8B=D0=B2=D0=B0=D1=8F=D1=81=D1=8C =D0=BD=D0=B0 =D0=B7=D0=BD=D0=B0=D1=87=
+=D0=B5=D0=BD=D0=B8=D1=8F=D1=85 =D0=BF=D0=BE-=D1=83=D0=BC=D0=BE=D0=BB=D1=87=
+=D0=B0=D0=BD=D0=B8=D1=8E.
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>menuconfig</strong> - =D0=BF=D1=81=D0=B5=D0=B2=D0=B4=D0=BE=D0=B3=
+=D1=80=D0=B0=D1=84=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=B9 =D0=B8=D0=BD=
+=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=B9=D1=81 =D1=80=D1=83=D1=87=D0=BD=D0=BE=
+=D0=B9 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=
+=D0=B8, =D0=BD=D0=B5 =D1=82=D1=80=D0=B5=D0=B1=D1=83=D0=B5=D1=82 =D0=BF=D0=
+=BE=D1=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=
+=D0=BE=D0=B3=D0=BE =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 =D0=B7=D0=BD=D0=B0=D1=87=
+=D0=B5=D0=BD=D0=B8=D0=B9 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=
+=D0=BE=D0=B2. =D0=A0=D0=B5=D0=BA=D0=BE=D0=BC=D0=B5=D0=BD=D0=B4=D1=83=D0=B5=
+=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=
+=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=B2 =D1=82=D0=B5=D1=80=D0=BC=
+=D0=B8=D0=BD=D0=B0=D0=BB=D0=B5.
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>xconfig</strong> - =D0=B3=D1=80=D0=B0=D1=84=D0=B8=D1=87=D0=B5=D1=
+=81=D0=BA=D0=B8=D0=B9 (X) =D0=B8=D0=BD=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=B9=
+=D1=81 =D1=80=D1=83=D1=87=D0=BD=D0=BE=D0=B9 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=
+=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8, =D0=BD=D0=B5 =D1=82=D1=80=D0=B5=
+=D0=B1=D1=83=D0=B5=D1=82 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=
+=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE =D0=B2=D0=B2=D0=BE=
+=D0=B4=D0=B0 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B9 =D0=BF=D0=B0=
+=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D0=BE=D0=B2.
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>gconfig</strong> - =D0=B3=D1=80=D0=B0=D1=84=D0=B8=D1=87=D0=B5=D1=
+=81=D0=BA=D0=B8=D0=B9 (GTK+) =D0=B8=D0=BD=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=
+=B9=D1=81 =D1=80=D1=83=D1=87=D0=BD=D0=BE=D0=B9 =D0=BA=D0=BE=D0=BD=D1=84=D0=
+=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8, =D0=BD=D0=B5 =D1=82=D1=80=D0=
+=B5=D0=B1=D1=83=D0=B5=D1=82 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=
+=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE =D0=B2=D0=B2=D0=
+=BE=D0=B4=D0=B0 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B9 =D0=BF=D0=
+=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D0=BE=D0=B2. =D0=A0=D0=B5=D0=BA=D0=
+=BE=D0=BC=D0=B5=D0=BD=D0=B4=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=
+=8F =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D1=8F =D0=B2 =D1=81=D1=80=D0=B5=D0=B4=D0=B5 GNOME.
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>localmodconfig</strong> - =D1=84=D0=B0=D0=B9=D0=BB =D0=BA=D0=BE=D0=
+=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8, =D1=81=D0=BE=D0=
+=B7=D0=B4=D0=B0=D1=8E=D1=89=D0=B8=D0=B9=D1=81=D1=8F =D0=B0=D0=B2=D1=82=D0=
+=BE=D0=BC=D0=B0=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8, =D0=B2 =D0=BA=D0=
+=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9 =D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=D0=
+=B5=D1=82=D1=81=D1=8F =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D1=82=D0=BE, =
+=D1=87=D1=82=D0=BE =D0=BD=D1=83=D0=B6=D0=BD=D0=BE =D0=B4=D0=B0=D0=BD=D0=BD=
+=D0=BE=D0=BC=D1=83 =D0=BA=D0=BE=D0=BD=D0=BA=D1=80=D0=B5=D1=82=D0=BD=D0=BE=
+=D0=BC=D1=83 =D1=83=D1=81=D1=82=D1=80=D0=BE=D0=B9=D1=81=D1=82=D0=B2=D1=83. =
+=D0=9F=D1=80=D0=B8 =D0=B2=D1=8B=D0=B7=D0=BE=D0=B2=D0=B5 =D0=B4=D0=B0=D0=BD=
+=D0=BD=D0=BE=D0=B9 =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=8B =D0=B1=D0=BE=
+=D0=BB=D1=8C=D1=88=D0=B0=D1=8F =D1=87=D0=B0=D1=81=D1=82=D1=8C =D1=8F=D0=B4=
+=D1=80=D0=B0 =D0=B1=D1=83=D0=B4=D0=B5=D1=82 =D0=B7=D0=B0=D0=BC=D0=BE=D0=B4=
+=D1=83=D0=BB=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B0
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>localyesconfig</strong> - =D1=84=D0=B0=D0=B9=D0=BB =D0=BA=D0=BE=D0=
+=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8, =D0=BF=D0=BE=D1=
+=85=D0=BE=D0=B6=D0=B8=D0=B9 =D0=BD=D0=B0 =D0=BF=D1=80=D0=B5=D0=B4=D1=8B=D0=
+=B4=D1=83=D1=89=D0=B8=D0=B9, =D0=BD=D0=BE =D0=B7=D0=B4=D0=B5=D1=81=D1=8C =
+=D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=B0=D1=8F =D1=87=D0=B0=D1=81=D1=82=D1=8C =
+=D0=B1=D1=83=D0=B4=D0=B5=D1=82 =D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=BD=
+=D0=B0 =D0=BD=D0=B5=D0=BF=D0=BE=D1=81=D1=80=D0=B5=D0=B4=D1=81=D1=82=D0=B2=
+=D0=B5=D0=BD=D0=BD=D0=BE =D0=B2 =D1=8F=D0=B4=D1=80=D0=BE. =D0=98=D0=B4=D0=
+=B5=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D0=B2=D0=B0=D1=80=D0=B8=D0=B0=D0=
+=BD=D1=82 =D0=B4=D0=BB=D1=8F =D0=BD=D0=B0=D1=87=D0=B8=D0=BD=D0=B0=D1=8E=D1=
+=89=D0=B8=D1=85.
+</div></li>
+</ul>
+
+
+<p>
+=D0=92 =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=B5, =D0=B5=D1=81=D0=BB=D0=B8 =D0=
+=B2=D1=8B =D1=85=D0=BE=D1=82=D0=B8=D1=82=D0=B5 =D0=B8=D1=81=D0=BF=D0=BE=D0=
+=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C <strong>config</strong>, <str=
+ong>oldconfig</strong>, <strong>defconfig</strong>, <strong>localmodconfig<=
+/strong> =D0=B8=D0=BB=D0=B8 <strong>localyesconfig</strong>, =D0=B2=D0=B0=
+=D0=BC =D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=B5 =D0=BD=D0=B5 =D0=BD=D1=83=D0=B6=
+=D0=BD=D1=8B =D0=BD=D0=B8=D0=BA=D0=B0=D0=BA=D0=B8=D0=B5 =D0=B4=D0=BE=D0=BF=
+=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 =D0=BF=
+=D0=B0=D0=BA=D0=B5=D1=82=D1=8B. =D0=92 =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=B5=
+ =D0=B6=D0=B5 =D1=81 =D0=BE=D1=81=D1=82=D0=B0=D0=B2=D1=88=D0=B8=D0=BC=D0=B8=
+=D1=81=D1=8F =D1=82=D1=80=D0=B5=D0=BC=D1=8F =D0=B2=D0=B0=D1=80=D0=B8=D0=B0=
+=D0=BD=D1=82=D0=B0=D0=BC=D0=B8 =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=
+=D0=B8=D0=BC=D0=BE =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=B8=D1=82=
+=D1=8C =D1=82=D0=B0=D0=BA=D0=B6=D0=B5 =D0=B4=D0=BE=D0=BF=D0=BE=D0=BB=D0=BD=
+=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 =D0=BF=D0=B0=D0=BA=D0=B5=
+=D1=82=D1=8B.
+</p>
+
+<p>
+=D0=94=D0=BB=D1=8F =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BA=D0=B8 =
+=D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2, =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=
+=D0=BE=D0=B4=D0=B8=D0=BC=D1=8B=D1=85 =D0=B4=D0=BB=D1=8F =D0=B8=D1=81=D0=BF=
+=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F <strong>menuco=
+nfig</strong> =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D1=81=
+=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D1=83=D1=8E =D0=BA=D0=BE=D0=BC=D0=B0=
+=D0=BD=D0=B4=D1=83:
+</p>
+<pre class=3D"code">sudo apt-get install libncurses5-dev</pre>
+
+<p>
+=D0=94=D0=BB=D1=8F =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BA=D0=B8 =
+=D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2, =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=
+=D0=BE=D0=B4=D0=B8=D0=BC=D1=8B=D1=85 =D0=B4=D0=BB=D1=8F =D0=B8=D1=81=D0=BF=
+=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F <strong>gconfi=
+g</strong> =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D1=81=D0=
+=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D1=83=D1=8E =D0=BA=D0=BE=D0=BC=D0=B0=D0=
+=BD=D0=B4=D1=83:
+</p>
+<pre class=3D"code">sudo apt-get install libgtk2.0-dev libglib2.0-dev libgl=
+ade2-dev</pre>
+
+<p>
+=D0=94=D0=BB=D1=8F =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BA=D0=B8 =
+=D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2, =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=
+=D0=BE=D0=B4=D0=B8=D0=BC=D1=8B=D1=85 =D0=B4=D0=BB=D1=8F =D0=B8=D1=81=D0=BF=
+=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F <strong>xconfi=
+g</strong> =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D1=81=D0=
+=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D1=83=D1=8E =D0=BA=D0=BE=D0=BC=D0=B0=D0=
+=BD=D0=B4=D1=83:
+</p>
+<div class=3D"noteclassic">=D0=94=D0=BE Ubuntu 12.04:
+<pre class=3D"code">sudo apt-get install qt3-dev-tools libqt3-mt-dev</pre>
+
+<p>
+C Ubuntu 12.10:
+</p>
+<pre class=3D"code">sudo apt-get install libqt4-dev</pre>
+
+</div>
+</div>
+
+<h2 class=3D"sectionedit4" id=3D"=D1=88=D0=B0=D0=B3_3_=D0=BF=D1=80=D0=B8=D0=
+=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B5_=D0=BF=D0=B0=D1=82=D1=87=D0=B5=D0=
+=B9">=D0=A8=D0=B0=D0=B3 3. =D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=
+=D0=B8=D0=B5 =D0=BF=D0=B0=D1=82=D1=87=D0=B5=D0=B9</h2>
+<div class=3D"level2">
+<div class=3D"noteclassic">=D0=94=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=88=D0=
+=B0=D0=B3 =D0=BD=D0=B5 =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=
+=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=BC.=20
+<p>
+=D0=9E=D1=84=D0=B8=D1=86=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5 =D0=BF=
+=D0=B0=D1=82=D1=87=D0=B8 =D1=83=D0=B6=D0=B5 =D0=BD=D0=B0=D0=BB=D0=BE=D0=B6=
+=D0=B5=D0=BD=D1=8B =D0=BD=D0=B0 =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D0=B8=
+=D0=BA=D0=B8, =D0=B5=D1=81=D0=BB=D0=B8 =D1=8F=D0=B4=D1=80=D0=BE =D0=BF=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B0=D0=BB=D0=BE=D1=81=D1=8C =D0=BE=D0=BF=D0=B8=D1=
+=81=D0=B0=D0=BD=D0=BD=D0=BE=D0=B9 =D0=B2=D1=8B=D1=88=D0=B5 =D0=BA=D0=BE=D0=
+=BC=D0=B0=D0=BD=D0=B4=D0=BE=D0=B9:=20
+</p>
+<pre class=3D"code">apt-get source linux-image-`uname -r`</pre>
+
+</div>
+<p>
+=D0=95=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B =D0=BD=D0=B8=D0=BA=D0=BE=D0=B3=D0=B4=
+=D0=B0 =D0=B4=D0=BE =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=BD=D0=B5 =D0=BF=D1=
+=80=D0=B8=D0=BC=D0=B5=D0=BD=D1=8F=D0=BB=D0=B8 =D0=BF=D0=B0=D1=82=D1=87=D0=
+=B5=D0=B9 =D0=BA =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D0=BE=D0=BC=D1=83 =D0=
+=BA=D0=BE=D0=B4=D1=83, =D1=82=D0=BE =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=
+=B8=D1=82=D0=B5 =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D1=83=D1=8E =D0=
+=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=83:
+</p>
+<pre class=3D"code">sudo apt-get install patch</pre>
+
+<p>
+=D0=AD=D1=82=D0=B0 =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D0=B0 =D1=83=D1=81=
+=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=B8=D1=82 =D0=BF=D1=80=D0=BE=D0=B3=D1=80=
+=D0=B0=D0=BC=D0=BC=D1=83 patch, =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=
+=D0=B8=D0=BC=D1=83=D1=8E =D0=B4=D0=BB=D1=8F, =D0=BA=D0=B0=D0=BA =D0=BC=D0=
+=BE=D0=B6=D0=BD=D0=BE =D0=B4=D0=BE=D0=B3=D0=B0=D0=B4=D0=B0=D1=82=D1=8C=D1=
+=81=D1=8F, =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=
+=BF=D0=B0=D1=82=D1=87=D0=B5=D0=B9. =D0=A2=D0=B5=D0=BF=D0=B5=D1=80=D1=8C =D1=
+=81=D0=BA=D0=B0=D1=87=D0=B0=D0=B9=D1=82=D0=B5 =D1=84=D0=B0=D0=B9=D0=BB =D0=
+=BF=D0=B0=D1=82=D1=87=D0=B0 =D0=B2 =D0=BF=D0=B0=D0=BF=D0=BA=D1=83, =D0=BA=
+=D1=83=D0=B4=D0=B0 =D0=B2=D1=8B =D1=80=D0=B0=D1=81=D0=BF=D0=B0=D0=BA=D0=BE=
+=D0=B2=D0=B0=D0=BB=D0=B8 =D1=8F=D0=B4=D1=80=D0=BE. =D0=AD=D1=82=D0=BE =D0=
+=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D0=BB=D0=B8=D0=B1=D0=
+=BE =D0=B0=D1=80=D1=85=D0=B8=D0=B2=D0=BD=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=
+=BB (=D0=BD=D0=B0=D0=BF=D1=80. Bzip2 =D0=B8=D0=BB=D0=B8 Gzip), =D0=BB=D0=B8=
+=D0=B1=D0=BE =D0=BD=D0=B5=D1=81=D0=B6=D0=B0=D1=82=D1=8B=D0=B9 patch-=D1=84=
+=D0=B0=D0=B9=D0=BB.
+</p>
+
+<p>
+=D0=9D=D0=B0 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D0=BC=D0=BE=D0=BC=D0=B5=
+=D0=BD=D1=82 =D0=BF=D0=BE=D0=B4=D1=80=D0=B0=D0=B7=D1=83=D0=BC=D0=B5=D0=B2=
+=D0=B0=D0=B5=D1=82=D1=81=D1=8F, =D1=87=D1=82=D0=BE =D0=B2=D1=8B =D1=83=D0=
+=B6=D0=B5 =D1=81=D0=BE=D1=85=D1=80=D0=B0=D0=BD=D0=B8=D0=BB=D0=B8 =D1=84=D0=
+=B0=D0=B9=D0=BB =D0=B2 =D1=82=D1=83 =D0=BF=D0=B0=D0=BF=D0=BA=D1=83, =D0=BA=
+=D1=83=D0=B4=D0=B0 =D1=80=D0=B0=D0=BD=D0=B5=D0=B5 =D1=80=D0=B0=D1=81=D0=BF=
+=D0=B0=D0=BA=D0=BE=D0=B2=D0=B0=D0=BB=D0=B8 =D1=8F=D0=B4=D1=80=D0=BE, =D0=B8=
+ =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=B8=D0=BB=D0=B8 =D0=BF=D1=80=
+=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D1=83 patch.<br>
+
+=D0=95=D1=81=D0=BB=D0=B8 =D1=81=D0=BA=D0=B0=D1=87=D0=B0=D0=BD=D0=BD=D1=8B=
+=D0=B9 =D0=B2=D0=B0=D0=BC=D0=B8 =D1=84=D0=B0=D0=B9=D0=BB =D0=B1=D1=8B=D0=BB=
+ =D0=B2 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=B5 Gzip (*.gz), =D1=82=D0=
+=BE=D0=B3=D0=B4=D0=B0 =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=
+=B5 =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D1=83=D1=8E =D0=BA=D0=BE=D0=
+=BC=D0=B0=D0=BD=D0=B4=D1=83 =D0=B4=D0=BB=D1=8F =D1=80=D0=B0=D1=81=D0=BF=D0=
+=B0=D0=BA=D0=BE=D0=B2=D0=BA=D0=B8 =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=
+=B8=D0=BC=D0=BE=D0=B3=D0=BE =D0=B0=D1=80=D1=85=D0=B8=D0=B2=D0=B0:
+</p>
+<pre class=3D"code">gunzip patch-2.6.x.y.gz</pre>
+
+<p>
+=D0=95=D1=81=D0=BB=D0=B8 =D1=81=D0=BA=D0=B0=D1=87=D0=B0=D0=BD=D0=BD=D1=8B=
+=D0=B9 =D0=B2=D0=B0=D0=BC=D0=B8 =D1=84=D0=B0=D0=B9=D0=BB =D0=B1=D1=8B=D0=BB=
+ =D0=B2 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=B5 Bzip2 (*.bz2), =D1=82=D0=
+=BE=D0=B3=D0=B4=D0=B0 =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=
+=B5 =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D1=83=D1=8E =D0=BA=D0=BE=D0=
+=BC=D0=B0=D0=BD=D0=B4=D1=83 =D0=B4=D0=BB=D1=8F =D1=80=D0=B0=D1=81=D0=BF=D0=
+=B0=D0=BA=D0=BE=D0=B2=D0=BA=D0=B8 =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=
+=B8=D0=BC=D0=BE=D0=B3=D0=BE =D0=B0=D1=80=D1=85=D0=B8=D0=B2=D0=B0:
+</p>
+<pre class=3D"code">bunzip2 patch-2.6.x.y.bz2</pre>
+
+<p>
+=D0=B3=D0=B4=D0=B5 2.6.x.y - =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D0=BF=D0=
+=B0=D1=82=D1=87=D0=B0 =D1=8F=D0=B4=D1=80=D0=B0. =D0=A1=D0=BE=D0=BE=D1=82=D0=
+=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=89=D0=B8=D0=B5 =D0=BA=D0=
+=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=8B =D1=80=D0=B0=D1=81=D0=BF=D0=B0=D0=BA=D1=
+=83=D1=8E=D1=82 =D1=84=D0=B0=D0=B9=D0=BB =D0=BF=D0=B0=D1=82=D1=87=D0=B0 =D0=
+=B2 =D0=BF=D0=B0=D0=BF=D0=BA=D1=83 =D1=81 =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=
+=BD=D1=8B=D0=BC =D0=BA=D0=BE=D0=B4=D0=BE=D0=BC =D1=8F=D0=B4=D1=80=D0=B0. =
+=D0=9F=D1=80=D0=B5=D0=B6=D0=B4=D0=B5 =D1=87=D0=B5=D0=BC =D0=BF=D1=80=D0=B8=
+=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D1=82=D1=87, =D0=BD=D0=B5=
+=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE =D1=83=D0=B4=D0=BE=D1=81=
+=D1=82=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C=D1=81=D1=8F, =D1=87=D1=82=
+=D0=BE =D0=BE=D0=BD =D0=B7=D0=B0=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=B5=
+=D1=82 =D0=B1=D0=B5=D0=B7 =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=BE=D0=BA. =D0=
+=94=D0=BB=D1=8F =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=B2=D1=8B=D0=BF=D0=BE=D0=
+=BB=D0=BD=D0=B8=D1=82=D0=B5 =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=83:
+</p>
+<pre class=3D"code">patch -p1 -i patch-2.6.x.y --dry-run</pre>
+
+<p>
+=D0=B3=D0=B4=D0=B5 2.6.x.y - =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D0=BF=D0=
+=B0=D1=82=D1=87=D0=B0 =D1=8F=D0=B4=D1=80=D0=B0. =D0=AD=D1=82=D0=B0 =D0=BA=
+=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D0=B0 =D1=81=D1=8B=D0=BC=D0=B8=D1=82=D0=B8=
+=D1=80=D1=83=D0=B5=D1=82 =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=
+=D0=B8=D0=B5 =D0=BF=D0=B0=D1=82=D1=87=D0=B0, =D0=BD=D0=B5 =D0=B8=D0=B7=D0=
+=BC=D0=B5=D0=BD=D1=8F=D1=8F =D1=81=D0=B0=D0=BC=D0=B8 =D1=84=D0=B0=D0=B9=D0=
+=BB=D1=8B.
+</p>
+
+<p>
+=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D1=80=D0=B8 =D0=B5=D1=91 =D0=B2=D1=8B=D0=BF=
+=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=B8=D0=B8 =D0=BD=D0=B5 =D0=B2=D0=BE=D0=B7=
+=D0=BD=D0=B8=D0=BA=D0=BD=D0=B5=D1=82 =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA, =
+=D1=82=D0=BE =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=BC=
+=D0=BE=D0=B6=D0=BD=D0=BE =D1=81=D0=BC=D0=B5=D0=BB=D0=BE =D0=B2=D0=BD=D0=B5=
+=D0=B4=D1=80=D1=8F=D1=82=D1=8C =D0=B2 =D1=81=D0=B0=D0=BC=D0=B8 =D1=84=D0=B0=
+=D0=B9=D0=BB=D1=8B. =D0=94=D0=BB=D1=8F =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=
+=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D0=BA=D0=BE=D0=BC=D0=
+=B0=D0=BD=D0=B4=D1=83:
+</p>
+<pre class=3D"code">patch -p1 -i patch-2.6.x.y</pre>
+
+<p>
+=D0=B3=D0=B4=D0=B5 2.6.x.y - =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D0=BF=D0=
+=B0=D1=82=D1=87=D0=B0 =D1=8F=D0=B4=D1=80=D0=B0. =D0=95=D1=81=D0=BB=D0=B8 =
+=D0=BD=D0=B5 =D0=B1=D1=8B=D0=BB=D0=BE =D0=BD=D0=B8=D0=BA=D0=B0=D0=BA=D0=B8=
+=D1=85 =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA, =D0=B7=D0=BD=D0=B0=D1=87=D0=B8=
+=D1=82 =D0=BA =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D0=BE=D0=BC=D1=83 =D0=BA=
+=D0=BE=D0=B4=D1=83 =D0=B1=D1=8B=D0=BB =D1=83=D1=81=D0=BF=D0=B5=D1=88=D0=BD=
+=D0=BE =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D1=91=D0=BD =D0=BF=D0=B0=D1=82=
+=D1=87.
+</p>
+<div class=3D"notewarning"><strong>=D0=92=D0=BD=D0=B8=D0=BC=D0=B0=D0=BD=D0=
+=B8=D0=B5!</strong> =D0=9F=D0=B5=D1=80=D0=B5=D0=B4 =D1=82=D0=B5=D0=BC, =D0=
+=BA=D0=B0=D0=BA =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D1=8F=D1=82=D1=8C =D0=
+=BF=D0=B0=D1=82=D1=87, =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=
+=B5 =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B8=D0=B5 =D0=B4=D0=B5=D0=
+=B9=D1=81=D1=82=D0=B2=D0=B8=D1=8F:
+1. =D0=A1=D0=BA=D0=B0=D1=87=D0=B0=D0=B9=D1=82=D0=B5 =D1=81 <a href=3D"http:=
+//www.kernel.org/" class=3D"urlextern" title=3D"http://www.kernel.org" rel=
+=3D"nofollow">http://www.kernel.org</a> =D0=BF=D0=B0=D1=82=D1=87 =D1=82=D0=
+=BE=D0=B9 =D0=B6=D0=B5 =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D0=B8, =D1=87=D1=82=
+=D0=BE =D0=B8 =D0=B2=D0=B0=D1=88=D0=B8=D1=85 =D0=B8=D1=81=D1=85=D0=BE=D0=B4=
+=D0=BD=D0=B8=D0=BA=D0=BE=D0=B2.
+2. =D0=92=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D1=81=D0=BB=D0=
+=B5=D0=B4=D1=83=D1=8E=D1=89=D1=83=D1=8E =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=
+=B4=D1=83:
+<pre class=3D"code">patch -p1 -R &lt;patch-2.6.x.y</pre>
+
+<p>
+=D0=B3=D0=B4=D0=B5 2.6.x.y - =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D0=BF=D0=
+=B0=D1=82=D1=87=D0=B0 =D0=B8 =D0=B2=D0=B0=D1=88=D0=B8=D1=85 =D0=B8=D1=81=D1=
+=85=D0=BE=D0=B4=D0=BD=D0=B8=D0=BA=D0=BE=D0=B2
+</p>
+
+</div>
+</div>
+
+<h2 class=3D"sectionedit5" id=3D"=D1=88=D0=B0=D0=B3_4_=D0=BA=D0=BE=D0=BD=D1=
+=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D1=8F_=D0=B1=D1=83=D0=B4=D1=
+=83=D1=89=D0=B5=D0=B9_=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8_=D1=8F=D0=B4=D1=
+=80=D0=B0">=D0=A8=D0=B0=D0=B3 4. =D0=9A=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=
+=D1=80=D0=B0=D1=86=D0=B8=D1=8F =D0=B1=D1=83=D0=B4=D1=83=D1=89=D0=B5=D0=B9 =
+=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D1=8F=D0=B4=D1=80=D0=B0</h2>
+<div class=3D"level2">
+
+<p>
+=D0=9F=D0=B5=D1=80=D0=B5=D0=B9=D0=B4=D0=B8=D1=82=D0=B5 =D0=B2 =D0=BF=D0=B0=
+=D0=BF=D0=BA=D1=83, =D0=BA=D1=83=D0=B4=D0=B0 =D0=B2=D1=8B =D1=80=D0=B0=D1=
+=81=D0=BF=D0=B0=D0=BA=D0=BE=D0=B2=D0=B0=D0=BB=D0=B8 =D1=8F=D0=B4=D1=80=D0=
+=BE, =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D0=B2 =D0=BA=D0=BE=D0=BC=D0=
+=B0=D0=BD=D0=B4=D1=83
+</p>
+<pre class=3D"code">cd ~/linux-2.6.x.y</pre>
+
+<p>
+=D0=B3=D0=B4=D0=B5 2.6.x.y - =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D0=B7=D0=
+=B0=D0=B3=D1=80=D1=83=D0=B6=D0=B5=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=B2=D0=
+=B0=D0=BC=D0=B8 =D1=8F=D0=B4=D1=80=D0=B0.
+</p>
+
+<p>
+=D0=9D=D0=B0 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D0=BC=D0=BE=D0=BC=D0=B5=
+=D0=BD=D1=82 =D0=B2=D1=8B =D1=83=D0=B6=D0=B5 =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=
+=D1=8B =D0=B1=D1=8B=D0=BB=D0=B8 =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=
+=D0=B8=D1=82=D1=8C=D1=81=D1=8F =D1=81 =D0=BC=D0=B5=D1=82=D0=BE=D0=B4=D0=BE=
+=D0=BC =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=
+=D0=B8 =D1=8F=D0=B4=D1=80=D0=B0 (=D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5=D1=
+=82, =D1=82=D0=BE =D0=BE=D0=B7=D0=BD=D0=B0=D0=BA=D0=BE=D0=BC=D1=8C=D1=82=D0=
+=B5=D1=81=D1=8C =D1=81 =D0=BD=D0=B8=D0=BC=D0=B8 =D0=B2 =D1=80=D0=B0=D0=B7=
+=D0=B4=D0=B5=D0=BB=D0=B5 =C2=AB=D0=9F=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=
+=D0=B8=D0=B5 =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D1=8B=
+=D1=85 =D0=B4=D0=BB=D1=8F =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D0=BF=D0=B0=
+=D0=BA=D0=B5=D1=82=D0=BE=D0=B2=C2=BB. =D0=92 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=
+=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D0=B8 =D0=BE=D1=82 =D1=8D=D1=82=D0=BE=D0=B3=
+=D0=BE, =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D1=81=D0=BB=
+=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D1=83=D1=8E =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=
+=D0=B4=D1=83 =D0=B4=D0=BB=D1=8F =D0=B7=D0=B0=D0=BF=D1=83=D1=81=D0=BA=D0=B0 =
+=D0=B2=D1=8B=D0=B1=D1=80=D0=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=B2=D0=B0=
+=D0=BC=D0=B8 =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=B0 =D0=BA=D0=BE=D0=BD=
+=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8:
+</p>
+<ul>
+<li class=3D"level"><div class=3D"li">
+  <strong>config</strong> - =D1=82=D1=80=D0=B0=D0=B4=D0=B8=D1=86=D0=B8=D0=
+=BE=D0=BD=D0=BD=D1=8B=D0=B9 =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1 =D0=BA=D0=
+=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=
+=D0=B8=D1=8F. =D0=9F=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B0 =D0=B2=
+=D1=8B=D0=B2=D0=BE=D0=B4=D0=B8=D1=82 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=
+=D1=82=D1=80=D1=8B =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=
+=D1=86=D0=B8=D0=B8 =D0=BF=D0=BE =D0=BE=D0=B4=D0=BD=D0=BE=D0=BC=D1=83, =D0=
+=BF=D1=80=D0=B5=D0=B4=D0=BB=D0=B0=D0=B3=D0=B0=D1=8F =D0=B2=D0=B0=D0=BC =D1=
+=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=B8=D1=82=D1=8C =D0=B4=D0=BB=D1=
+=8F =D0=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=B3=D0=BE =D0=B8=D0=B7 =D0=BD=D0=B8=D1=
+=85 =D1=81=D0=B2=D0=BE=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=
+=B5. =D0=92=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BA=D0=
+=BE=D0=BC=D0=B0=D0=BD=D0=B4=D0=BE=D0=B9 <pre class=3D"code">make config</pr=
+e>
+
+<p>
+.=20
+</p></div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>oldconfig</strong> - =D1=84=D0=B0=D0=B9=D0=BB =D0=BA=D0=BE=D0=BD=
+=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D1=81=D0=BE=D0=B7=
+=D0=B4=D0=B0=D1=91=D1=82=D1=81=D1=8F =D0=B0=D0=B2=D1=82=D0=BE=D0=BC=D0=B0=
+=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8, =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=
+=D1=8B=D0=B2=D0=B0=D1=8F=D1=81=D1=8C =D0=BD=D0=B0 =D1=82=D0=B5=D0=BA=D1=83=
+=D1=89=D0=B5=D0=B9 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=
+=D1=86=D0=B8=D0=B8 =D1=8F=D0=B4=D1=80=D0=B0. =D0=A0=D0=B5=D0=BA=D0=BE=D0=BC=
+=D0=B5=D0=BD=D0=B4=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=BD=
+=D0=B0=D1=87=D0=B8=D0=BD=D0=B0=D1=8E=D1=89=D0=B8=D1=85. =D0=92=D1=8B=D0=B7=
+=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=
+=D0=B4=D0=BE=D0=B9=20
+<p></p>
+<pre class=3D"code">make oldconfig</pre>
+
+<p>
+
+</p></div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>defconfig</strong> - =D1=84=D0=B0=D0=B9=D0=BB =D0=BA=D0=BE=D0=BD=
+=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D1=81=D0=BE=D0=B7=
+=D0=B4=D0=B0=D1=91=D1=82=D1=81=D1=8F =D0=B0=D0=B2=D1=82=D0=BE=D0=BC=D0=B0=
+=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8, =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=
+=D1=8B=D0=B2=D0=B0=D1=8F=D1=81=D1=8C =D0=BD=D0=B0 =D0=B7=D0=BD=D0=B0=D1=87=
+=D0=B5=D0=BD=D0=B8=D1=8F=D1=85 =D0=BF=D0=BE-=D1=83=D0=BC=D0=BE=D0=BB=D1=87=
+=D0=B0=D0=BD=D0=B8=D1=8E =D0=B4=D0=BB=D1=8F =D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=
+=D0=B9 =D0=BA=D0=BE=D0=BD=D0=BA=D1=80=D0=B5=D1=82=D0=BD=D0=BE=D0=B9 =D0=B0=
+=D1=80=D1=85=D0=B8=D1=82=D0=B5=D0=BA=D1=82=D1=83=D1=80=D1=8B. =D0=92=D1=8B=
+=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BA=D0=BE=D0=BC=D0=B0=
+=D0=BD=D0=B4=D0=BE=D0=B9=20
+<p></p>
+<pre class=3D"code">make defconfig</pre>
+
+<p>
+
+</p></div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>menuconfig</strong> - =D0=BF=D1=81=D0=B5=D0=B2=D0=B4=D0=BE=D0=B3=
+=D1=80=D0=B0=D1=84=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=B9 =D0=B8=D0=BD=
+=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=B9=D1=81 =D1=80=D1=83=D1=87=D0=BD=D0=BE=
+=D0=B9 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=
+=D0=B8, =D0=BD=D0=B5 =D1=82=D1=80=D0=B5=D0=B1=D1=83=D0=B5=D1=82 =D0=BF=D0=
+=BE=D1=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=
+=D0=BE=D0=B3=D0=BE =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 =D0=B7=D0=BD=D0=B0=D1=87=
+=D0=B5=D0=BD=D0=B8=D0=B9 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=
+=D0=BE=D0=B2. =D0=A0=D0=B5=D0=BA=D0=BE=D0=BC=D0=B5=D0=BD=D0=B4=D1=83=D0=B5=
+=D1=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=
+=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=B2 =D1=82=D0=B5=D1=80=D0=BC=
+=D0=B8=D0=BD=D0=B0=D0=BB=D0=B5. =D0=92=D1=8B=D0=B7=D0=BE=D0=B2:=20
+<p></p>
+<pre class=3D"code">make menuconfig</pre>
+
+<p>
+
+</p></div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>gconfig</strong> =D0=B8 <strong>xconfig</strong> - =D0=B3=D1=80=D0=
+=B0=D1=84=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=B5 =D0=BA=D0=BE=D0=BD=D1=
+=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=82=D0=BE=D1=80=D1=8B =D0=B4=D0=BB=D1=
+=8F =D1=80=D1=83=D1=87=D0=BD=D0=BE=D0=B9 =D0=BD=D0=B0=D1=81=D1=82=D1=80=D0=
+=BE=D0=B9=D0=BA=D0=B8. =D0=92=D1=8B=D0=B7=D0=BE=D0=B2:=20
+<p></p>
+<pre class=3D"code">make gconfig</pre>
+
+<p>
+ =D0=B8=20
+</p>
+<pre class=3D"code">make xconfig</pre>
+
+<p>
+ =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D0=B5=D0=BD=
+=D0=BD=D0=BE
+</p></div></li>
+<li class=3D"level"><div class=3D"li">
+ <strong>localmodconfig</strong> =D0=B8 <strong>localyesconfig</strong> - =
+=D0=B0=D0=B2=D1=82=D0=BE=D0=BC=D0=B0=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=
+=B8=D0=B5 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=82=D0=
+=BE=D1=80=D1=8B. =D0=9A=D0=BE=D0=BD=D1=84=D0=B8=D0=B3 =D1=81=D0=BE=D0=B7=D0=
+=B4=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BD=D0=B0 =D0=BE=D1=81=D0=BD=D0=BE=D0=
+=B2=D0=B5 =D0=B2=D1=8B=D0=B7=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D1=85 =D0=B2 =D0=
+=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85 =D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=D1=82 =D0=
+=BC=D0=BE=D0=B4=D1=83=D0=BB=D0=B5=D0=B9 =D0=B8 =D0=B7=D0=B0=D0=BF=D1=83=D1=
+=89=D0=B5=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D1=8F=D0=B4=D1=80=D0=B0. =D0=A0=D0=
+=B0=D0=B7=D0=BD=D0=B8=D1=86=D0=B0 =D0=BC=D0=B5=D0=B6=D0=B4=D1=83 =D1=8D=D1=
+=82=D0=B8=D0=BC=D0=B8 =D0=B4=D0=B2=D1=83=D0=BC=D1=8F =D0=BA=D0=BE=D0=BD=D1=
+=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=82=D0=BE=D1=80=D0=B0=D0=BC=D0=B8 =D0=
+=B2 =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=B5 =D0=BC=D0=
+=BE=D0=B4=D1=83=D0=BB=D0=B5=D0=B9. =D0=92 =D0=BF=D0=B5=D1=80=D0=B2=D0=BE=D0=
+=BC =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=B5 =D0=B8=D1=85 =D0=B1=D1=83=D0=B4=D0=
+=B5=D1=82 =D0=BD=D0=B5 =D0=BC=D0=B5=D0=BD=D0=B5=D0=B5 50% =D1=8F=D0=B4=D1=
+=80=D0=B0, =D0=B0 =D0=B2=D0=BE-=D0=B2=D1=82=D0=BE=D1=80=D0=BE=D0=BC =D0=BD=
+=D0=B5 =D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=B5 2 =D0=BC=D0=BE=D0=B4=D1=83=D0=
+=BB=D0=B5=D0=B9. =D0=92=D1=8B=D0=B7=D0=BE=D0=B2:=20
+<p></p>
+<pre class=3D"code">make localmodconfig</pre>
+
+<p>
+ =D0=B8=20
+</p>
+<pre class=3D"code">make localyesconfig</pre>
+
+<p>
+ =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D0=B5=D0=BD=
+=D0=BD=D0=BE
+</p>
+
+</div></li>
+</ul>
+
+
+<p>
+=D0=9F=D0=BE=D1=81=D0=BB=D0=B5 =D0=B2=D1=8B=D0=B7=D0=BE=D0=B2=D0=B0 =D1=81=
+=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=89=D0=
+=B0=D1=8F =D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B0 =D0=BA=D0=
+=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D0=B1=D1=
+=83=D0=B4=D0=B5=D1=82 =D0=B7=D0=B0=D0=BF=D1=83=D1=89=D0=B5=D0=BD=D0=B0. =D0=
+=9F=D1=80=D0=BE=D0=B8=D0=B7=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=B5 =D0=BD=D0=
+=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D1=8B=D0=B5 =D0=BD=D0=B0=D1=
+=81=D1=82=D1=80=D0=BE=D0=B9=D0=BA=D0=B8 =D0=B2 =D1=81=D0=BE=D0=BE=D1=82=D0=
+=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D0=B8=D0=B8 =D1=81 =D0=B2=D0=B0=D1=88=D0=
+=B8=D0=BC=D0=B8 =D0=BF=D0=BE=D1=82=D1=80=D0=B5=D0=B1=D0=BD=D0=BE=D1=81=D1=
+=82=D1=8F=D0=BC=D0=B8, =D1=81=D0=BE=D1=85=D1=80=D0=B0=D0=BD=D0=B8=D1=82=D0=
+=B5 =D1=84=D0=B0=D0=B9=D0=BB =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=D1=
+=80=D0=B0=D1=86=D0=B8=D0=B8 =D0=B8 =D0=BF=D0=B5=D1=80=D0=B5=D1=85=D0=BE=D0=
+=B4=D0=B8=D1=82=D0=B5 =D0=BA =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=
+=B5=D0=BC=D1=83 =D1=88=D0=B0=D0=B3=D1=83.
+</p>
+
+</div>
+
+<h2 class=3D"sectionedit6" id=3D"=D1=88=D0=B0=D0=B3_5_=D1=81=D0=B1=D0=BE=D1=
+=80=D0=BA=D0=B0_=D1=8F=D0=B4=D1=80=D0=B0">=D0=A8=D0=B0=D0=B3 5. =D0=A1=D0=
+=B1=D0=BE=D1=80=D0=BA=D0=B0 =D1=8F=D0=B4=D1=80=D0=B0</h2>
+<div class=3D"level2">
+
+<p>
+=D0=98=D1=82=D0=B0=D0=BA, =D0=BF=D1=80=D0=B8=D0=B3=D0=BE=D1=82=D0=BE=D0=B2=
+=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D0=B7=D0=B0=D0=B2=D0=B5=D1=80=D1=88=D0=B5=
+=D0=BD=D1=8B. =D0=A2=D0=B5=D0=BF=D0=B5=D1=80=D1=8C =D0=BC=D0=BE=D0=B6=D0=BD=
+=D0=BE =D0=B7=D0=B0=D0=BF=D1=83=D1=81=D1=82=D0=B8=D1=82=D1=8C =D0=BF=D1=80=
+=D0=BE=D1=86=D0=B5=D1=81=D1=81 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D1=8F=
+=D0=B4=D1=80=D0=B0. =D0=A7=D1=82=D0=BE=D0=B1=D1=8B =D1=8D=D1=82=D0=BE =D1=
+=81=D0=B4=D0=B5=D0=BB=D0=B0=D1=82=D1=8C, =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=
+=BD=D0=B8=D1=82=D0=B5 =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=83:
+</p>
+<pre class=3D"code">fakeroot make-kpkg -j 5 --initrd --append-to-version=3D=
+-custom kernel_image kernel_headers #-j &lt;=D0=BA=D0=BE=D0=BB=D0=B8=D1=87=
+=D0=B5=D1=81=D1=82=D0=B2=D0=BE =D1=8F=D0=B4=D0=B5=D1=80 =D0=BF=D1=80=D0=BE=
+=D1=86=D0=B5=D1=81=D1=81=D0=BE=D1=80=D0=B0&gt;+1</pre>
+<div class=3D"noteimportant">=D0=A1=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =D1=8F=D0=
+=B4=D1=80=D0=B0 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B7=D0=B0=D0=BD=D0=B8=D0=
+=BC=D0=B0=D1=82=D1=8C =D0=BE=D1=82 20 =D0=BC=D0=B8=D0=BD=D1=83=D1=82 =D0=B4=
+=D0=BE =D0=BD=D0=B5=D1=81=D0=BA=D0=BE=D0=BB=D1=8C=D0=BA=D0=B8=D1=85 =D1=87=
+=D0=B0=D1=81=D0=BE=D0=B2 =D0=B2 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D0=BC=
+=D0=BE=D1=81=D1=82=D0=B8 =D0=BE=D1=82 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=
+=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D1=8F=D0=B4=D1=80=D0=B0 =D0=B8 =D1=82=
+=D0=B5=D1=85=D0=BD=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D1=85 =D0=BF=D0=B0=
+=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D0=BE=D0=B2 =D0=BA=D0=BE=D0=BC=D0=BF=
+=D1=8C=D1=8E=D1=82=D0=B5=D1=80=D0=B0. =D0=A1=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =
+=D0=BF=D1=80=D0=B8 =D0=BC=D0=BD=D0=BE=D0=B3=D0=BE=D0=B4=D0=B5=D1=80=D0=BD=
+=D0=BE=D0=BC =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81=D0=BE=D1=80=D0=B5 =
+=D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D0=B2 =D0=BD=D0=B5=
+=D1=81=D0=BA=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D1=80=D0=B0=D0=B7 =D0=B1=D1=8B=
+=D1=81=D1=82=D1=80=D0=B5=D0=B5
+</div>
+</div>
+
+<h2 class=3D"sectionedit7" id=3D"=D1=88=D0=B0=D0=B3_6_=D1=83=D1=81=D1=82=D0=
+=B0=D0=BD=D0=BE=D0=B2=D0=BA=D0=B0_=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=
+=B2_=D0=B8_=D0=B7=D0=B0=D0=B3=D0=BE=D0=BB=D0=BE=D0=B2=D0=BA=D0=BE=D0=B2_=D1=
+=8F=D0=B4=D1=80=D0=B0">=D0=A8=D0=B0=D0=B3 6. =D0=A3=D1=81=D1=82=D0=B0=D0=BD=
+=D0=BE=D0=B2=D0=BA=D0=B0 =D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2 =D0=B8 =
+=D0=B7=D0=B0=D0=B3=D0=BE=D0=BB=D0=BE=D0=B2=D0=BA=D0=BE=D0=B2 =D1=8F=D0=B4=
+=D1=80=D0=B0</h2>
+<div class=3D"level2">
+
+<p>
+=D0=9A=D0=BE=D0=B3=D0=B4=D0=B0 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =D1=8F=
+=D0=B4=D1=80=D0=B0 =D0=BF=D0=BE=D0=B4=D0=BE=D1=88=D0=BB=D0=B0 =D0=BA =D0=BA=
+=D0=BE=D0=BD=D1=86=D1=83, =D0=B2 =D0=B2=D0=B0=D1=88=D0=B5=D0=B9 =D0=B4=D0=
+=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B9 =D0=BF=D0=B0=D0=BF=D0=BA=D0=B5 =D0=
+=BF=D0=BE=D1=8F=D0=B2=D1=8F=D1=82=D1=81=D1=8F =D0=B4=D0=B2=D0=B0 deb-=D0=BF=
+=D0=B0=D0=BA=D0=B5=D1=82=D0=B0. =D0=98=D1=85 =D0=B8 =D0=BD=D0=B5=D0=BE=D0=
+=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=
+=BE=D0=B2=D0=B8=D1=82=D1=8C. =D0=94=D0=BB=D1=8F =D1=8D=D1=82=D0=BE=D0=B3=D0=
+=BE =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D0=BA=D0=BE=D0=
+=BC=D0=B0=D0=BD=D0=B4=D1=8B:
+</p>
+<pre class=3D"code">cd ~/
+sudo dpkg -i linux-image-2.6.x.y-custom_2.6.x.y-custom-10.00.Custom_arc.deb
+sudo dpkg -i linux-headers-2.6.x.y-custom_2.6.x.y-custom-10.00.Custom_arc.d=
+eb</pre>
+
+<p>
+=D0=B3=D0=B4=D0=B5 2.6.x.y - =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D1=81=D0=
+=BE=D0=B1=D1=80=D0=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D1=8F=D0=B4=D1=80=D0=
+=B0, arc - =D0=B0=D1=80=D1=85=D0=B8=D1=82=D0=B5=D0=BA=D1=82=D1=83=D1=80=D0=
+=B0 =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81=D0=BE=D1=80=D0=B0 (i386 - 32=
+-=D0=B1=D0=B8=D1=82, amd64 - 64-=D0=B1=D0=B8=D1=82).<br>
+
+=D0=95=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B =D0=BD=D0=B5 =D0=B7=D0=BD=D0=B0=D0=B5=
+=D1=82=D0=B5 =D1=82=D0=BE=D1=87=D0=BD=D0=BE=D0=B3=D0=BE =D0=BD=D0=B0=D0=B7=
+=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0, =D0=B2=
+=D1=8B=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=B5 =D1=81=D0=BF=D0=B8=D1=81=D0=BE=
+=D0=BA =D1=84=D0=B0=D0=B9=D0=BB=D0=BE=D0=B2 =D0=B2 =D0=B4=D0=BE=D0=BC=D0=B0=
+=D1=88=D0=BD=D0=B5=D0=BC =D0=BA=D0=B0=D1=82=D0=B0=D0=BB=D0=BE=D0=B3=D0=B5 =
+=D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D0=BE=D0=B9
+</p>
+<pre class=3D"code">ls -l</pre>
+
+<p>
+=D0=B8 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B8=D1=82=D0=B5 =D1=8D=D1=82=D0=B8 =D1=81=
+=D0=B0=D0=BC=D1=8B=D0=B5 =D0=B4=D0=B2=D0=B0 =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=
+=D0=B0.
+</p>
+
+</div>
+
+<h2 class=3D"sectionedit8" id=3D"=D1=88=D0=B0=D0=B3_7_=D0=B3=D0=B5=D0=BD=D0=
+=B5=D1=80=D0=B0=D1=86=D0=B8=D1=8F_=D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D1=8C=D0=
+=BD=D0=BE=D0=B3=D0=BE_ram-=D0=B4=D0=B8=D1=81=D0=BA=D0=B0">=D0=A8=D0=B0=D0=
+=B3 7. =D0=93=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D1=8F =D0=BD=D0=B0=
+=D1=87=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE RAM-=D0=B4=D0=B8=D1=81=D0=
+=BA=D0=B0</h2>
+<div class=3D"level2">
+<div class=3D"noteclassic">=D0=92=D0=BD=D0=B8=D0=BC=D0=B0=D0=BD=D0=B8=D0=B5=
+! =D0=95=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B =D0=B2=D0=BE =D0=B2=D1=80=D0=B5=D0=
+=BC=D1=8F =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D1=8F=D0=B4=D1=80=D0=B0 =D0=
+=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=B8=D0=BB=D0=B8 =D0=BA=D0=BB=D1=8E=D1=87 =E2=
+=80=93initrd, =D1=8D=D1=82=D0=BE=D1=82 =D1=88=D0=B0=D0=B3 =D0=BC=D0=BE=D0=
+=B6=D0=BD=D0=BE =D0=BF=D1=80=D0=BE=D0=BF=D1=83=D1=81=D1=82=D0=B8=D1=82=D1=
+=8C.
+</div>
+<p>
+=D0=94=D0=BB=D1=8F =D0=BA=D0=BE=D1=80=D1=80=D0=B5=D0=BA=D1=82=D0=BD=D0=BE=
+=D0=B9 =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=8B Ubuntu =D1=82=D1=80=D0=B5=D0=B1=
+=D1=83=D0=B5=D1=82 =D0=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=B8=D1=8F =D0=BE=D0=B1=
+=D1=80=D0=B0=D0=B7=D0=B0 =D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=
+=D0=B3=D0=BE RAM-=D0=B4=D0=B8=D1=81=D0=BA=D0=B0. =D0=A7=D1=82=D0=BE=D0=B1=
+=D1=8B =D0=B5=D0=B3=D0=BE =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D1=82=D1=8C, =D0=
+=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D0=BA=D0=BE=D0=BC=D0=
+=B0=D0=BD=D0=B4=D1=83:
+</p>
+<pre class=3D"code">sudo update-initramfs -c -k 2.6.x.y-custom</pre>
+
+<p>
+=D0=B3=D0=B4=D0=B5 2.6.x.y - =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D1=81=D0=
+=BE=D0=B1=D1=80=D0=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D1=8F=D0=B4=D1=80=D0=
+=B0.
+</p>
+
+</div>
+
+<h2 class=3D"sectionedit9" id=3D"=D1=88=D0=B0=D0=B3_8_=D0=BE=D0=B1=D0=BD=D0=
+=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5_=D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=
+=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8_=D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=
+=B7=D1=87=D0=B8=D0=BA=D0=B0_grub">=D0=A8=D0=B0=D0=B3 8. =D0=9E=D0=B1=D0=BD=
+=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=
+=D0=B3=D1=83=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D0=B7=D0=B0=D0=B3=D1=80=D1=83=
+=D0=B7=D1=87=D0=B8=D0=BA=D0=B0 GRUB</h2>
+<div class=3D"level2">
+
+<p>
+=D0=94=D0=BB=D1=8F =D1=82=D0=BE=D0=B3=D0=BE, =D1=87=D1=82=D0=BE=D0=B1=D1=8B=
+ =D0=BD=D0=BE=D0=B2=D0=B0=D1=8F =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8F =D1=8F=
+=D0=B4=D1=80=D0=B0 =D0=B1=D1=8B=D0=BB=D0=B0 =D0=B4=D0=BE=D1=81=D1=82=D1=83=
+=D0=BF=D0=BD=D0=B0 =D0=B4=D0=BB=D1=8F =D0=B2=D1=8B=D0=B1=D0=BE=D1=80=D0=B0 =
+=D0=BF=D1=80=D0=B8 =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=BA=D0=B5 =D0=BA=
+=D0=BE=D0=BC=D0=BF=D1=8C=D1=8E=D1=82=D0=B5=D1=80=D0=B0, =D0=B2=D1=8B=D0=BF=
+=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=
+=D1=89=D1=83=D1=8E =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=83:
+</p>
+<pre class=3D"code">sudo update-grub</pre>
+
+<p>
+=D0=A4=D0=B0=D0=B9=D0=BB menu.lst (=D0=B4=D0=BB=D1=8F GRUB =D0=B2=D0=B5=D1=
+=80=D1=81=D0=B8=D0=B8 1) =D0=B8=D0=BB=D0=B8 grub.cfg (=D0=B4=D0=BB=D1=8F GR=
+UB =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D0=B8 2) =D0=BE=D0=B1=D0=BD=D0=BE=D0=B2=
+=D0=B8=D1=82=D1=81=D1=8F =D0=B2 =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=
+=D1=81=D1=82=D0=B2=D0=B8=D0=B8 =D1=81 =D0=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=B8=
+=D0=B5=D0=BC =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=
+=D0=BD=D1=8B=D1=85 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D0=BE=D0=BD=
+=D0=BD=D1=8B=D1=85 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC =D0=B8 =D0=BE=D0=B1=
+=D1=80=D0=B0=D0=B7=D0=BE=D0=B2 =D1=8F=D0=B4=D0=B5=D1=80.
+</p>
+<div class=3D"noteclassic">=D0=AD=D1=82=D0=BE=D1=82 =D1=88=D0=B0=D0=B3 =D1=
+=82=D0=BE=D0=B6=D0=B5 =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=BF=D1=80=D0=BE=D0=
+=BF=D1=83=D1=81=D1=82=D0=B8=D1=82=D1=8C, =D0=BF=D0=BE=D1=82=D0=BE=D0=BC=D1=
+=83 =D1=87=D1=82=D0=BE =D0=B2=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D1=83=
+=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BA=D0=B8 =D1=8F=D0=B4=D1=80=D0=B0 =
+=D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D0=B0 update-grub =D0=B2=D1=8B=D0=B7=
+=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F postinst-=D1=81=D0=BA=D1=80=D0=
+=B8=D0=BF=D1=82=D0=BE=D0=BC
+</div>
+</div>
+
+<h2 class=3D"sectionedit10" id=3D"=D1=88=D0=B0=D0=B3_9_=D0=BF=D1=80=D0=BE=
+=D0=B2=D0=B5=D1=80=D0=BA=D0=B0_=D1=8F=D0=B4=D1=80=D0=B0">=D0=A8=D0=B0=D0=B3=
+ 9. =D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=D0=B0 =D1=8F=D0=B4=D1=80=D0=
+=B0</h2>
+<div class=3D"level2">
+
+<p>
+=D0=A1=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =D0=B8 =D1=83=D1=81=D1=82=D0=B0=D0=BD=
+=D0=BE=D0=B2=D0=BA=D0=B0 =D1=8F=D0=B4=D1=80=D0=B0 =D1=83=D1=81=D0=BF=D0=B5=
+=D1=88=D0=BD=D0=BE =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D1=8B! =
+=D0=A2=D0=B5=D0=BF=D0=B5=D1=80=D1=8C =D0=BF=D0=B5=D1=80=D0=B5=D0=B7=D0=B0=
+=D0=B3=D1=80=D1=83=D0=B7=D0=B8=D1=82=D0=B5 =D0=BA=D0=BE=D0=BC=D0=BF=D1=8C=
+=D1=8E=D1=82=D0=B5=D1=80 =D0=B8 =D0=BF=D0=BE=D0=BF=D1=80=D0=BE=D0=B1=D1=83=
+=D0=B9=D1=82=D0=B5 =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=B8=D1=82=D1=8C =
+=D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=83 =D1=81 =D0=BD=D0=BE=D0=B2=D1=8B=
+=D0=BC =D1=8F=D0=B4=D1=80=D0=BE=D0=BC.
+=D0=A7=D1=82=D0=BE=D0=B1=D1=8B =D1=83=D0=B4=D0=BE=D1=81=D1=82=D0=BE=D0=B2=
+=D0=B5=D1=80=D0=B8=D1=82=D1=8C=D1=81=D1=8F, =D1=87=D1=82=D0=BE =D1=81=D0=B8=
+=D1=81=D1=82=D0=B5=D0=BC=D0=B0 =D0=B7=D0=B0=D0=BF=D1=83=D1=89=D0=B5=D0=BD=
+=D0=B0 =D1=81 =D0=BD=D0=BE=D0=B2=D1=8B=D0=BC =D1=8F=D0=B4=D1=80=D0=BE=D0=BC=
+, =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5 =D0=BA=D0=BE=D0=BC=
+=D0=B0=D0=BD=D0=B4=D1=83
+</p>
+<pre class=3D"code">uname -r</pre>
+
+<p>
+=D0=9E=D0=BD=D0=B0 =D0=B2=D1=8B=D0=B2=D0=B5=D0=B4=D0=B5=D1=82 =D0=BD=D0=B0 =
+=D1=8D=D0=BA=D1=80=D0=B0=D0=BD =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=
+=D1=83=D0=B5=D0=BC=D1=83=D1=8E =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D1=8E =D1=8F=
+=D0=B4=D1=80=D0=B0.
+</p>
+
+<p>
+=D0=95=D1=81=D0=BB=D0=B8 =D0=B2=D1=81=D1=91 =D1=81=D0=B4=D0=B5=D0=BB=D0=B0=
+=D0=BD=D0=BE =D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D1=8C=D0=BD=D0=BE, =D1=82=
+=D0=BE =D0=B2=D1=8B =D0=BC=D0=BE=D0=B6=D0=B5=D1=82=D0=B5 =D1=83=D0=B4=D0=B0=
+=D0=BB=D0=B8=D1=82=D1=8C =D0=B0=D1=80=D1=85=D0=B8=D0=B2=D1=8B =D1=81 =D0=B8=
+=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=BC =D0=BA=D0=BE=D0=B4=D0=BE=D0=BC =
+=D0=B8 =D0=B2=D0=B5=D1=81=D1=8C =D0=BA=D0=B0=D1=82=D0=B0=D0=BB=D0=BE=D0=B3 =
+linux-2.6.x.y =D0=B2 =D0=B2=D0=B0=D1=88=D0=B5=D0=B9 =D0=B4=D0=BE=D0=BC=D0=
+=B0=D1=88=D0=BD=D0=B5=D0=B9 =D0=BF=D0=B0=D0=BF=D0=BA=D0=B5. =D0=AD=D1=82=D0=
+=BE =D0=BE=D1=81=D0=B2=D0=BE=D0=B1=D0=BE=D0=B4=D0=B8=D1=82 =D0=BE=D0=BA=D0=
+=BE=D0=BB=D0=BE 5 =D0=93=D0=91 =D0=BD=D0=B0 =D0=B2=D0=B0=D1=88=D0=B5=D0=BC =
+=D0=B6=D1=91=D1=81=D1=82=D0=BA=D0=BE=D0=BC =D0=B4=D0=B8=D1=81=D0=BA=D0=B5 (=
+=D1=80=D0=B0=D0=B7=D0=BC=D0=B5=D1=80 =D0=BE=D1=81=D0=B2=D0=BE=D0=B1=D0=BE=
+=D0=B6=D0=B4=D0=B0=D0=B5=D0=BC=D0=BE=D0=B3=D0=BE =D0=BF=D1=80=D0=BE=D1=81=
+=D1=82=D1=80=D0=B0=D0=BD=D1=81=D1=82=D0=B2=D0=B0 =D0=B7=D0=B0=D0=B2=D0=B8=
+=D1=81=D0=B8=D1=82 =D0=BE=D1=82 =D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=
+=D1=80=D0=BE=D0=B2 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8).
+</p>
+
+<p>
+<strong> =D0=9D=D0=B0 =D1=8D=D1=82=D0=BE=D0=BC =D0=BF=D1=80=D0=BE=D1=86=D0=
+=B5=D1=81=D1=81 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D0=B8 =D1=83=D1=81=D1=
+=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BA=D0=B8 =D0=B7=D0=B0=D0=B2=D0=B5=D1=80=D1=
+=88=D1=91=D0=BD, =D0=BF=D0=BE=D0=B7=D0=B4=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=D1=
+=8E!</strong>
+</p>
+
+</div>
+
+<h2 class=3D"sectionedit11" id=3D"=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B8">=D0=
+=A1=D1=81=D1=8B=D0=BB=D0=BA=D0=B8</h2>
+<div class=3D"level2">
+<ul>
+<li class=3D"level"><div class=3D"li">
+ <a href=3D"https://help.ubuntu.com/community/Kernel/Compile" class=3D"urle=
+xtern" title=3D"https://help.ubuntu.com/community/Kernel/Compile" rel=3D"no=
+follow">https://help.ubuntu.com/community/Kernel/Compile</a>
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ <a href=3D"https://wiki.ubuntu.com/Kernel/BuildYourOwnKernel" class=3D"url=
+extern" title=3D"https://wiki.ubuntu.com/Kernel/BuildYourOwnKernel" rel=3D"=
+nofollow">https://wiki.ubuntu.com/Kernel/BuildYourOwnKernel</a>
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ <a href=3D"https://wiki.ubuntu.com/Kernel/Dev/KernelGitGuide" class=3D"url=
+extern" title=3D"https://wiki.ubuntu.com/Kernel/Dev/KernelGitGuide" rel=3D"=
+nofollow">https://wiki.ubuntu.com/Kernel/Dev/KernelGitGuide</a>
+</div></li>
+</ul>
+
+
+</div>
+
+<h2 class=3D"sectionedit12" id=3D"todo">ToDo</h2>
+<div class=3D"level2">
+<ul>
+<li class=3D"level"><div class=3D"li">
+ =D0=98=D1=81=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=B4=D1=83=D0=B1=
+=D0=BB=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D1=81=D0=BF=D0=B8=
+=D1=81=D0=BA=D0=B0 =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4 <code>make config</=
+code> =D0=B2 =D0=B4=D0=B2=D1=83=D1=85 =D1=80=D0=B0=D0=B7=D0=B4=D0=B5=D0=BB=
+=D0=B0=D1=85 =D1=8D=D1=82=D0=BE=D0=B9 =D1=81=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=
+=D0=B8 (=D0=BF=D0=B5=D1=80=D0=B5=D0=BD=D0=B5=D1=81=D1=82=D0=B8 =D0=B8=D0=B7=
+ =C2=AB=D0=A8=D0=B0=D0=B3 2: =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D1=8B =D0=B4=D0=
+=BB=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=86=D0=B8=D0=B8=C2=
+=BB =D0=B2 =C2=AB=D0=A8=D0=B0=D0=B3 4: =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=
+=D1=83=D1=80=D0=B0=D1=86=D0=B8=D1=8F=C2=BB)
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ =D0=9D=D0=B0=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C =D0=B8=D0=BD=D1=81=D1=82=
+=D1=80=D1=83=D0=BA=D1=86=D0=B8=D1=8E =D0=BF=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=
+=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8E =D0=BA=D0=B0=D0=B6=
+=D0=B4=D0=BE=D0=B3=D0=BE =D0=B8=D0=B7 =D0=B8=D0=BD=D1=82=D0=B5=D1=80=D1=84=
+=D0=B5=D0=B9=D1=81=D0=BE=D0=B2 =D0=BA=D0=BE=D0=BD=D1=84=D0=B8=D0=B3=D1=83=
+=D1=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F (=D1=81=D0=BE =D1=81=
+=D0=BA=D1=80=D0=B8=D0=BD=D1=88=D0=BE=D1=82=D0=B0=D0=BC=D0=B8)
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ =D0=97=D0=B0=D1=81=D0=BD=D1=8F=D1=82=D1=8C =D1=81=D0=BA=D1=80=D0=B8=D0=BD=
+=D0=BA=D0=B0=D1=81=D1=82 =D0=BF=D0=BE =D1=82=D0=B5=D0=BC=D0=B5 (=D0=B2 =D1=
+=80=D0=B0=D0=BC=D0=BA=D0=B0=D1=85 =D0=BF=D1=80=D0=BE=D0=B5=D0=BA=D1=82=D0=
+=B0 <a href=3D"http://team.ubuntu.ru/projects/videoguide" class=3D"urlexter=
+n" title=3D"http://team.ubuntu.ru/projects/videoguide" rel=3D"nofollow">"=
+=D0=92=D0=B8=D0=B4=D0=B5=D0=BE=D0=BA=D1=83=D1=80=D1=81 Ubuntu"</a>)
+</div></li>
+<li class=3D"level"><div class=3D"li">
+ =D0=9D=D0=B0=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C =D1=80=D0=B0=D0=B7=D0=B4=
+=D0=B5=D0=BB =D0=B2=D1=80=D0=BE=D0=B4=D0=B5 <abbr title=3D"Frequently Asked=
+ Questions">FAQ</abbr> =D0=B8=D0=BB=D0=B8 Troubleshooting
+</div></li>
+</ul>
+
+<div class=3D"tags"><span>
+	<a href=3D"https://help.ubuntu.ru/tag/howto?do=3Dshowtag&amp;tag=3Dhowto" =
+class=3D"wikilink1" title=3D"tag:howto" rel=3D"tag">howto</a>,
+	<a href=3D"https://help.ubuntu.ru/tag/linux?do=3Dshowtag&amp;tag=3DLinux" =
+class=3D"wikilink1" title=3D"tag:linux" rel=3D"tag">Linux</a>,
+	<a href=3D"https://help.ubuntu.ru/tag/%D1%8F%D0%B4%D1%80%D0%BE?do=3Dshowta=
+g&amp;tag=3D%D0%AF%D0%B4%D1%80%D0%BE" class=3D"wikilink1" title=3D"tag:=D1=
+=8F=D0=B4=D1=80=D0=BE" rel=3D"tag">=D0=AF=D0=B4=D1=80=D0=BE</a>,
+	<a href=3D"https://help.ubuntu.ru/tag/%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE_%D1%8=
+3%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%82%D1%8C?do=3Dshowtag&amp;tag=3D%D0%9C%D=
+0%BE%D0%B6%D0%BD%D0%BE_%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%82%D1%8C" cl=
+ass=3D"wikilink1" title=3D"tag:=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE_=D1=83=D0=BB=
+=D1=83=D1=87=D1=88=D0=B8=D1=82=D1=8C" rel=3D"tag">=D0=9C=D0=BE=D0=B6=D0=BD=
+=D0=BE =D1=83=D0=BB=D1=83=D1=87=D1=88=D0=B8=D1=82=D1=8C</a>,
+	<a href=3D"https://help.ubuntu.ru/tag/fixme?do=3Dshowtag&amp;tag=3DFIXME" =
+class=3D"wikilink1" title=3D"tag:fixme" rel=3D"tag">FIXME</a>
+</span></div>
+
+</div>
+
+							<div class=3D"clearer"></div>
+						</div>
+					</div>
+					<div class=3D"clearer"></div>
+				</div>
+						<!-- /Main -->
+		</div></div>
+		<!-- Footer -->
+		<div id=3D"__site-footer">
+	<ul>
+		<li><a href=3D"https://ubuntu.ru/" title=3D"=D0=93=D0=BB=D0=B0=D0=B2=D0=
+=BD=D0=B0=D1=8F =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D0=B0 =D1=81=D0=
+=B0=D0=B9=D1=82=D0=B0 ubuntu.ru">=D0=A1=D0=B0=D0=B9=D1=82</a></li>
+		<li><a href=3D"https://ubuntu.ru/about" title=3D"=D0=9E=D0=BF=D0=B8=D1=81=
+=D0=B0=D0=BD=D0=B8=D0=B5 =D0=B8 =D0=BE=D1=81=D0=BE=D0=B1=D0=B5=D0=BD=D0=BD=
+=D0=BE=D1=81=D1=82=D0=B8 =D0=B4=D0=B8=D1=81=D1=82=D1=80=D0=B8=D0=B1=D1=83=
+=D1=82=D0=B8=D0=B2=D0=B0 Ubuntu">=D0=9E=D0=B1 Ubuntu</a></li>
+		<li><a href=3D"https://ubuntu.ru/get" title=3D"=D0=A1=D1=82=D1=80=D0=B0=
+=D0=BD=D0=B8=D1=86=D0=B0 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=
+=D1=8F =D0=B4=D0=B8=D1=81=D1=82=D1=80=D0=B8=D0=B1=D1=83=D1=82=D0=B8=D0=B2=
+=D0=B0 Ubuntu">=D0=A1=D0=BA=D0=B0=D1=87=D0=B0=D1=82=D1=8C Ubuntu</a></li>
+		<li><a href=3D"https://ubuntu.ru/family" title=3D"=D0=A1=D0=BF=D0=B8=D1=
+=81=D0=BE=D0=BA =D0=B4=D0=B8=D1=81=D1=82=D1=80=D0=B8=D0=B1=D1=83=D1=82=D0=
+=B8=D0=B2=D0=BE=D0=B2, =D0=B2=D1=85=D0=BE=D0=B4=D1=8F=D1=89=D0=B8=D1=85 =D0=
+=B2 =D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=BE=D0=B5 =D1=81=D0=B5=D0=BC=D0=B5=D0=
+=B9=D1=81=D1=82=D0=B2=D0=BE Ubuntu">=D0=A1=D0=B5=D0=BC=D0=B5=D0=B9=D1=81=D1=
+=82=D0=B2=D0=BE Ubuntu</a></li>
+		<li><a href=3D"https://ubuntu.ru/news" title=3D"=D0=9D=D0=BE=D0=B2=D0=BE=
+=D1=81=D1=82=D0=B8 =D1=80=D1=83=D1=81=D1=81=D0=BA=D0=BE=D1=8F=D0=B7=D1=8B=
+=D1=87=D0=BD=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D1=81=
+=D1=82=D0=B2=D0=B0 Ubuntu">=D0=9D=D0=BE=D0=B2=D0=BE=D1=81=D1=82=D0=B8</a></=
+li>
+	</ul>
+	<ul>
+		<li><a href=3D"https://forum.ubuntu.ru/" title=3D"=D0=A4=D0=BE=D1=80=D1=
+=83=D0=BC =D1=80=D1=83=D1=81=D1=81=D0=BA=D0=BE=D1=8F=D0=B7=D1=8B=D1=87=D0=
+=BD=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D1=81=D1=82=D0=
+=B2=D0=B0 Ubuntu. =D0=9D=D0=B0 =D0=BD=D1=91=D0=BC =D0=B2=D1=8B =D0=BC=D0=BE=
+=D0=B6=D0=B5=D1=82=D0=B5 =D0=B7=D0=B0=D0=B4=D0=B0=D1=82=D1=8C =D0=B8=D0=BD=
+=D1=82=D0=B5=D1=80=D0=B5=D1=81=D1=83=D1=8E=D1=89=D0=B8=D0=B5 =D0=B2=D0=B0=
+=D1=81 =D0=B2=D0=BE=D0=BF=D1=80=D0=BE=D1=81=D1=8B =D0=B8 =D0=BF=D0=BE=D0=BB=
+=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BF=D0=BE=D0=BC=D0=BE=D1=89=D1=8C =D0=BE=
+=D1=82 =D0=B4=D1=80=D1=83=D0=B3=D0=B8=D1=85 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=
+=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=D0=B9 Ubuntu.">=D0=A4=D0=BE=D1=
+=80=D1=83=D0=BC</a></li>
+		<li><a href=3D"https://forum.ubuntu.ru/index.php?action=3Dhelp" title=3D"=
+=D0=9F=D0=BE=D0=BC=D0=BE=D1=89=D1=8C =D0=BF=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=
+=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8E =D1=84=D0=BE=D1=80=
+=D1=83=D0=BC=D0=B0">=D0=9F=D0=BE=D0=BC=D0=BE=D1=89=D1=8C</a></li>
+		<li><a href=3D"https://forum.ubuntu.ru/index.php?action=3Drules" title=3D=
+"=D0=9F=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D0=B0 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=84=D0=BE=D1=80=D1=83=D0=BC=D0=BE=
+=D0=BC =D1=80=D1=83=D1=81=D1=81=D0=BA=D0=BE=D1=8F=D0=B7=D1=8B=D1=87=D0=BD=
+=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D1=81=D1=82=D0=B2=
+=D0=B0 Ubuntu">=D0=9F=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D0=B0</a></li>
+	</ul>
+	<ul>
+		<li><a href=3D"https://help.ubuntu.ru/" title=3D"=D0=A0=D0=B0=D0=B7=D0=BB=
+=D0=B8=D1=87=D0=BD=D0=B0=D1=8F =D1=80=D1=83=D1=81=D1=81=D0=BA=D0=BE=D1=8F=
+=D0=B7=D1=8B=D1=87=D0=BD=D0=B0=D1=8F =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=
+=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F =D0=BF=D0=BE =D1=81=D0=B5=D0=BC=D0=B5=
+=D0=B9=D1=81=D1=82=D0=B2=D1=83 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=86=D0=B8=
+=D0=BE=D0=BD=D0=BD=D1=8B=D1=85 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC =D0=BD=
+=D0=B0 =D0=B1=D0=B0=D0=B7=D0=B5 Ubuntu">=D0=94=D0=BE=D0=BA=D1=83=D0=BC=D0=
+=B5=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F</a></li>
+		<li><a href=3D"https://help.ubuntu.ru/wiki" title=3D"=D0=94=D0=BE=D0=BA=
+=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F, =D1=81=D0=BE=D0=B7=
+=D0=B4=D0=B0=D0=B2=D0=B0=D0=B5=D0=BC=D0=B0=D1=8F =D0=BF=D0=BE=D0=BB=D1=8C=
+=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F=D0=BC=D0=B8 Ubuntu" class=
+=3D"active">=D0=9F=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=
+=BB=D1=8C=D1=81=D0=BA=D0=B0=D1=8F =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=
+=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F</a></li>
+		<li><a href=3D"https://help.ubuntu.ru/doc" title=3D"=D0=9F=D0=B5=D1=80=D0=
+=B5=D0=B2=D0=BE=D0=B4=D1=8B =D0=BE=D1=84=D0=B8=D1=86=D0=B8=D0=B0=D0=BB=D1=
+=8C=D0=BD=D0=BE=D0=B9 =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=
+=B0=D1=86=D0=B8=D0=B8 =D0=BF=D0=BE Ubuntu =D0=BD=D0=B0 =D1=80=D1=83=D1=81=
+=D1=81=D0=BA=D0=B8=D0=B9 =D1=8F=D0=B7=D1=8B=D0=BA">=D0=9E=D1=84=D0=B8=D1=86=
+=D0=B8=D0=B0=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=
+=D0=B5=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F</a></li>
+		<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B5%D0%BC%D0%B5%D0%B9=
+%D1%81%D1%82%D0%B2%D0%BE_ubuntu" title=3D"=D0=94=D0=BE=D0=BA=D1=83=D0=BC=D0=
+=B5=D0=BD=D1=82=D0=B0=D1=86=D0=B8=D1=8F =D0=BF=D0=BE =D0=B4=D0=B8=D1=81=D1=
+=82=D1=80=D0=B8=D0=B1=D1=83=D1=82=D0=B8=D0=B2=D0=B0=D0=BC, =D0=B2=D1=85=D0=
+=BE=D0=B4=D1=8F=D1=89=D0=B8=D0=BC =D0=B2 =D1=81=D0=B5=D0=BC=D0=B5=D0=B9=D1=
+=81=D1=82=D0=B2=D0=BE Ubuntu">=D0=A1=D0=B5=D0=BC=D0=B5=D0=B9=D1=81=D1=82=D0=
+=B2=D0=BE Ubuntu</a></li>
+		<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%80%D1%83%D0%BA%D0%BE%D0%B2=
+%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0" title=3D"=D0=A0=D0=B0=D0=B7=D0=BB=D0=
+=B8=D1=87=D0=BD=D1=8B=D0=B5 =D0=BC=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=B0=D0=
+=BB=D1=8B =D0=BF=D0=BE Ubuntu, =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=BD=
+=D1=8B=D0=B5 =D0=B4=D0=BB=D1=8F =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=BA=
+=D0=B8">=D0=9C=D0=B0=D1=82=D0=B5=D1=80=D0=B8=D0=B0=D0=BB=D1=8B =D0=B4=D0=BB=
+=D1=8F =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=BA=D0=B8</a></li>
+		<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5=
+%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title=3D"=D0=A0=D0=B0=D0=
+=B7=D0=B4=D0=B5=D0=BB, =D0=BF=D0=BE=D1=81=D0=B2=D1=8F=D1=89=D1=91=D0=BD=D0=
+=BD=D1=8B=D0=B9 =D1=81=D0=BE=D0=B2=D0=BC=D0=B5=D1=81=D1=82=D0=B8=D0=BC=D0=
+=BE=D1=81=D1=82=D0=B8 Ubuntu =D1=81 =D0=BE=D0=B1=D0=BE=D1=80=D1=83=D0=B4=D0=
+=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC, =D0=B2 =D0=BF=D0=B5=D1=80=D0=B2=D1=
+=83=D1=8E =D0=BE=D1=87=D0=B5=D1=80=D0=B5=D0=B4=D1=8C - =D1=81 =D0=BD=D0=BE=
+=D1=83=D1=82=D0=B1=D1=83=D0=BA=D0=B0=D0=BC=D0=B8">=D0=A1=D0=BE=D0=B2=D0=BC=
+=D0=B5=D1=81=D1=82=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D1=8C =D1=81 =D0=BE=D0=B1=
+=D0=BE=D1=80=D1=83=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC</a></li>
+		<li><a href=3D"https://help.ubuntu.ru/feed.php" title=3D"=D0=9F=D0=BE=D0=
+=B7=D0=B2=D0=BE=D0=BB=D1=8F=D0=B5=D1=82 =D0=BF=D0=BE=D0=B4=D0=BF=D0=B8=D1=
+=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BD=D0=B0 =D0=BE=D0=B1=D0=BD=D0=BE=D0=
+=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D0=BE=D1=81=D1=80=D0=B5=D0=B4=D1=
+=81=D1=82=D0=B2=D0=BE=D0=BC RSS" class=3D"rss-feed">RSS =D0=BB=D0=B5=D0=BD=
+=D1=82=D0=B0</a></li>
+	</ul>
+	<ul>
+		<li><a href=3D"https://team.ubuntu.ru/" title=3D"=D0=9C=D0=B0=D1=82=D0=B5=
+=D1=80=D0=B8=D0=B0=D0=BB=D1=8B, =D0=BA=D0=B0=D1=81=D0=B0=D1=8E=D1=89=D0=B8=
+=D0=B5=D1=81=D1=8F =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=8B =D1=80=D1=83=D1=81=
+=D1=81=D0=BA=D0=BE=D1=8F=D0=B7=D1=8B=D1=87=D0=BD=D0=BE=D0=B3=D0=BE =D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=B0 =D0=B8 =D1=80=D1=83=
+=D1=81=D1=81=D0=BA=D0=BE=D1=8F=D0=B7=D1=8B=D1=87=D0=BD=D0=BE=D0=B9 LoCo =D0=
+=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=8B Ubuntu">=D0=A1=D0=BE=D0=BE=D0=B1=D1=
+=89=D0=B5=D1=81=D1=82=D0=B2=D0=BE</a></li>
+		<li><a href=3D"https://team.ubuntu.ru/projects" title=3D"=D0=9F=D1=80=D0=
+=BE=D0=B5=D0=BA=D1=82=D1=8B =D1=80=D1=83=D1=81=D1=81=D0=BA=D0=BE=D1=8F=D0=
+=B7=D1=8B=D1=87=D0=BD=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=
+=B5=D1=81=D1=82=D0=B2=D0=B0 Ubuntu">=D0=9D=D0=B0=D1=88=D0=B8 =D0=BF=D1=80=
+=D0=BE=D0=B5=D0=BA=D1=82=D1=8B</a></li>
+		<li><a href=3D"https://team.ubuntu.ru/loco" title=3D"=D0=A0=D0=B0=D0=B7=
+=D0=B4=D0=B5=D0=BB, =D0=BF=D0=BE=D1=81=D0=B2=D1=8F=D1=89=D1=91=D0=BD=D0=BD=
+=D1=8B=D0=B9 =D0=BC=D0=B5=D1=81=D1=82=D0=BD=D1=8B=D0=BC =D1=81=D0=BE=D0=BE=
+=D0=B1=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=B0=D0=BC Ubuntu (LoCo) =D0=B2 =D1=
+=80=D0=B0=D0=B7=D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D1=85 =D0=B3=D0=BE=D1=80=D0=
+=BE=D0=B4=D0=B0=D1=85 =D0=B8 =D0=BE=D0=B1=D0=BB=D0=B0=D1=81=D1=82=D1=8F=D1=
+=85">=D0=9C=D0=B5=D1=81=D1=82=D0=BD=D1=8B=D0=B5 =D1=81=D0=BE=D0=BE=D0=B1=D1=
+=89=D0=B5=D1=81=D1=82=D0=B2=D0=B0</a></li>
+		<li><a href=3D"https://team.ubuntu.ru/translate" title=3D"=D0=A0=D0=B0=D0=
+=B7=D0=B4=D0=B5=D0=BB, =D0=BF=D0=BE=D1=81=D0=B2=D1=8F=D1=89=D1=91=D0=BD=D0=
+=BD=D1=8B=D0=B9 =D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=B4=D1=83 Ubuntu =D0=
+=BD=D0=B0 =D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8=D0=B9 =D1=8F=D0=B7=D1=8B=D0=
+=BA">=D0=9F=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=B4 Ubuntu</a></li>
+		<li><a href=3D"https://team.ubuntu.ru/qa" title=3D"=D0=A2=D0=B5=D1=81=D1=
+=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D0=BD=D0=BE=D0=B2=D1=
+=8B=D1=85 =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D0=B9 Ubuntu">=D0=A2=D0=B5=D1=81=
+=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5</a></li>
+		<li><a href=3D"https://team.ubuntu.ru/feed.php" title=3D"=D0=9F=D0=BE=D0=
+=B7=D0=B2=D0=BE=D0=BB=D1=8F=D0=B5=D1=82 =D0=BF=D0=BE=D0=B4=D0=BF=D0=B8=D1=
+=81=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BD=D0=B0 =D0=BE=D0=B1=D0=BD=D0=BE=D0=
+=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D0=BE=D1=81=D1=80=D0=B5=D0=B4=D1=
+=81=D1=82=D0=B2=D0=BE=D0=BC RSS" class=3D"rss-feed">RSS =D0=BB=D0=B5=D0=BD=
+=D1=82=D0=B0</a></li>
+	</ul>
+	<p>
+		=C2=A9 2018 Ubuntu-ru =E2=80=94 =D0=A0=D1=83=D1=81=D1=81=D0=BA=D0=BE=D1=
+=8F=D0=B7=D1=8B=D1=87=D0=BD=D0=BE=D0=B5 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=
+=B5=D1=81=D1=82=D0=B2=D0=BE Ubuntu Linux.<br>
+		=C2=A9 2012 Canonical Ltd. Ubuntu =D0=B8 Canonical =D1=8F=D0=B2=D0=BB=D1=
+=8F=D1=8E=D1=82=D1=81=D1=8F =D0=B7=D0=B0=D1=80=D0=B5=D0=B3=D0=B8=D1=81=D1=
+=82=D1=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D0=BC=D0=B8 =D1=
+=82=D0=BE=D1=80=D0=B3=D0=BE=D0=B2=D1=8B=D0=BC=D0=B8 =D0=B7=D0=BD=D0=B0=D0=
+=BA=D0=B0=D0=BC=D0=B8 Canonical Ltd.
+	</p>
+	<a href=3D"https://ubuntu.ru/" title=3D"=D0=9D=D0=B0 =D0=B3=D0=BB=D0=B0=D0=
+=B2=D0=BD=D1=83=D1=8E =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=83 =D1=
+=81=D0=B0=D0=B9=D1=82=D0=B0">
+		<img src=3D"https://s.ubuntu.ru/img/footer_logo_ru.png" alt=3D"">
+	</a>
+	<div class=3D"clearer"></div>
+</div>
+		<!-- /Footer -->
+	</div>
+	<div class=3D"no"><img src=3D"https://help.ubuntu.ru/lib/exe/indexer.php?i=
+d=3Dwiki%3A%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0&am=
+p;1753198700" width=3D"2" height=3D"1" alt=3D""></div>
+	<!-- /Page -->
+</div>
+<!-- /Document -->
+<!-- Control -->
+	<div id=3D"__control" class=3D"pinned-down">
+		<ul>
+			<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%B=
+A%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0?do=3Dedit" class=3D"action source" accessk=
+ey=3D"v" rel=3D"nofollow" title=3D"=D0=9F=D0=BE=D0=BA=D0=B0=D0=B7=D0=B0=D1=
+=82=D1=8C =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=B9 =D1=82=D0=B5=D0=
+=BA=D1=81=D1=82 [V]">=D0=9F=D0=BE=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=8C =D0=
+=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=B9 =D1=82=D0=B5=D0=BA=D1=81=D1=
+=82</a></li>
+			<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%B=
+A%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0?do=3Drevisions" class=3D"action revs" acce=
+sskey=3D"o" rel=3D"nofollow" title=3D"=D0=98=D1=81=D1=82=D0=BE=D1=80=D0=B8=
+=D1=8F =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=8B [O]">=D0=98=D1=81=
+=D1=82=D0=BE=D1=80=D0=B8=D1=8F =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=
+=D1=8B</a></li>
+			<li></li>
+			<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%B=
+A%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0?do=3Dbacklink" class=3D"action backlink" r=
+el=3D"nofollow" title=3D"=D0=A1=D1=81=D1=8B=D0=BB=D0=BA=D0=B8 =D1=81=D1=8E=
+=D0=B4=D0=B0">=D0=A1=D1=81=D1=8B=D0=BB=D0=BA=D0=B8 =D1=81=D1=8E=D0=B4=D0=B0=
+</a></li>
+		</ul>
+		<ul>
+			<li id=3D"__control_toggle">
+							<a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%B=
+A%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0" title=3D"=D0=97=D0=B0=D0=BA=D1=80=D0=B5=
+=D0=BF=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D0=BD=D0=B5=D0=BB=D1=8C">
+					<img src=3D"https://s.ubuntu.ru/img/remmina-pin-up.png" alt=3D"=D0=97=
+=D0=B0=D0=BA=D1=80=D0=B5=D0=BF=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D0=BD=D0=B5=
+=D0=BB=D1=8C">
+				</a>
+						</li>
+			<li></li>
+			<li></li>
+			<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%B=
+A%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0?do=3Dmedia&amp;ns=3Dwiki" class=3D"action =
+media" rel=3D"nofollow" title=3D"=D0=A3=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=
+=D0=BD=D0=B8=D0=B5 =D0=BC=D0=B5=D0=B4=D0=B8=D0=B0=D1=84=D0=B0=D0=B9=D0=BB=
+=D0=B0=D0=BC=D0=B8">=D0=A3=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=BC=D0=B5=D0=B4=D0=B8=D0=B0=D1=84=D0=B0=D0=B9=D0=BB=D0=B0=D0=BC=
+=D0=B8</a></li>
+			<li></li>
+			<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%B=
+A%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0?do=3Dindex" class=3D"action index" accessk=
+ey=3D"x" rel=3D"nofollow" title=3D"=D0=92=D1=81=D0=B5 =D1=81=D1=82=D1=80=D0=
+=B0=D0=BD=D0=B8=D1=86=D1=8B [X]">=D0=92=D1=81=D0=B5 =D1=81=D1=82=D1=80=D0=
+=B0=D0=BD=D0=B8=D1=86=D1=8B</a></li>
+			<li><a href=3D"https://help.ubuntu.ru/wiki/%D1%81%D0%B1%D0%BE%D1%80%D0%B=
+A%D0%B0_%D1%8F%D0%B4%D1%80%D0%B0?do=3Drecent" class=3D"action recent" acces=
+skey=3D"r" rel=3D"nofollow" title=3D"=D0=9D=D0=B5=D0=B4=D0=B0=D0=B2=D0=BD=
+=D0=B8=D0=B5 =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F [R]">=
+=D0=9D=D0=B5=D0=B4=D0=B0=D0=B2=D0=BD=D0=B8=D0=B5 =D0=B8=D0=B7=D0=BC=D0=B5=
+=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F</a></li>
+		</ul>
+		<div class=3D"clearer"></div>
+	</div>
+<!-- /Control -->
+</div>
+
+
+
+</body></html>
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/img/remmina-pin-up.png
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAAnNCSVQICFXsRgQAAAAJcEhZcwAA
+DdcAAA3XAUIom3gAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwaAAAA8klEQVQo
+z2P4z4AfYhWMs0yQwKsgbWbGfrwK0p8U/EjKwFCQrJO+J6Ur3julPv/b+f9pX+OVURQkJWd83fp3
+6t+0P61fT/8//X/J35SLoczIClxyv178f+Z/7f9J/1f/X/p/7//qr0n1KFakzOz4vv//5P8pQCXr
+/jf/KPyW8CfOEElBKGfSo9n/5/4v+Z/1P/1rwpL44MTMhFAkBSWB+ZdTv87+X/2/8H/8OzRvhnJW
+rs36UO4b35z7re9/w/+44ygK8k1zXlXsT+P/z9DAEns1+1/a19gWJAUNTHlHKxLgwawW9zohCm9c
+hLIRjCySFAAAiu4Poxlrl8cAAAAASUVORK5CYII=
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/img/footer_logo_ru.png
+
+iVBORw0KGgoAAAANSUhEUgAAAJcAAAAbCAYAAABx7R3aAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAN
+1wAADdcBQiibeAAAAAd0SU1FB9oKAxUOEL6tftcAAAlySURBVGje7ZttcJTVFcd/5z67yRKCJNld
+oxQpSZZXRaw4IpbOYIFkk1KdKVI7ajuOo8WOHUemnQ5TGatVZ9qxdbRjp751HP1gp4qlKi8JSrFW
+RLSItSJSsktERkiyeSNRks0+9/TDPptsQhLjFMhic74k996T+9x77v+et3sinCQ6UB3JN7b9V4jM
+RXQ24qyo2Nz4b8bp/5Z8J2si09sSwOfcDgoKyLhwTzXtXRIuzJ8g8w22RESb+GzSv8pebej+0oFr
+nE4fNVSWlrnGvQd0JaoBBVQFAl2dsWj46ZTff9eslz5JjPU6zfhRjZ5i0eDSWDT0SCwa3BGvLqkc
+izXUV4WucI27G7gOCGSPCewAvcrXm9wTqymdNw6uM4lUVgKrQS5Xa/yn+/MHK4OzRdgAFHtdvYrW
+AX8UZGdZbaJGlLuBqVh3c31l6dnjZnGcRkVW5AFgstfcD7za021+Wjgx6U/1mEnxaGgNcI03PlUc
+927gR+Oaa5xGNsnLiqchVHvN42rtckG2BQJ6JOX6W/E5dcbI3yz2dsBNa1qu/3jV1Anj4Bqnkcnv
+fMP77S2EDerQoaqPAYVe/2xr9c8zalt3gu7y+gqTnT0Lxsws1leG+j4u1q2veKWtY6Tbo8YJp+2p
+0zp9a+PBkSb/5NtTCrpTyaXW6hyMOU9Uk4J8YK15KbK1sWnEm1pTOk9Tbh5AviQPnld3rHU43v0r
+gl9xknJOehPSEalrrh+K78MrQ5P8KWapKyFBSwQtsSITjNIGsl96Jr49+lBeItmyy6aKyYl35bm0
+9mioLC1L4ZaMRmaxZcWT1TiRTDuyNbE7azgMJMprE5fFq4O3iOu7AGOLBk0xMx4N3gMyQfuN6Yh+
+V0NV6Nykz5kgtjeQSvY2ztnW2XLSwCWGf/bLy1kBbBqW23HWiqRtuCvuM17EMoyDYH9z3LqLgQIR
+AVVPUyti3GQ8GnwkmSfrZr+Y6BzaeXY3imEaQFLzrgOeGXYTKfNjjK71/nATsGJAhFUdvE9UribJ
+zDT+MmsRBFDxVpbf1R6PBh92pfjeGVvqe0bGlj4ow+Ty4m3FRZC+pK7j3ivKtaOSmeMsFmHjwADQ
+25VKu6ChWDT0lMCn6pj1orYHyM/ibixb2PKL+K7wwj55q7RlhrcvwTc1EFosqsuMmG8qeoELkxzX
+BQx5/nxi0fxWVB6vqGteC3CwJnyRVX3CE9jRitrEiuGj6fBiRB9MKyrqT6FZ1EqgYJjBPEVu8/fK
+GweqS6aeavUsyPWQBtbnMBYpss5o+7a9q8jLJavoc+wuD23fx/I915/qFuTWLJYOVG6M7QyXo5ox
+ob3iuu9kGKYVlM4xsF1E7lB0ETBpiE+VYFT6dQSFKAtQFiCMnN5QnZzhVdG5pzJa7EHlQePYDUZS
+/+kq6Pi0oPOcKS6pKhF+jjIN1QsMsvlAdcniGVtaj52OQxJ4QZVnBfnYqn6mgjpIxIquFPiux/b1
+wLHwL6F57fBZCXkYdMjnrZ7ituMne93TN7Xsi0VDbwGXIhT5k7wAdocVPV9cX5HY3sPqd6IGWade
+/kthQ2QENweoV/jAoB9ZlQBCqcBcsbI7p1MRqlRH6pq3D+w92gA8um/ppPV5/rztIPNA5jkq96fz
+R6cjVaV1FbUtg03sO8CzsWg4Dp55Fb31aGXpPedsbfx0SJBara2oS2w6rWk2a9aIsduBPOAKReYb
+lYkYexjHXK4UXYe2W4RFnia7Y4TpOipqEzPOyGhRHGfY54c52zpbBFkFpLwbdnM8Gpo11qanu5v7
+gGQm0upyUgtzyTRGtja9gcotGbkBJcAa4LeorDTa/pCmfeIukGuHC2y+9KmI8trEflGe73OP4Ydj
+fXjnv9rcBfRFc8YyN9cyEhV1zU+qmCWeth1Mq4F2te6iitrmzWPuJ47lx63oFkG8jLIuz43jk49A
+ZwFYpDgXU16RLU07gAWxmtJ5Yu2lVm0Qw1FrfK/P3NQYz5kgZCw/7hg+tLbvUHNES2hv34pECnI5
+r+rVy+VszdyYZujdlC87oegcrSydyDh9aWhMweWYgZqhd7Lfjh9JDpN+MbyYdLA2RppL3DlZzcR5
+zx0+Pn6COU2hLwqutn5flrNOq+usfCur+e6gW9LVx2eYcube9v7nF3TIjHhOkxU3+003EFtWPHn0
+4FIO9e9dKk7XomPLiqeB3pgl+OcHsTT0D1FxxmJL7aFsH/xMW3+gsOAgmRIewPqcr40aXGrk9X7F
+pat0Fc6pXvCB6pKz8DnPAZlao6PW2EFZc/1HFvCuyglnX2jMklXZ6NDlvJ7VmnOwJnzRmQQuz1XZ
+0+cnK7eMXnO5qUez/K4L453BJ/YuCReeqsXGq0sqjZpdwKVZ4PnJ4LdFR+UpIFOZcG6XcZ/Zt3RS
+cEyxJXZnv7WTOw9WBmd/brpga9NO4L3MFFb12QNVJeefYfr3yf59c00sGnrgQHXJCS6URQektnyR
+rW3vx6LhX/e9qSE3BAL6nfpocKcgx9IFKRIkfVO/Onpv3X0tVhXaDxxB6EXxY7hYNV1G0282uDNS
+lzihnGZ6XeJIfTT8M0EfSmsKrszz5x+KRfPfUGiVdDlKMTCd0WqR/5HKFra+En8z9B5wIRC2RvbE
+osGNqBwWoQCVgIqWWSlaninZEdC46s0q8hqQjzLDiHkvVhV6G/FcEqUQYQowOxeh1dbc8nhJOHST
+QsYkrjFqbo1FQ/sU2kUoRDkbBvrGPoDyy5rviL8Z6gbWeX1nCVKVMQADf47ahBQBC7Pag+PSIyJy
+W0Vt8/rhpojUNv8uXhV0VeR+z4QWAMvG6l8i5S5sfZWsNKJ1CuVAAORqxNuaVydmpHMmWcnN8rqW
+t+I14Upr9U+SPgCDsLBPPjn+P56X7KY3vtRU47cbgUu87jxgvlcKNyT5MkKDxN0NlaVPu2JXI7rU
+01LFQDtCG0qbwBFF9lm1bya7zbYB6v+Vto76qvAMgy5RwxUoM0lXT4aAAoQmVJtAPkT5a3ePvOi9
+5Y1I5XUtv2+oCv3FFVaDLkekAiUIHPMi3TagUeADK7I73/a8PIRX/QfUFKUP3u4ZOZUj60V535PZ
+308AfF1z/d4l4fmBCXoTygog4gG/GTiCckCsmzxhH5ubX/t41dRIsuv4DaisAOZ7sumBtHwREgj1
+Au+I+l4+2SBJmVSr38pjafOmXyjtU76tqXH7EhZNmxD+gapeJXAxEPRAdgy0A5VDCPtE2G1du/O/
+5xS5R20bxPUAAAAASUVORK5CYII=
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/img/logo_ru.png
+
+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
+WAEs/QfI+0HZYXfP1gAAAABJRU5ErkJggg==
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://help.ubuntu.ru/lib/exe/css.php?t=ubuntu-portal&tseed=bef559b7b29c2b8394b197c35761872f
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/portal/img/third_nav_divider_r.png
+
+iVBORw0KGgoAAAANSUhEUgAAAAIAAAAmCAYAAADui0oEAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
+/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9oJGxQTDfEIEYUAAABsSURBVBjT
+bZDBEcQwCANX9F+sK2DvgeM4M8dLAwhJsNZStdj1AvXtqFSSeyQFolAQunuWk1ysf0ASqO5NrxlS
+mtlR6d6iybYxEvYWTd7LyTamUPp4HtUrVxL6sD4BJ5UUCt5PONkP+HzMW+IHp5Ba2Q2i3LQAAAAA
+SUVORK5CYII=
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/portal/img/news_feed_bg.png
+
+iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAIAAAD9iXMrAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAG9SURBVHjaYrx9+9bDh4/4+fkV5GV5eHj/
+///PyMjIAAbIbJZr125s2rwFwlFRVjI3M7W0tIBwkTWwMCCBO3fvAdH+g4fCQoOVlZTg6oAMxu/f
+vgJZb9++vXjp8pkz5x49fgzkMjMzR0aEWZibQQwDKYW4T1FBQUpKEih09uz5lavXfv/+DSgHNNXO
+1gbiSmYXF9c169YfOXL09JmzPNw8xsaGhgb6165f//bt2/UbN9XUVAUFBYHqmJiYoK549frNgkWL
+581fKCDAn5WRzsPD8+/fv1Wr1wFJkEvmzZ0DNFxZWfnJ4ydfvnx98fLl6zdvbKwt+fn4L1669Pnz
+ZxERYRkZaSagWqBWXR3tivISczMTIPfcufNAD5mYGMnJygK5Bw8eBpJMv3//3rR526LFS9+9fx8d
+FSEuJgb039bt24FusrQ0B6p4/OTJ+/fvmY6fOLlr9+5Tp8+s37AZ6NjQkCCge4FuffbsuZamBlAP
+ED1+/IQJGGOQwOTn4wWaoaqqAgw8oM8ePHggKCDAzAzy5pu3b1n09XQLC3I/fviop6cLcgcTk6OD
+/ffv3wUEBYFsB3u7nz9/ioqKAgQYALw5xSXX9WqMAAAAAElFTkSuQmCC
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/portal/img/search_submit_bg_2.png
+
+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
+3pIAAAAASUVORK5CYII=
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/portal/img/third_nav_divider.png
+
+iVBORw0KGgoAAAANSUhEUgAAAAIAAAAmCAIAAABh6d1TAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAABoSURBVHjaVE8BEsAgCBL+/9heoAPWttZd
+hyKQcWbWWqycA8RTd3cAGM6kp+xu0dTAkq38Q0YxdI/tZGYzkD1hkjg6YZXo6diB2x5y76KKqvHt
+qRDbUXW+XkYpvfDzlfcPDxyGu7sEGAD67VjdtlWurAAAAABJRU5ErkJggg==
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/portal/img/subnav_active_bg.png
+
+iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAMAAABh9kWNAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAAZQTFRF39/f9/f3+zIj4gAAABNJREFUeNpiYGBkZABDRgaAAAMAADAA
+B5Qh8BIAAAAASUVORK5CYII=
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/portal/img/menu_active.png
+
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAL
+EwAACxMBAJqcGAAAAAd0SU1FB9oJHAU3AhBsHEwAAAANSURBVAjXY1BhYjAGAADOAFr3kUBLAAAA
+AElFTkSuQmCC
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/portal/img/menu_divider.png
+
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAL
+EwAACxMBAJqcGAAAAAd0SU1FB9oJHAYPEhgCDooAAAANSURBVAjXY1BhYuACAAClADFZIZ0JAAAA
+AElFTkSuQmCC
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/portal/img/header_b.png
+
+iVBORw0KGgoAAAANSUhEUgAAAC0AAAAvCAMAAABADLOjAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAGlQTFRF42g95GxC42c84V4w4mM331Qk4Fcn4mAz4FYm4Fkq4Fkp31Eg
+5GtB42k+42o/42Y74mU64mQ431Ih4Vwu4mM24WAy31Ef42pA4V4x4Vst31Ul4mE031Mj4For4Fss
+31Mi4mI15G1D3UgUaJJYHgAAAJ5JREFUeNrsztcKwmAQROGx995b1PP+D+mK/Ei8kNn7wEfYhAkc
+wdOnzBhlxqgpaUq8kpZPmTGagi9KDj4xx6cZ+JSi1F5t8MUvC59Y4tMKfFHS9YktPl3g41GOP1+i
+ZOATO3w6gi9KOj6xwacT+KLkVlT1Z1Xu70CM8GkMvijp+8QQn87gi5KeT1x5u1M7fl7LrTX4omTi
+E3t8LwEGAO9b8fHJoG+4AAAAAElFTkSuQmCC
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://s.ubuntu.ru/portal/img/bg_dotted.png
+
+iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAAAXNSR0IArs4c6QAAAAZQTFRF////
+zsrFFOhhzwAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfbCA8IIAxO
+HyTqAAAAbElEQVR42u3PMQ0AAAgDsMlHNhqWcHC0Dpqp5S0XFxcXFxcXFxcXFxcXFxcXFxcXFxcX
+FxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXF5cj
+C3IDYNdXepeXAAAAAElFTkSuQmCC
+
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://s.ubuntu.ru/portal/ubuntu-portal.css?alarm
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; }
+
+html, body { height: 100%; }
+
+body { background-attachment: scroll; background-color: transparent; backgr=
+ound-image: url("img/bg_dotted.png"); background-position: 0px 0px; backgro=
+und-repeat: repeat; color: rgb(51, 51, 51); font-family: "Ubuntu Beta", Ubu=
+ntuBeta, Ubuntu, "Bitstream Vera Sans", "DejaVu Sans", Tahoma, sans-serif; =
+font-size: 12px; font-style: normal; font-variant: normal; font-weight: nor=
+mal; line-height: 16px; }
+
+img { border: 0px; }
+
+a, a:link, a:visited { text-decoration: none; color: rgb(221, 72, 20); }
+
+a:hover, a:active { text-decoration: underline; }
+
+.clearer { clear: both; height: 0px; }
+
+.rounded { border-radius: 4px; }
+
+.bottom-rounded { border-radius: 0px 0px 4px 4px; }
+
+.top-rounded { border-radius: 4px 4px 0px 0px; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+h1 { font-size: 36px; line-height: 40px; display: block; }
+
+h2 { font-size: 24px; line-height: 28px; display: block; }
+
+.small-text { font-size: 10px; line-height: 14px; }
+
+div#__container { width: 100%; position: relative; min-height: 100%; }
+
+div#__container > div:first-child { margin: 0px auto; min-width: 1100px; ma=
+x-width: 1400px; position: relative; min-height: 100%; }
+
+#__page { background-color: rgb(247, 247, 247); margin: 0px 25px 9px; borde=
+r-radius: 0px 0px 4px 4px; }
+
+body.with-bottom-panel #__page { margin-bottom: 49px; }
+
+body#__detail #__page { margin-bottom: 25px; }
+
+#__wrapper { background-color: rgb(255, 255, 255); border-radius: 0px 0px 4=
+px 4px; border-style: none solid solid; border-right-color: rgb(221, 221, 2=
+21); border-bottom-color: rgb(221, 221, 221); border-left-color: rgb(221, 2=
+21, 221); border-image: initial; border-right-width: 1px; border-bottom-wid=
+th: 2px; border-left-width: 1px; border-top-width: initial; border-top-colo=
+r: initial; }
+
+div#__container > div:first-child > div.no { width: 100%; height: 16px; dis=
+play: block; }
+
+#__header { height: 106px; position: relative; }
+
+#__header-menu { height: 64px; padding: 0px 16px; background: url("img/head=
+er_b.png") repeat-x rgb(221, 72, 20); border-radius: 0px 0px 4px 4px; }
+
+#__header-menu a { text-decoration: none; }
+
+#__header-menu li { float: left; display: block; }
+
+#__header-menu > ul { display: block; list-style-type: none; float: left; f=
+ont-size: 14px; background: url("img/menu_divider.png") repeat-y transparen=
+t; }
+
+#__header-menu > ul a { display: block; text-align: center; padding: 24px 9=
+px 0px 8px; height: 40px; color: rgb(255, 255, 255); text-shadow: rgb(0, 0,=
+ 0) 0px 1px; background: url("img/menu_divider.png") 100% 0% repeat-y trans=
+parent; }
+
+#__header-menu > ul a:hover, #__header-menu > ul a:active, #__header-menu >=
+ ul a.active { background: url("img/menu_active.png") repeat transparent; }
+
+#__header-menu .header-submenu { position: absolute; z-index: 9; width: 100=
+%; margin-right: -258px; top: 64px; left: 16px; }
+
+#__header-menu .header-submenu > div { margin-right: 259px; background-colo=
+r: rgb(247, 247, 247); border-right: 1px solid rgb(243, 243, 243); border-b=
+ottom: 1px solid rgb(236, 236, 236); border-left: 1px solid rgb(243, 243, 2=
+43); border-image: initial; border-top: none; border-radius: 0px 0px 4px 4p=
+x; }
+
+#__header-menu .header-submenu ul { display: block; list-style-type: none; =
+float: left; font-size: 12px; background: url("img/subnav_active_bg.png") r=
+epeat; border-bottom-left-radius: 4px; }
+
+#__header-menu .header-submenu a { padding-top: 13px; height: 27px; color: =
+rgb(51, 51, 51); text-shadow: none; background: url("img/third_nav_divider.=
+png") 100% 1px no-repeat rgb(247, 247, 247); }
+
+#__header-menu .header-submenu a:hover, #__header-menu .header-submenu a:ac=
+tive, #__header-menu .header-submenu a.active { background: transparent; co=
+lor: rgb(221, 72, 20); }
+
+#__header-menu .header-submenu li:first-child a { border-bottom-left-radius=
+: 4px; }
+
+#__header-controls { float: right; }
+
+#__header-menu #__header-user { height: 39px; padding: 1px 8px 0px 0px; flo=
+at: left; font-size: 12px; line-height: 39px; color: rgb(174, 167, 159); }
+
+#__header-menu #__header-user > a { padding: 0px; display: inline-block; he=
+ight: 39px; color: inherit; background: none; }
+
+#__header-menu #__header-user > a.userlink { padding-left: 18px; }
+
+#__header-menu #__header-user a.userlink.male { background: url("img/userli=
+nk/user-male.png") 0% 50% no-repeat !important; }
+
+#__header-menu #__header-user a.userlink.female { background: url("img/user=
+link/user-female.png") 0% 50% no-repeat !important; }
+
+#__header-menu #__header-user a.userlink.unknown { background: url("img/use=
+rlink/user-unknown.png") 0% 50% no-repeat !important; }
+
+#__header-menu #__header-user a.logout:hover, #__header-menu #__header-user=
+ a.login:hover { color: rgb(221, 72, 20); }
+
+#__header-menu #__header-user a.userlink span.userlink-popup { left: auto; =
+right: -8px; top: 30px; box-shadow: none; }
+
+#__header-menu #__header-toolbox { height: 32px; padding-top: 8px; float: l=
+eft; font-size: 12px; line-height: 24px; background: url("img/third_nav_div=
+ider.png") 0px 1px no-repeat rgb(247, 247, 247); border-bottom-right-radius=
+: 4px; position: relative; }
+
+#__header-menu #__header-toolbox > img { margin: 0px 8px 0px 9px; }
+
+#__header-menu #__header-toolbox div.header-popup { left: auto; right: -1px=
+; }
+
+#__header-menu div.header-popup { z-index: 90; display: none; position: abs=
+olute; top: 40px; left: 0px; padding-top: 3px; width: auto; white-space: no=
+wrap; }
+
+#__header-menu :hover > div.header-popup { display: block; }
+
+#__header-menu div.header-popup ul { display: block; float: none; font-weig=
+ht: normal; line-height: 16px; border: 1px solid rgb(204, 204, 204); border=
+-radius: 4px; }
+
+#__header-menu div.header-popup li { float: none; }
+
+#__header-menu div.header-popup li.divider { height: 1px; padding: 2px 4px;=
+ background: rgb(247, 247, 247); }
+
+#__header-menu div.header-popup li.divider hr { border-right: none; border-=
+bottom: none; border-left: none; border-image: initial; border-top: 1px sol=
+id rgb(204, 204, 204); height: 0px; }
+
+#__header-menu div.header-popup li a { display: block; height: auto; paddin=
+g: 6px 8px; z-index: 190; text-align: left; }
+
+#__header-menu div.header-popup li > a:first-child { border-top-right-radiu=
+s: 4px; border-top-left-radius: 4px; }
+
+#__header-menu div.header-popup li:last-child a { border-bottom-right-radiu=
+s: 4px; border-bottom-left-radius: 4px; }
+
+#__header-menu #menu_nav li { float: left; position: relative; }
+
+#__header-menu #menu_nav li > div { z-index: 90; display: none; position: a=
+bsolute; width: 220px; padding-top: 3px; }
+
+#__header-menu #menu_nav li ul { font-weight: normal; border: 1px solid rgb=
+(204, 204, 204); border-radius: 0px 4px 4px; }
+
+#__header-menu #menu_nav li li a { display: block; width: 220px; height: 20=
+px; padding: 4px 0px 0px; z-index: 190; }
+
+#__header-menu #menu_nav li li > a:first-child { border-top-right-radius: 4=
+px; }
+
+#__header-menu #menu_nav li li a.last { border-bottom-right-radius: 4px; bo=
+rder-bottom-left-radius: 4px; }
+
+#__header-menu #menu_nav li ul ul { margin: -1.8em 0px 0px 13em; }
+
+#__header-menu #menu_nav li li a:hover, #__header-menu #menu_nav li li:hove=
+r > a { background: transparent; color: rgb(221, 72, 20); text-decoration: =
+none; }
+
+#__header-menu #menu_nav li:hover ul ul, #__header-menu #menu_nav li:hover =
+ul ul ul { top: -999em; }
+
+#__header-menu #menu_nav li li:hover ul { top: auto; }
+
+#__header-menu #menu_nav li:hover > div { display: block; }
+
+#__header-menu #menu_nav li li.additional_items { background-color: rgb(255=
+, 255, 255); }
+
+#__header-logo { float: right; }
+
+#__header-logo a { display: block; margin-top: 16px; }
+
+#__search-box { position: relative; z-index: 20; float: right; margin-right=
+: 16px; padding: 7px 0px 0px 8px; height: 33px; width: 214px; background-co=
+lor: rgb(247, 247, 247); border-right: 1px solid rgb(243, 243, 243); border=
+-bottom: 1px solid rgb(236, 236, 236); border-left: 1px solid rgb(243, 243,=
+ 243); border-image: initial; border-top: none; border-radius: 0px 0px 4px =
+4px; }
+
+#__search-box input#search__input, #__search-box input.edit { width: 172px;=
+ border: 1px solid rgb(204, 204, 204); height: 14px; padding: 6px 0px 4px 4=
+px; float: left; margin-right: 7px; font-size: 11px; }
+
+#__search-box input#search__submit, #__search-box button { margin-top: 1px;=
+ width: 24px; height: 25px; background: url("img/search_submit_bg_2.png") n=
+o-repeat transparent; border: 0px none; cursor: pointer; text-indent: 35px;=
+ overflow: hidden; float: left; }
+
+#__search-box input#search__submit:hover, #__search-box button:hover { back=
+ground-position: 0px -23px; }
+
+#__search-box input#search__submit:active, #__search-box button:active { ba=
+ckground-position: 0px -46px; }
+
+#__search-box div.ajax_qsearch { position: absolute; left: -1px; top: 43px;=
+ min-width: 222px; display: none; font-size: 12px; line-height: 16px; borde=
+r: 1px solid rgb(204, 204, 204); background-color: rgb(255, 255, 255); text=
+-align: left; border-radius: 4px; }
+
+#__search-box div.ajax_qsearch strong { display: block; padding: 6px 10px; =
+font-weight: normal; background-image: url("img/subnav_active_bg.png"); bor=
+der-radius: 4px 4px 0px 0px; }
+
+#__search-box div.ajax_qsearch ul { margin: 6px 8px; list-style: none; line=
+-height: 18px; }
+
+#__search-box div.ajax_qsearch li { padding-left: 8px; background: url("img=
+/tocdot2.gif") 0px 9px no-repeat; }
+
+#__main { position: relative; padding: 0px 16px 16px; color: rgb(34, 34, 34=
+); }
+
+#__main-title h1 { margin: 30px 0px 32px 8px; float: left; clear: left; }
+
+#__main-title h1 a, #__main-title h1 a:hover { color: inherit; text-decorat=
+ion: none; }
+
+#__main-title h2 { margin: 0px 0px 32px 8px; float: left; clear: left; }
+
+#__main-title span { color: rgb(174, 167, 159); }
+
+#__main-title #upshrink { float: right; clear: right; padding-top: 44px; pa=
+dding-right: 7px; }
+
+div.msgarea { clear: both; margin: 8px 0px; }
+
+div.msgarea > div { padding: 4px 8px 4px 32px; background-position: 8px 4px=
+; }
+
+.content { clear: both; position: relative; background-color: rgb(247, 247,=
+ 247); padding: 1px 0px; margin-bottom: 16px; border-radius: 4px; }
+
+.content-main { margin: 15px 16px; border-radius: 4px; }
+
+div.smf { clear: both; }
+
+.content-wrapper { width: 100%; margin-right: -236px; float: left; }
+
+.content-wrapper .content { margin-right: 236px; }
+
+.sidebar { float: right; width: 222px; font-size: 14px; line-height: 18px; =
+background: rgb(247, 247, 247); border: 1px solid rgb(204, 204, 204); borde=
+r-radius: 4px; box-shadow: rgb(187, 187, 187) 0px 0px 4px; }
+
+.sidebar a { text-decoration: none; }
+
+.sidebar a.wikilink2 { color: rgb(174, 167, 159); text-decoration: none; }
+
+.sidebar h4 { display: block; padding: 7px 8px; border-radius: 4px 4px 0px =
+0px; background: rgb(223, 220, 217); }
+
+.sidebar > div { margin: 8px 12px 8px 0px; }
+
+.sidebar ul { list-style: none; margin-left: 10px; line-height: 22px; }
+
+.sidebar div.li { background: url("img/hs_arrow.png") 0% 50% no-repeat; pad=
+ding-left: 12px; }
+
+.sidebar div.li:hover { background: url("img/H3_arrow.png") 0% 50% no-repea=
+t; }
+
+.sidebar div.secedit2 { margin: 0px; position: relative; top: -8px; left: -=
+8px; float: right; }
+
+.sidebar div.secedit2 a { color: rgb(204, 204, 204); }
+
+div.breadcrumbs { padding: 13px 8px 0px; height: 27px; position: relative; =
+float: right; color: rgb(174, 167, 159); }
+
+div.breadcrumbs a:hover { text-decoration: underline; color: rgb(221, 72, 2=
+0); }
+
+#__site-footer { position: relative; padding: 16px 0px 16px 16px; font-size=
+: 10px; line-height: 16px; border-radius: 0px 0px 4px 4px; }
+
+#__site-footer > ul { display: block; float: left; list-style-type: none; w=
+idth: 16.6667%; margin-bottom: 24px; }
+
+#__site-footer > ul li { display: block; margin-right: 16px; border-bottom:=
+ 1px dotted rgb(51, 51, 51); }
+
+#__site-footer > ul li:first-child { font-weight: bold; }
+
+#__site-footer > ul a { color: rgb(51, 51, 51); }
+
+#__site-footer > ul a:hover { color: rgb(221, 72, 20); text-decoration: und=
+erline; }
+
+#__site-footer > ul a:active, #__site-footer > ul a.active { color: rgb(221=
+, 72, 20); }
+
+#__site-footer > ul a.rss-feed { padding-right: 18px; background: url("img/=
+news_feed_bg.png") 100% 0px no-repeat; }
+
+#__site-footer > p { clear: both; float: left; color: rgb(174, 167, 159); p=
+adding-top: 3px; line-height: 12px; position: relative; top: 2px; }
+
+#__site-footer > a { display: block; float: right; position: relative; padd=
+ing-right: 16px; height: 27px; }
+
+#__control, #__control.pinned-down { position: absolute; width: 100%; botto=
+m: 0px; left: 0px; background: rgb(247, 247, 247); border-top: 1px solid rg=
+b(204, 204, 204); height: 40px; z-index: 100000; }
+
+#__control.pinned-up { position: fixed; }
+
+#__control ul { display: block; list-style-type: none; background: url("img=
+/subnav_active_bg.png") repeat rgb(247, 247, 247); float: right; }
+
+#__control ul:first-child { float: left; }
+
+#__control li { float: right; }
+
+#__control ul:first-child li { float: left; }
+
+#__control ul a { display: block; height: 27px; text-align: center; padding=
+: 13px 8px 0px; color: rgb(51, 51, 51); text-decoration: none; background: =
+url("img/third_nav_divider_r.png") 0px 1px no-repeat rgb(247, 247, 247); }
+
+#__control ul:first-child a { background: url("img/third_nav_divider.png") =
+100% 1px no-repeat rgb(247, 247, 247); }
+
+#__control ul a:hover, #__control ul a:active, #__control ul a.active { col=
+or: rgb(221, 72, 20); background: transparent; }
+
+div.sidebar-button { float: right; position: relative; clear: right; paddin=
+g-top: 16px; }
+
+#__main-title div.sidebar-button { padding-top: 29px; }
+
+a.ubuntu-button-224, a.ubuntu-button-400 { display: block; height: 40px; co=
+lor: rgb(255, 255, 255); font-size: 20px; font-weight: normal; text-align: =
+center; line-height: 40px; text-decoration: none; }
+
+a.ubuntu-button-224 { width: 224px; background: url("img/btn-manual-downloa=
+d.png") no-repeat; }
+
+a.ubuntu-button-224:hover { background: url("img/btn-manual-download-hover.=
+png") no-repeat; }
+
+a.ubuntu-button-400 { width: 400px; background: url("img/btn-400.png") repe=
+at-x; }
+
+a.ubuntu-button-400:hover { background: url("img/btn-400-hover.png") repeat=
+-x; }
+
+div.besthosting { float: left; height: 26px; margin: 1px 32px 0px; text-ali=
+gn: center; line-height: 10px; position: relative; top: 2px; }
+
+div.besthosting a { color: rgb(174, 167, 159); }
+
+div.besthosting a:hover { color: rgb(221, 72, 20); text-decoration: none; }
+
+body.dark #__wrapper { background-color: rgb(44, 0, 30); }
+
+body.grey #__wrapper { background-color: rgb(223, 220, 217); }
+
+body.dark .content, body.grey .content { background-color: rgb(247, 247, 24=
+7); }
+
+body.dark .content-main, body.grey .content-main { margin-bottom: 31px; }
+
+body.dark #__main-title h1 { color: rgb(255, 255, 255); }
+
+body.dark #__main-title h2 { color: rgb(174, 167, 159); }
+
+body.dark .content-wrapper .content, body.grey .content-wrapper .content { =
+margin-right: 227px; }
+
+body.dark .sidebar, body.grey .sidebar { box-shadow: none; }
+
+body.dark #__header-menu, body.grey #__header-menu { border-bottom-color: r=
+gb(47, 19, 38); }
+
+body.dark #__header-menu .header-submenu > div, body.grey #__header-menu .h=
+eader-submenu > div { border-bottom-color: rgb(204, 204, 204); }
+
+body.dark #__header-menu .header-submenu a:hover, body.dark #__header-menu =
+.header-submenu a:active, body.dark #__header-menu .header-submenu a.active=
+, body.grey #__header-menu .header-submenu a:hover, body.grey #__header-men=
+u .header-submenu a:active, body.grey #__header-menu .header-submenu a.acti=
+ve { background: transparent; color: rgb(221, 72, 20); }
+
+body.dark #__search-box, body.grey #__search-box { border-bottom-color: rgb=
+(204, 204, 204); }
+
+body > a#alarm, body > a#alarm:hover, body > a#alarm:active { font-family: =
+Verdana, sans-serif; background-color: rgb(17, 17, 17); padding: 10px 30px =
+5px; color: rgb(232, 235, 243); font-size: 14px; line-height: 1.3em; text-a=
+lign: center; display: block; text-decoration: none; }
+
+body > a#alarm p.alarm-big { font-size: 20px; color: rgb(232, 235, 243); ma=
+rgin: 10px 0px; }
+
+div.dokuwiki li.open { list-style-image: url("doku-theme/open.png"); }
+
+div.dokuwiki li.closed { list-style-image: url("doku-theme/closed.png"); }
+
+div.dokuwiki a.urlextern { background-image: url("doku-theme/external.png")=
+; }
+
+div.dokuwiki a.windows { background-image: url("doku-theme/windows.gif"); }
+
+div.dokuwiki a.mail { background-image: url("doku-theme/email.png"); }
+
+div.dokuwiki textarea.edit, div.dokuwiki input.edit, div.dokuwiki select.ed=
+it { background-image: url("doku-theme/inputshadow.png"); }
+
+div.dokuwiki button, .qq-upload-button { background-image: url("doku-theme/=
+buttonshadow.png"); }
+
+div.dokuwiki #dw__toc, #media__manager h1 { background-image: url("img/subn=
+av_active_bg.png"); }
+
+div.dokuwiki #dw__toc ul li { background-image: url("doku-theme/tocdot2.gif=
+"); }
+
+div.dokuwiki p.img_caption + p a { background-image: url("img/H3_arrow.png"=
+); }
+
+#link__wiz_result div.type_u { background-image: url("doku-images/up.png");=
+ }
+
+#link__wiz_result div.type_f { background-image: url("doku-images/page.png"=
+); }
+
+#link__wiz_result div.type_d { background-image: url("doku-images/ns.png");=
+ }
+
+.dokuwiki ul.admin_tasks li.admin_acl { background-image: url("doku-images/=
+admin/acl.png"); }
+
+.dokuwiki ul.admin_tasks li.admin_usermanager { background-image: url("doku=
+-images/admin/usermanager.png"); }
+
+.dokuwiki ul.admin_tasks li.admin_plugin { background-image: url("doku-imag=
+es/admin/plugin.png"); }
+
+.dokuwiki ul.admin_tasks li.admin_config { background-image: url("doku-imag=
+es/admin/config.png"); }
+
+.dokuwiki ul.admin_tasks li.admin_revert { background-image: url("doku-imag=
+es/admin/revert.png"); }
+
+.dokuwiki ul.admin_tasks li.admin_popularity { background-image: url("doku-=
+images/admin/popularity.png"); }
+
+.qq-upload-spinner { background-image: url("doku-images/throbber.gif"); }
+
+#mediamanager__page .ui-resizable-e { background-image: url("doku-theme/res=
+izecol.png"); }
+
+#mediamanager__page .panelHeader ul li.listType { background-image: url("do=
+ku-images/icon-list.png"); }
+
+#mediamanager__page .panelHeader ul li.sortBy { background-image: url("doku=
+-images/icon-sort.png"); }
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css?family=Ubuntu:400,700,400italic,700italic&subset=latin,cyrillic
+
+@charset "utf-8";
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej75l0mwFg.wo=
+ff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE=
+0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej7wl0mwFg.wo=
+ff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B=
+1, U+2116; }
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej74l0mwFg.wo=
+ff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej73l0mwFg.wo=
+ff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38=
+C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej76l0mwFg.wo=
+ff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2C=
+E-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EF=
+F, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej70l0k.woff2=
+") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2=
+C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191,=
+ U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyCN4Ffg=
+g.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyLN4Ffg=
+g.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyDN4Ffg=
+g.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyMN4Ffg=
+g.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyBN4Ffg=
+g.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: Ubuntu; font-style: italic; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyPN4E.w=
+off2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC,=
+ U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2=
+191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKcg72j00.woff2=
+") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2=
+DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKew72j00.woff2=
+") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, =
+U+2116; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKcw72j00.woff2=
+") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfA72j00.woff2=
+") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, =
+U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKcQ72j00.woff2=
+") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2=
+D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, =
+U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 400; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72.woff2") =
+format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6,=
+ U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+=
+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjvWyNL4U.w=
+off2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2D=
+E0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjtGyNL4U.w=
+off2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4=
+B1, U+2116; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjvGyNL4U.w=
+off2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjs2yNL4U.w=
+off2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+3=
+8C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjvmyNL4U.w=
+off2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2=
+CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1E=
+FF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Ubuntu; font-style: normal; font-weight: 700; src=
+: url("https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyN.woff=
+2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+=
+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191=
+, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--LaYxN6J5HRbQ67FQgHnwO46qR2P2wKEBs1YUDufZwA------

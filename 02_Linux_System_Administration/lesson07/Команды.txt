@@ -1,0 +1,13 @@
+uname -r - выведет версию ядра 6.12.25-amd64
+sudo grub-set-default 1 - установит загрузку по умолчанию 1 версию ядра
+
+sudo bash -c 'echo 1 > /proc/sys/net/ipv4/ip_forward' - запишем в фалй настройки сети ядра значение 1. Будет действовать до перезагрузки
+sudo sysctl net.ipv4.ip_forward=1 - присваеваем указанной переменной значение. Результат net.ipv4.ip_forward = 1. Будет действовать до перезагрузки
+sudo sysctl -w net.ipv4.ip_forward=1 - присваеваем указанной переменной значение. Результат net.ipv4.ip_forward = 1. Будет действовать постоянно, т.к. указан флаг -w
+sudo sysctl -a - выведет список всех доступных переменных
+hostnamectl set-hostname sabina - установить имя машины. Требует подтверждение паролем.
+
+sudo apt install grub-customizer - установка настрощика загрузщика.
+grub-customizer - запуск настройщика загрущика. Настройки загрущика хранятся в /etc/default/grup в файле grup.config
+
+gdisk - выведет информацию о типе загрузочного диска. В нашем случае GPT fdisk (gdisk) version 1.0.10 
