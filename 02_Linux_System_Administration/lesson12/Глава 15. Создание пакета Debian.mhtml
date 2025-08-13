@@ -1,0 +1,1886 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://debian-handbook.info/browse/ru-RU/stable/debian-packaging.html
+Subject: =?utf-8?Q?=D0=93=D0=BB=D0=B0=D0=B2=D0=B0=2015.=20=D0=A1=D0=BE=D0=B7=D0=B4?=
+ =?utf-8?Q?=D0=B0=D0=BD=D0=B8=D0=B5=20=D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0?=
+ =?utf-8?Q?=20Debian?=
+Date: Mon, 11 Aug 2025 13:34:42 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----"
+
+
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: text/html
+Content-ID: <frame-FE9FE6238B48ED2E668D40823871C3F2@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/debian-packaging.html
+
+<!--?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"no"?--><!DOCTYPE =
+html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1=
+/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xhtml"><head>=
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><t=
+itle xmlns:d=3D"http://docbook.org/ns/docbook">=D0=93=D0=BB=D0=B0=D0=B2=D0=
+=B0 15. =D0=A1=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D0=BA=
+=D0=B5=D1=82=D0=B0 Debian</title><link rel=3D"stylesheet" type=3D"text/css"=
+ href=3D"https://debian-handbook.info/browse/ru-RU/stable/Common_Content/cs=
+s/default.css"><link rel=3D"stylesheet" media=3D"print" href=3D"https://deb=
+ian-handbook.info/browse/ru-RU/stable/Common_Content/css/print.css" type=3D=
+"text/css"><meta xmlns:d=3D"http://docbook.org/ns/docbook" name=3D"generato=
+r" content=3D"publican v4.3.2"><meta xmlns:d=3D"http://docbook.org/ns/docbo=
+ok" name=3D"package" content=3D"Debian-debian-handbook-11-ru-RU-1.0-1"><met=
+a name=3D"keywords" content=3D"=D0=91=D1=8D=D0=BA=D0=BF=D0=BE=D1=80=D1=82=
+=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5, =D0=9F=D0=B5=D1=80=D0=B5=
+=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B0, =D0=9F=D0=B0=D0=BA=D0=B5=D1=82 =D0=B8=
+=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D1=85 =D0=BA=D0=BE=D0=B4=D0=BE=D0=B2, =
+=D0=90=D1=80=D1=85=D0=B8=D0=B2, =D0=9C=D0=B5=D1=82=D0=B0=D0=BF=D0=B0=D0=BA=
+=D0=B5=D1=82, =D0=A0=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=87=D0=B8=
+=D0=BA Debian, Debian Package, =D0=A1=D0=BE=D0=BF=D1=80=D0=BE=D0=B2=D0=BE=
+=D0=B6=D0=B4=D0=B0=D1=8E=D1=89=D0=B8=D0=B9"><link rel=3D"home" href=3D"http=
+s://debian-handbook.info/browse/ru-RU/stable/index.html" title=3D"=D0=9D=D0=
+=B0=D1=81=D1=82=D0=BE=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BA=D0=BD=D0=B8=D0=
+=B3=D0=B0 =D0=B0=D0=B4=D0=BC=D0=B8=D0=BD=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=
+=82=D0=BE=D1=80=D0=B0 Debian"><link rel=3D"up" href=3D"https://debian-handb=
+ook.info/browse/ru-RU/stable/index.html" title=3D"=D0=9D=D0=B0=D1=81=D1=82=
+=D0=BE=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BA=D0=BD=D0=B8=D0=B3=D0=B0 =D0=B0=
+=D0=B4=D0=BC=D0=B8=D0=BD=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=82=D0=BE=D1=80=D0=
+=B0 Debian"><link rel=3D"prev" href=3D"https://debian-handbook.info/browse/=
+ru-RU/stable/sect.dealing-with-compromised-machine.html" title=3D"14.7. Dea=
+ling with a Compromised Machine"><link rel=3D"next" href=3D"https://debian-=
+handbook.info/browse/ru-RU/stable/sect.building-first-package.html" title=
+=3D"15.2. =D0=A1=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =D0=B2=D0=B0=D1=88=D0=B5=D0=
+=B3=D0=BE =D0=BF=D0=B5=D1=80=D0=B2=D0=BE=D0=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=
+=B5=D1=82=D0=B0"><meta xmlns=3D"" name=3D"flattr:id" content=3D"4pz9jq"><li=
+nk xmlns=3D"" rel=3D"canonical" href=3D"https://debian-handbook.info/browse=
+/ru-RU/stable/debian-packaging.html"></head><body><div id=3D"banner"><a hre=
+f=3D"http://debian-handbook.info/get/"><span class=3D"text">Download the eb=
+ook</span></a></div><p id=3D"title"><a class=3D"left" href=3D"http://www.de=
+bian.org/"><img alt=3D"Product Site" src=3D"https://debian-handbook.info/br=
+owse/ru-RU/stable/Common_Content/images//image_left.png"></a><a class=3D"ri=
+ght" href=3D"https://debian-handbook.info/browse/ru-RU/stable/index.html"><=
+img alt=3D"Documentation Site" src=3D"https://debian-handbook.info/browse/r=
+u-RU/stable/Common_Content/images//image_right.png"></a></p><ul class=3D"do=
+cnav top"><li class=3D"previous"><a accesskey=3D"p" href=3D"https://debian-=
+handbook.info/browse/ru-RU/stable/sect.dealing-with-compromised-machine.htm=
+l"><strong>=D0=9F=D1=80=D0=B5=D0=B4.</strong></a></li><li class=3D"home">=
+=D0=9D=D0=B0=D1=81=D1=82=D0=BE=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=BA=D0=BD=
+=D0=B8=D0=B3=D0=B0 =D0=B0=D0=B4=D0=BC=D0=B8=D0=BD=D0=B8=D1=81=D1=82=D1=80=
+=D0=B0=D1=82=D0=BE=D1=80=D0=B0 Debian</li><li class=3D"next"><a accesskey=
+=3D"n" href=3D"https://debian-handbook.info/browse/ru-RU/stable/sect.buildi=
+ng-first-package.html"><strong>=D0=A1=D0=BB=D0=B5=D0=B4.</strong></a></li><=
+/ul><div xml:lang=3D"ru-RU" class=3D"chapter" lang=3D"ru-RU"><div class=3D"=
+titlepage"><div><div><h1 class=3D"title"><a xmlns=3D"" id=3D"debian-packagi=
+ng"></a>=D0=93=D0=BB=D0=B0=D0=B2=D0=B0 15. =D0=A1=D0=BE=D0=B7=D0=B4=D0=B0=
+=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0 Debian</h1></div></=
+div></div><div class=3D"toc"><dl class=3D"toc"><dt><span class=3D"section">=
+<a href=3D"https://debian-handbook.info/browse/ru-RU/stable/debian-packagin=
+g.html#sect.rebuilding-package">15.1. =D0=9F=D0=B5=D1=80=D0=B5=D1=81=D0=B1=
+=D0=BE=D1=80=D0=BA=D0=B0 =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0 =D0=B8=D0=B7 =
+=D0=B5=D0=B3=D0=BE =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D0=BE=D0=B3=D0=BE =
+=D0=BA=D0=BE=D0=B4=D0=B0</a></span></dt><dd><dl><dt><span class=3D"section"=
+><a href=3D"https://debian-handbook.info/browse/ru-RU/stable/debian-packagi=
+ng.html#id-1.18.4.5">15.1.1. =D0=9F=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D0=BE=D0=B3=D0=BE =D0=BA=D0=
+=BE=D0=B4=D0=B0</a></span></dt><dt><span class=3D"section"><a href=3D"https=
+://debian-handbook.info/browse/ru-RU/stable/debian-packaging.html#id-1.18.4=
+.6">15.1.2. =D0=92=D0=BD=D0=B5=D1=81=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B8=D0=B7=
+=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B9</a></span></dt><dt><span class=
+=3D"section"><a href=3D"https://debian-handbook.info/browse/ru-RU/stable/de=
+bian-packaging.html#id-1.18.4.7">15.1.3. =D0=97=D0=B0=D0=BF=D1=83=D1=81=D0=
+=BA =D0=BF=D0=B5=D1=80=D0=B5=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8</a></span>=
+</dt></dl></dd><dt><span class=3D"section"><a href=3D"https://debian-handbo=
+ok.info/browse/ru-RU/stable/sect.building-first-package.html">15.2. =D0=A1=
+=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =D0=B2=D0=B0=D1=88=D0=B5=D0=B3=D0=BE =D0=BF=
+=D0=B5=D1=80=D0=B2=D0=BE=D0=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0</=
+a></span></dt><dd><dl><dt><span class=3D"section"><a href=3D"https://debian=
+-handbook.info/browse/ru-RU/stable/sect.building-first-package.html#id-1.18=
+.5.2">15.2.1. =D0=9C=D0=B5=D1=82=D0=B0=D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D1=8B =
+=D0=B8=D0=BB=D0=B8 =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D1=8B-=D0=BF=D1=83=D1=81=
+=D1=82=D1=8B=D1=88=D0=BA=D0=B8</a></span></dt><dt><span class=3D"section"><=
+a href=3D"https://debian-handbook.info/browse/ru-RU/stable/sect.building-fi=
+rst-package.html#id-1.18.5.3">15.2.2. =D0=9F=D1=80=D0=BE=D1=81=D1=82=D0=BE=
+=D0=B5 =D1=84=D0=B0=D0=B9=D0=BB=D0=BE=D0=B2=D0=BE=D0=B5 =D1=85=D1=80=D0=B0=
+=D0=BD=D0=B8=D0=BB=D0=B8=D1=89=D0=B5</a></span></dt></dl></dd><dt><span cla=
+ss=3D"section"><a href=3D"https://debian-handbook.info/browse/ru-RU/stable/=
+sect.setup-apt-package-repository.html">15.3. =D0=A1=D0=BE=D0=B7=D0=B4=D0=
+=B0=D0=BD=D0=B8=D0=B5 =D1=80=D0=B5=D0=BF=D0=BE=D0=B7=D0=B8=D1=82=D0=BE=D1=
+=80=D0=B8=D1=8F =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2 =D0=B4=D0=BB=D1=
+=8F APT</a></span></dt><dt><span class=3D"section"><a href=3D"https://debia=
+n-handbook.info/browse/ru-RU/stable/sect.becoming-package-maintainer.html">=
+15.4. =D0=9A=D0=B0=D0=BA =D1=81=D1=82=D0=B0=D1=82=D1=8C =D1=81=D0=BE=D0=BF=
+=D1=80=D0=BE=D0=B2=D0=BE=D0=B6=D0=B4=D0=B0=D1=8E=D1=89=D0=B8=D0=BC =D0=BF=
+=D0=B0=D0=BA=D0=B5=D1=82=D0=B0</a></span></dt><dd><dl><dt><span class=3D"se=
+ction"><a href=3D"https://debian-handbook.info/browse/ru-RU/stable/sect.bec=
+oming-package-maintainer.html#id-1.18.7.5">15.4.1. =D0=A3=D1=87=D0=B8=D0=BC=
+=D1=81=D1=8F =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D1=8C =D0=BF=
+=D0=B0=D0=BA=D0=B5=D1=82=D1=8B</a></span></dt><dt><span class=3D"section"><=
+a href=3D"https://debian-handbook.info/browse/ru-RU/stable/sect.becoming-pa=
+ckage-maintainer.html#id-1.18.7.6">15.4.2. =D0=9F=D1=80=D0=BE=D1=86=D0=B5=
+=D1=81=D1=81 =D0=BF=D1=80=D0=B8=D0=BD=D1=8F=D1=82=D0=B8=D1=8F</a></span></d=
+t></dl></dd></dl></div><div class=3D"highlights"><div class=3D"para">
+		=D0=9D=D0=B5=D1=80=D0=B5=D0=B4=D0=BA=D0=BE =D0=B0=D0=B4=D0=BC=D0=B8=D0=BD=
+=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=82=D0=BE=D1=80, =D0=BF=D0=BE=D1=81=D1=82=
+=D0=BE=D1=8F=D0=BD=D0=BD=D0=BE =D0=B8=D0=BC=D0=B5=D1=8E=D1=89=D0=B8=D0=B9 =
+=D0=B4=D0=B5=D0=BB=D0=BE =D1=81 =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0=D0=BC=
+=D0=B8 Debian, =D1=81=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=B5=D0=
+=BC =D1=87=D1=83=D0=B2=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =D0=BD=D0=B5=D0=
+=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D1=8C =D0=B2 =D1=
+=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D0=B8 =D1=81=D0=B2=D0=BE=D0=B8=D1=
+=85 =D1=81=D0=BE=D0=B1=D1=81=D1=82=D0=B2=D0=B5=D0=BD=D0=BD=D1=8B=D1=85 =D0=
+=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2 =D0=B8=D0=BB=D0=B8 =D0=B8=D0=B7=D0=
+=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B8 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=
+=82=D0=B2=D1=83=D1=8E=D1=89=D0=B5=D0=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=B5=D1=
+=82=D0=B0. =D0=A6=D0=B5=D0=BB=D1=8C =D1=8D=D1=82=D0=BE=D0=B9 =D0=B3=D0=BB=
+=D0=B0=D0=B2=D1=8B =D1=81=D0=BE=D1=81=D1=82=D0=BE=D0=B8=D1=82 =D0=B2 =D1=82=
+=D0=BE=D0=BC, =D1=87=D1=82=D0=BE=D0=B1=D1=8B =D0=BE=D1=82=D0=B2=D0=B5=D1=82=
+=D0=B8=D1=82=D1=8C =D0=BD=D0=B0 =D0=BD=D0=B0=D0=B8=D0=B1=D0=BE=D0=BB=D0=B5=
+=D0=B5 =D1=80=D0=B0=D1=81=D0=BF=D1=80=D0=BE=D1=81=D1=82=D1=80=D0=B0=D0=BD=
+=D0=B5=D0=BD=D0=BD=D1=8B=D0=B5 =D0=B2=D0=BE=D0=BF=D1=80=D0=BE=D1=81=D1=8B =
+=D0=B2 =D1=8D=D1=82=D0=BE=D0=B9 =D0=BE=D0=B1=D0=BB=D0=B0=D1=81=D1=82=D0=B8,=
+ =D0=B0 =D1=82=D0=B0=D0=BA=D0=B6=D0=B5 =D0=BF=D1=80=D0=B5=D0=B4=D0=BE=D1=81=
+=D1=82=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=
+=D0=B4=D0=B8=D0=BC=D1=8B=D0=B5 =D0=B1=D0=B0=D0=B7=D0=BE=D0=B2=D1=8B=D0=B5 =
+=D0=B7=D0=BD=D0=B0=D0=BD=D0=B8=D1=8F =D0=B4=D0=BB=D1=8F =D0=B8=D1=81=D0=BF=
+=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=B8=D0=BD=
+=D1=84=D1=80=D0=B0=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D1=8B De=
+bian =D0=BD=D0=B0=D0=B8=D0=BB=D1=83=D1=87=D1=88=D0=B8=D0=BC =D0=BE=D0=B1=D1=
+=80=D0=B0=D0=B7=D0=BE=D0=BC. =D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=BE=D0=B2=D0=
+=B5=D0=B7=D0=B5=D1=82, =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=BF=D0=BE=D0=BF=D1=
+=8B=D1=82=D0=BA=D0=B8 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B8=D1=82=D1=
+=8C =D1=80=D1=83=D0=BA=D1=83 =D0=BA =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=
+=B8=D1=8E =D0=BB=D0=BE=D0=BA=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D0=BF=D0=
+=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2 =D0=B2=D1=8B =D0=B4=D0=B0=D0=B6=D0=B5 =D0=
+=BC=D0=BE=D0=B6=D0=B5=D1=82=D0=B5 =D0=BF=D0=BE=D1=87=D1=83=D0=B2=D1=81=D1=
+=82=D0=B2=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=BF=D0=BE=D1=82=D1=80=D0=B5=D0=
+=B1=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=B2 =D1=82=D0=BE=D0=BC, =D1=87=D1=82=
+=D0=BE=D0=B1=D1=8B =D0=BF=D0=BE=D0=B9=D1=82=D0=B8 =D0=B4=D0=B0=D0=BB=D1=8C=
+=D1=88=D0=B5 =D0=B8 =D0=BF=D1=80=D0=B8=D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=BD=
+=D0=B8=D1=82=D1=8C=D1=81=D1=8F =D0=BA =D1=81=D0=B0=D0=BC=D0=BE=D0=BC=D1=83 =
+=D0=9F=D1=80=D0=BE=D0=B5=D0=BA=D1=82=D1=83 Debian!
+	</div></div><div class=3D"section"><div class=3D"titlepage"><div><div><h2 =
+class=3D"title"><a xmlns=3D"" id=3D"sect.rebuilding-package"></a>15.1. =D0=
+=9F=D0=B5=D1=80=D0=B5=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =D0=BF=D0=B0=D0=
+=BA=D0=B5=D1=82=D0=B0 =D0=B8=D0=B7 =D0=B5=D0=B3=D0=BE =D0=B8=D1=81=D1=85=D0=
+=BE=D0=B4=D0=BD=D0=BE=D0=B3=D0=BE =D0=BA=D0=BE=D0=B4=D0=B0</h2></div></div>=
+</div><a id=3D"id-1.18.4.2" class=3D"indexterm"></a><a id=3D"id-1.18.4.3" c=
+lass=3D"indexterm"></a><div class=3D"para">
+			=D0=9F=D0=B5=D1=80=D0=B5=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =D0=B4=D0=
+=B2=D0=BE=D0=B8=D1=87=D0=BD=D0=BE=D0=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=B5=D1=
+=82=D0=B0 =D1=82=D1=80=D0=B5=D0=B1=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D1=
+=80=D0=B8 =D1=80=D1=8F=D0=B4=D0=B5 =D0=BE=D0=B1=D1=81=D1=82=D0=BE=D1=8F=D1=
+=82=D0=B5=D0=BB=D1=8C=D1=81=D1=82=D0=B2. =D0=92 =D0=BD=D0=B5=D0=BA=D0=BE=D1=
+=82=D0=BE=D1=80=D1=8B=D1=85 =D1=81=D0=BB=D1=83=D1=87=D0=B0=D1=8F=D1=85 =D0=
+=B0=D0=B4=D0=BC=D0=B8=D0=BD=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=82=D0=BE=D1=80=
+=D1=83 =D0=BD=D1=83=D0=B6=D0=BD=D0=B0 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=
+=D0=BE=D0=BD=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=BF=D1=80=
+=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D1=8B, =D0=B4=D0=BB=D1=8F =D0=B0=D0=BA=
+=D1=82=D0=B8=D0=B2=D0=B0=D1=86=D0=B8=D0=B8 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=
+=D0=BE=D0=B9 =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=B0 =
+=D0=BA=D0=BE=D0=BC=D0=BF=D0=B8=D0=BB=D1=8F=D1=86=D0=B8=D1=8F =D0=B8=D0=B7 =
+=D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D0=BE=D0=B3=D0=BE =D0=BA=D0=BE=D0=B4=
+=D0=B0 =D1=81 =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B5=D0=BD=D0=BD=
+=D0=BE=D0=B9 =D0=BE=D0=BF=D1=86=D0=B8=D0=B5=D0=B9; =D0=B2 =D0=B4=D1=80=D1=
+=83=D0=B3=D0=B8=D1=85 =D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=
+=BD=D0=BE=D0=B5 =D0=BE=D0=B1=D0=B5=D1=81=D0=BF=D0=B5=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5, =D1=83=D0=BF=D0=B0=D0=BA=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D0=BE=D0=
+=B5 =D0=B2 =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=
+=BD=D0=BE=D0=B9 =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D0=B8 Debian, =D0=BD=D0=B5=
+=D0=B4=D0=BE=D1=81=D1=82=D0=B0=D1=82=D0=BE=D1=87=D0=BD=D0=BE =D0=B0=D0=BA=
+=D1=82=D1=83=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE. =D0=92 =D0=BF=D0=BE=D1=81=D0=BB=
+=D0=B5=D0=B4=D0=BD=D0=B5=D0=BC =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=B5 =D0=B0=
+=D0=B4=D0=BC=D0=B8=D0=BD=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=82=D0=BE=D1=80=D1=
+=83 =D0=BE=D0=B1=D1=8B=D1=87=D0=BD=D0=BE =D0=BD=D1=83=D0=B6=D0=BD=D0=BE =D1=
+=81=D0=BE=D0=B1=D1=80=D0=B0=D1=82=D1=8C =D0=B1=D0=BE=D0=BB=D0=B5=D0=B5 =D1=
+=81=D0=B2=D0=B5=D0=B6=D0=B8=D0=B9 =D0=BF=D0=B0=D0=BA=D0=B5=D1=82, =D0=B2=D0=
+=B7=D1=8F=D1=82=D1=8B=D0=B9 =D0=B8=D0=B7 =D0=B1=D0=BE=D0=BB=D0=B5=D0=B5 =D0=
+=BD=D0=BE=D0=B2=D0=BE=D0=B9 =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D0=B8 Debian =E2=
+=80=94 =D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80 <span class=3D"dist=
+ribution distribution">Testing</span> =D0=B8=D0=BB=D0=B8 =D0=B4=D0=B0=D0=B6=
+=D0=B5 <span class=3D"distribution distribution">Unstable</span> =E2=80=94 =
+=D1=87=D1=82=D0=BE=D0=B1=D1=8B =D0=BD=D0=BE=D0=B2=D1=8B=D0=B9 =D0=BF=D0=B0=
+=D0=BA=D0=B5=D1=82 =D0=B7=D0=B0=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=BB =
+=D0=B2 =D0=B4=D0=B8=D1=81=D1=82=D1=80=D0=B8=D0=B1=D1=83=D1=82=D0=B8=D0=B2=
+=D0=B5 <span class=3D"distribution distribution">Stable</span>; =D1=8D=D1=
+=82=D0=B0 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D1=8F =D0=BD=D0=B0=D0=
+=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =C2=AB=D0=B1=D1=8D=D0=BA=D0=
+=BF=D0=BE=D1=80=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=C2=BB=
+. =D0=9A=D0=B0=D0=BA =D0=BE=D0=B1=D1=8B=D1=87=D0=BD=D0=BE, =D0=BF=D1=80=D0=
+=B5=D0=B6=D0=B4=D0=B5 =D1=87=D0=B5=D0=BC =D0=BF=D1=80=D0=B8=D1=81=D1=82=D1=
+=83=D0=BF=D0=B0=D1=82=D1=8C =D0=BA =D1=82=D0=B0=D0=BA=D0=BE=D0=B9 =D0=B7=D0=
+=B0=D0=B4=D0=B0=D1=87=D0=B5, =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D0=B5=D1=82 =D0=
+=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C, =D0=BD=D0=B5 =D0=B1=D1=
+=8B=D0=BB =D0=BB=D0=B8 =D1=82=D0=B0=D0=BA=D0=BE=D0=B9 =D0=BF=D0=B0=D0=BA=D0=
+=B5=D1=82 =D1=83=D0=B6=D0=B5 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD, =E2=80=
+=94 =D0=B4=D0=BB=D1=8F =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=B4=D0=BE=D1=81=D1=
+=82=D0=B0=D1=82=D0=BE=D1=87=D0=BD=D0=BE =D0=B1=D0=B5=D0=B3=D0=BB=D0=BE=D0=
+=B3=D0=BE =D0=B2=D0=B7=D0=B3=D0=BB=D1=8F=D0=B4=D0=B0 =D0=BD=D0=B0 =D1=81=D1=
+=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=83 =D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=D0=
+=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0 =D0=B2 =D0=A1=D0=B8=D1=81=D1=
+=82=D0=B5=D0=BC=D0=B5 =D0=BE=D1=82=D1=81=D0=BB=D0=B5=D0=B6=D0=B8=D0=B2=D0=
+=B0=D0=BD=D0=B8=D1=8F =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2 Debian. <d=
+iv xmlns=3D"" class=3D"url">=E2=86=92&nbsp;<a xmlns=3D"http://www.w3.org/19=
+99/xhtml" href=3D"https://tracker.debian.org/">https://tracker.debian.org/<=
+/a></div> <a id=3D"id-1.18.4.4.5" class=3D"indexterm"></a>
+		</div><div class=3D"section"><div class=3D"titlepage"><div><div><h3 class=
+=3D"title"><a xmlns=3D"" id=3D"id-1.18.4.5"></a>15.1.1. =D0=9F=D0=BE=D0=BB=
+=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=
+=D0=BE=D0=B3=D0=BE =D0=BA=D0=BE=D0=B4=D0=B0</h3></div></div></div><a id=3D"=
+id-1.18.4.5.2" class=3D"indexterm"></a><a id=3D"id-1.18.4.5.3" class=3D"ind=
+exterm"></a><a id=3D"id-1.18.4.5.4" class=3D"indexterm"></a><a id=3D"id-1.1=
+8.4.5.5" class=3D"indexterm"></a><a id=3D"id-1.18.4.5.6" class=3D"indexterm=
+"></a><a id=3D"id-1.18.4.5.7" class=3D"indexterm"></a><a id=3D"id-1.18.4.5.=
+8" class=3D"indexterm"></a><div class=3D"para">
+				Rebuilding a Debian package starts with getting its source code. The ea=
+siest way is to use the <code class=3D"command">apt-get source <em class=3D=
+"replaceable">package-name</em></code> command. This command requires a <co=
+de class=3D"literal">deb-src</code> line in the <code class=3D"filename">/e=
+tc/apt/sources.list</code> file, and up-to-date index files (i.e. <code cla=
+ss=3D"command">apt-get update</code>). These conditions should already be m=
+et if you followed the instructions from the chapter dealing with APT confi=
+guration (see <a class=3D"xref" href=3D"https://debian-handbook.info/browse=
+/ru-RU/stable/apt.html#sect.apt-sources.list">=D0=A0=D0=B0=D0=B7=D0=B4=D0=
+=B5=D0=BB&nbsp;6.1, =C2=AB=D0=A1=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=BC=
+=D0=BE=D0=B5 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 <code class=3D"filename">source=
+s.list</code>=C2=BB</a>). Note, however, that you will be downloading the s=
+ource packages from the Debian version mentioned in the <code class=3D"lite=
+ral">deb-src</code> line.
+			</div><div class=3D"para">
+				If you need another version, you may need to download it manually from =
+a Debian mirror or from the web site. This involves fetching two or three f=
+iles (with extensions <code class=3D"filename">*.dsc</code> =E2=80=94 for <=
+span class=3D"emphasis"><em>Debian Source Control</em></span> =E2=80=94 <co=
+de class=3D"filename">*.tar.<em class=3D"replaceable">comp</em></code>, and=
+ sometimes <code class=3D"filename">*.diff.gz</code> or <code class=3D"file=
+name">*.debian.tar.<em class=3D"replaceable">comp</em></code> =E2=80=94 <em=
+ class=3D"replaceable">comp</em> taking one value among <code class=3D"lite=
+ral">gz</code>, <code class=3D"literal">bz2</code> or <code class=3D"litera=
+l">xz</code> depending on the compression tool in use), then run the <code =
+class=3D"command">dpkg-source -x <em class=3D"replaceable">file.dsc</em></c=
+ode> command. If the <code class=3D"filename">*.dsc</code> file is directly=
+ accessible at a given URL, there is an even simpler way to fetch it all, w=
+ith the <code class=3D"command">dget <em class=3D"replaceable">URL</em></co=
+de> command. This command (which can be found in the <span class=3D"pkg pkg=
+">devscripts</span> package) fetches the <code class=3D"filename">*.dsc</co=
+de> file at the given address, then analyzes its contents, and automaticall=
+y fetches the file or files referenced within. Once everything has been dow=
+nloaded, it verifies the integrity of the downloaded source packages using =
+<code class=3D"command">dscverify</code>, and it extracts the source packag=
+e (unless the <code class=3D"literal">-d</code> or <code class=3D"literal">=
+--download-only</code> option is used). The Debian keyring is needed, unles=
+s the option <code class=3D"literal">-u</code> is supplied.
+			</div><a id=3D"id-1.18.4.5.11" class=3D"indexterm"></a><a id=3D"id-1.18.=
+4.5.12" class=3D"indexterm"></a><a id=3D"id-1.18.4.5.13" class=3D"indexterm=
+"></a><a id=3D"id-1.18.4.5.14" class=3D"indexterm"></a><a id=3D"id-1.18.4.5=
+.15" class=3D"indexterm"></a><a id=3D"id-1.18.4.5.16" class=3D"indexterm"><=
+/a><a id=3D"id-1.18.4.5.17" class=3D"indexterm"></a><a id=3D"id-1.18.4.5.18=
+" class=3D"indexterm"></a><a id=3D"id-1.18.4.5.19" class=3D"indexterm"></a>=
+<a id=3D"id-1.18.4.5.20" class=3D"indexterm"></a><a id=3D"id-1.18.4.5.21" c=
+lass=3D"indexterm"></a><a id=3D"id-1.18.4.5.22" class=3D"indexterm"></a><a =
+id=3D"id-1.18.4.5.23" class=3D"indexterm"></a><a id=3D"id-1.18.4.5.24" clas=
+s=3D"indexterm"></a><a id=3D"id-1.18.4.5.25" class=3D"indexterm"></a></div>=
+<div class=3D"section"><div class=3D"titlepage"><div><div><h3 class=3D"titl=
+e"><a xmlns=3D"" id=3D"id-1.18.4.6"></a>15.1.2. =D0=92=D0=BD=D0=B5=D1=81=D0=
+=B5=D0=BD=D0=B8=D0=B5 =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=
+=B9</h3></div></div></div><div class=3D"para">
+				=D0=94=D0=BB=D1=8F =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=B0 =D0=B2=D0=
+=BE=D0=B7=D1=8C=D0=BC=D1=91=D0=BC =D0=BF=D0=B0=D0=BA=D0=B5=D1=82 <span clas=
+s=3D"pkg pkg">samba</span>.
+			</div><pre class=3D"screen"><code class=3D"computeroutput">$ </code><str=
+ong class=3D"userinput"><code>apt source samba
+</code></strong><code class=3D"computeroutput">Reading package lists... Don=
+e
+NOTICE: 'samba' packaging is maintained in the 'Git' version control system=
+ at:
+https://salsa.debian.org/samba-team/samba.git
+Please use:
+git clone https://salsa.debian.org/samba-team/samba.git
+to retrieve the latest (possibly unreleased) updates to the package.
+Need to get 12.3 MB of source archives.
+Get:1 http://security.debian.org/debian-security bullseye-security/main sam=
+ba 2:4.13.13+dfsg-1~deb11u3 (dsc) [4,514 B]
+Get:2 http://security.debian.org/debian-security bullseye-security/main sam=
+ba 2:4.13.13+dfsg-1~deb11u3 (tar) [11.8 MB]
+Get:3 http://security.debian.org/debian-security bullseye-security/main sam=
+ba 2:4.13.13+dfsg-1~deb11u3 (diff) [468 kB]
+Fetched 12.3 MB in 3s (4,582 kB/s)
+dpkg-source: info: extracting samba in samba-4.13.13+dfsg
+dpkg-source: info: unpacking samba_4.13.13+dfsg.orig.tar.xz
+dpkg-source: info: unpacking samba_4.13.13+dfsg-1~deb11u3.debian.tar.xz
+dpkg-source: info: using patch list from debian/patches/series
+dpkg-source: info: applying 07_private_lib
+dpkg-source: info: applying bug_221618_precise-64bit-prototype.patch
+dpkg-source: info: applying [...]
+</code></pre><div class=3D"para">
+				The source of the package is now available in a directory named after t=
+he source package and its version (<code class=3D"filename">samba-4.13.13+d=
+fsg</code>); this is where we'll work on our local changes.
+			</div><div class=3D"para">
+				The first thing to do is to change the package version number, so that =
+the rebuilt packages can be distinguished from the original packages provid=
+ed by Debian. Assuming the current version is <code class=3D"literal">2:4.1=
+3.13+dfsg-1~deb11u3</code>, we can create version <code class=3D"literal">2=
+:4.13.13+dfsg-1~deb11u3+falcot1</code>, which clearly indicates the origin =
+of the package. This makes the package version number higher than the one p=
+rovided by Debian, so that the package will easily install as an update to =
+the original package. Such a change is best effected with the <code class=
+=3D"command">dch</code> command (<span class=3D"emphasis"><em>Debian CHange=
+log</em></span>) from the <span class=3D"pkg pkg">devscripts</span> package=
+. <a id=3D"id-1.18.4.6.5.6" class=3D"indexterm"></a> <a id=3D"id-1.18.4.6.5=
+.7" class=3D"indexterm"></a> <a id=3D"id-1.18.4.6.5.8" class=3D"indexterm">=
+</a>=20
+<pre class=3D"screen"><code class=3D"computeroutput">$ </code><strong class=
+=3D"userinput"><code>cd 4.13.13+dfsg-1~deb11u3
+</code></strong><code class=3D"computeroutput">$ </code><strong class=3D"us=
+erinput"><code>dch --local +falcot
+</code></strong></pre>
+				=D0=9F=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=D0=BD=D1=8F=D1=8F =D0=BA=D0=BE=D0=
+=BC=D0=B0=D0=BD=D0=B4=D0=B0 =D0=B2=D1=8B=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=
+=82 =D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =D1=80=D0=B5=D0=
+=B4=D0=B0=D0=BA=D1=82=D0=BE=D1=80 (<code class=3D"command">sensible-editor<=
+/code> =E2=80=94 =D1=8D=D1=82=D0=BE =D0=B4=D0=BE=D0=BB=D0=B6=D0=B5=D0=BD =
+=D0=B1=D1=8B=D1=82=D1=8C =D0=B2=D0=B0=D1=88 =D0=BB=D1=8E=D0=B1=D0=B8=D0=BC=
+=D1=8B=D0=B9 =D1=80=D0=B5=D0=B4=D0=B0=D0=BA=D1=82=D0=BE=D1=80, =D0=B5=D1=81=
+=D0=BB=D0=B8 =D0=BE=D0=BD =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD =D0=B2 =D0=
+=BF=D0=B5=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D0=BE=D0=B9 =D0=BE=D0=BA=D1=
+=80=D1=83=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F <code class=3D"varname">VISUAL</cod=
+e> =D0=B8=D0=BB=D0=B8 <code class=3D"varname">EDITOR</code>, =D0=B0 =D0=B2 =
+=D0=BF=D1=80=D0=BE=D1=82=D0=B8=D0=B2=D0=BD=D0=BE=D0=BC =D1=81=D0=BB=D1=83=
+=D1=87=D0=B0=D0=B5 =D1=80=D0=B5=D0=B4=D0=B0=D0=BA=D1=82=D0=BE=D1=80 =D0=BF=
+=D0=BE =D1=83=D0=BC=D0=BE=D0=BB=D1=87=D0=B0=D0=BD=D0=B8=D1=8E) =D0=B4=D0=BB=
+=D1=8F =D1=82=D0=BE=D0=B3=D0=BE, =D1=87=D1=82=D0=BE=D0=B1=D1=8B =D0=B4=D0=
+=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=
+=D1=8C =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D1=8F, =D0=B2=D0=BD=
+=D0=B5=D1=81=D0=B5=D0=BD=D0=BD=D1=8B=D0=B5 =D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=
+=D0=B9 =D0=BF=D0=B5=D1=80=D0=B5=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=BE=D0=B9. =
+=D0=AD=D1=82=D0=BE=D1=82 =D1=80=D0=B5=D0=B4=D0=B0=D0=BA=D1=82=D0=BE=D1=80 =
+=D0=BF=D0=BE=D0=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82 =D0=BD=D0=B0=
+=D0=BC, =D1=87=D1=82=D0=BE <code class=3D"command">dch</code> =D0=B4=D0=B5=
+=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE =D0=B8=
+=D0=B7=D0=BC=D0=B5=D0=BD=D0=B8=D0=BB=D0=B0 =D1=84=D0=B0=D0=B9=D0=BB <code c=
+lass=3D"filename">debian/changelog</code>.
+			</div><a id=3D"id-1.18.4.6.6" class=3D"indexterm"></a><a id=3D"id-1.18.4=
+.6.7" class=3D"indexterm"></a><a id=3D"id-1.18.4.6.8" class=3D"indexterm"><=
+/a><a id=3D"id-1.18.4.6.9" class=3D"indexterm"></a><a id=3D"id-1.18.4.6.10"=
+ class=3D"indexterm"></a><a id=3D"id-1.18.4.6.11" class=3D"indexterm"></a><=
+div class=3D"para">
+				When a change in build options is required, the changes need to be made=
+ in <code class=3D"filename">debian/rules</code>, which drives the steps in=
+ the package build process. In the simplest cases, the lines concerning the=
+ initial configuration (<code class=3D"literal">./configure =E2=80=A6</code=
+>) or the actual build (<code class=3D"literal">$(MAKE) =E2=80=A6</code> or=
+ <code class=3D"literal">make =E2=80=A6</code> or <code class=3D"literal">c=
+make =E2=80=A6</code> or =E2=80=A6) are easy to spot. If these commands are=
+ not explicitly called, they are probably a side effect of another explicit=
+ command, in which case please refer to their documentation to learn more a=
+bout how to change the default behavior. With packages using <code class=3D=
+"command">dh</code>, you might need to add an override for the <code class=
+=3D"command">dh_auto_configure</code> or <code class=3D"command">dh_auto_bu=
+ild</code> commands (see their respective manual pages and <span class=3D"c=
+iterefentry"><span class=3D"refentrytitle">debhelper</span>(7)</span> for e=
+xplanations on how to achieve this).
+			</div><a id=3D"id-1.18.4.6.13" class=3D"indexterm"></a><a id=3D"id-1.18.=
+4.6.14" class=3D"indexterm"></a><a id=3D"id-1.18.4.6.15" class=3D"indexterm=
+"></a><a id=3D"id-1.18.4.6.16" class=3D"indexterm"></a><a id=3D"id-1.18.4.6=
+.17" class=3D"indexterm"></a><a id=3D"id-1.18.4.6.18" class=3D"indexterm"><=
+/a><div class=3D"para">
+				=D0=92 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D0=
+=B8 =D0=BE=D1=82 =D0=BB=D0=BE=D0=BA=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D0=
+=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=D0=B9 =D0=B2 =D0=BF=D0=B0=D0=
+=BA=D0=B5=D1=82=D0=B0=D1=85 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=BF=D0=BE=D1=
+=82=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D1=82=D0=
+=B0=D0=BA=D0=B6=D0=B5 =D0=BE=D0=B1=D0=BD=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 <code class=3D"filename">debian/co=
+ntrol</code>, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9 =D1=81=D0=BE=D0=B4=
+=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=
+=D0=B5 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=B2=D0=B0=D0=B5=D0=BC=D1=8B=D1=85 =
+=D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=B2. =D0=92 =D1=87=D0=B0=D1=81=D1=82=
+=D0=BD=D0=BE=D1=81=D1=82=D0=B8, =D1=8D=D1=82=D0=BE=D1=82 =D1=84=D0=B0=D0=B9=
+=D0=BB =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D1=81=D1=82=D1=80=
+=D0=BE=D0=BA=D0=B8 <code class=3D"literal">Build-Depends</code>, =D0=BA=D0=
+=BE=D0=BD=D1=82=D1=80=D0=BE=D0=BB=D0=B8=D1=80=D1=83=D1=8E=D1=89=D0=B8=D0=B5=
+ =D1=81=D0=BF=D0=B8=D1=81=D0=BE=D0=BA =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=
+=D0=BC=D0=BE=D1=81=D1=82=D0=B5=D0=B9, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=
+=D0=B5 =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D1=8B =D0=B1=D1=8B=D1=82=D1=8C =D1=83=
+=D0=B4=D0=BE=D0=B2=D0=BB=D0=B5=D1=82=D0=B2=D0=BE=D1=80=D0=B5=D0=BD=D1=8B =
+=D0=BD=D0=B0 =D1=8D=D1=82=D0=B0=D0=BF=D0=B5 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=
+=D0=B8 =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0. =D0=9E=D0=BD=D0=B8 =D1=87=D0=
+=B0=D1=81=D1=82=D0=BE =D1=81=D1=81=D1=8B=D0=BB=D0=B0=D1=8E=D1=82=D1=81=D1=
+=8F =D0=BD=D0=B0 =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D0=B8 =D0=BF=D0=B0=D0=BA=D0=
+=B5=D1=82=D0=BE=D0=B2, =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D1=89=D0=
+=B8=D0=B5=D1=81=D1=8F =D0=B2 =D0=B4=D0=B8=D1=81=D1=82=D1=80=D0=B8=D0=B1=D1=
+=83=D1=82=D0=B8=D0=B2=D0=B5, =D0=BE=D1=82=D0=BA=D1=83=D0=B4=D0=B0 =D0=B2=D0=
+=B7=D1=8F=D1=82 =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=B9 =D0=BA=D0=
+=BE=D0=B4, =D0=BD=D0=BE =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BC=
+=D0=BE=D0=B3=D1=83=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D0=BD=D0=B5=D0=B4=D0=BE=
+=D1=81=D1=82=D1=83=D0=BF=D0=BD=D1=8B =D0=B2 =D0=B4=D0=B8=D1=81=D1=82=D1=80=
+=D0=B8=D0=B1=D1=83=D1=82=D0=B8=D0=B2=D0=B5, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=
+=D1=8C=D0=B7=D1=83=D0=B5=D0=BC=D0=BE=D0=BC =D0=B4=D0=BB=D1=8F =D0=BF=D0=B5=
+=D1=80=D0=B5=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8. =D0=9D=D0=B5 =D1=81=D1=83=
+=D1=89=D0=B5=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =D0=B0=D0=B2=D1=82=D0=BE=
+=D0=BC=D0=B0=D1=82=D0=B8=D0=B7=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D0=
+=BE=D0=B3=D0=BE =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1=D0=B0 =D0=BE=D0=BF=D1=
+=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B8=D1=82=D1=8C, =D1=8F=D0=B2=D0=BB=D1=8F=D0=
+=B5=D1=82=D1=81=D1=8F =D0=BB=D0=B8 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D0=
+=BC=D0=BE=D1=81=D1=82=D1=8C =D1=80=D0=B5=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=
+=B9, =D0=B8=D0=BB=D0=B8 =D0=B6=D0=B5 =D0=BE=D0=BD=D0=B0 =D1=83=D0=BA=D0=B0=
+=D0=B7=D0=B0=D0=BD=D0=B0 =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D1=81 =D1=86=
+=D0=B5=D0=BB=D1=8C=D1=8E =D0=B3=D0=B0=D1=80=D0=B0=D0=BD=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B5=
+=D0=BD=D0=B8=D0=B5 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D0=B8=D1=81=D0=BA=
+=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE =D1=81 =D0=BF=
+=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=D0=BD=D0=B5=D0=B9 =D0=B2=D0=B5=D1=80=D1=81=
+=D0=B8=D0=B5=D0=B9 =D0=B1=D0=B8=D0=B1=D0=BB=D0=B8=D0=BE=D1=82=D0=B5=D0=BA=
+=D0=B8, =E2=80=94 =D1=8D=D1=82=D0=BE =D0=B5=D0=B4=D0=B8=D0=BD=D1=81=D1=82=
+=D0=B2=D0=B5=D0=BD=D0=BD=D1=8B=D0=B9 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=
+=D0=BD=D1=8B=D0=B9 =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=B1 =D0=B7=D0=B0=D1=81=
+=D1=82=D0=B0=D0=B2=D0=B8=D1=82=D1=8C <span class=3D"emphasis"><em>autobuild=
+er</em></span> =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=
+=D1=82=D1=8C =D0=B4=D0=B0=D0=BD=D0=BD=D1=83=D1=8E =D0=B2=D0=B5=D1=80=D1=81=
+=D0=B8=D1=8E =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0 =D0=B2=D0=BE =D0=B2=D1=80=
+=D0=B5=D0=BC=D1=8F =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8, =D0=B8=D0=B7-=D0=
+=B7=D0=B0 =D1=87=D0=B5=D0=B3=D0=BE =D1=81=D0=BE=D0=BF=D1=80=D0=BE=D0=B2=D0=
+=BE=D0=B6=D0=B4=D0=B0=D1=8E=D1=89=D0=B8=D0=B5 Debian =D1=87=D0=B0=D1=81=D1=
+=82=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=82 =D1=
+=81=D1=82=D1=80=D0=BE=D0=B3=D0=BE =D0=B2=D0=B5=D1=80=D1=81=D0=B8=D0=BE=D0=
+=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D1=8B=D0=B5 =D1=81=D0=B1=D0=BE=D1=
+=80=D0=BE=D1=87=D0=BD=D1=8B=D0=B5 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D0=
+=BC=D0=BE=D1=81=D1=82=D0=B8.
+			</div><a id=3D"id-1.18.4.6.20" class=3D"indexterm"></a><a id=3D"id-1.18.=
+4.6.21" class=3D"indexterm"></a><div class=3D"para">
+				=D0=95=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B =D1=82=D0=BE=D1=87=D0=BD=D0=BE =
+=D0=B7=D0=BD=D0=B0=D0=B5=D1=82=D0=B5, =D1=87=D1=82=D0=BE =D1=8D=D1=82=D0=B8=
+ =D1=81=D0=B1=D0=BE=D1=80=D0=BE=D1=87=D0=BD=D1=8B=D0=B5 =D0=B7=D0=B0=D0=B2=
+=D0=B8=D1=81=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D0=B8 =D1=81=D0=BB=D0=B8=D1=88=
+=D0=BA=D0=BE=D0=BC =D1=81=D1=82=D1=80=D0=BE=D0=B3=D0=B8, =D0=BD=D0=B5 =D1=
+=81=D1=82=D0=B5=D1=81=D0=BD=D1=8F=D0=B9=D1=82=D0=B5=D1=81=D1=8C =D0=BE=D1=
+=81=D0=BB=D0=B0=D0=B1=D0=B8=D1=82=D1=8C =D0=B8=D1=85 =D0=BB=D0=BE=D0=BA=D0=
+=B0=D0=BB=D1=8C=D0=BD=D0=BE. =D0=A7=D1=82=D0=B5=D0=BD=D0=B8=D0=B5 =D1=84=D0=
+=B0=D0=B9=D0=BB=D0=BE=D0=B2, =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=80=D1=83=D1=8E=D1=89=D0=B8=D1=85 =D1=81=D1=82=D0=B0=D0=BD=D0=
+=B4=D0=B0=D1=80=D1=82=D0=BD=D1=8B=D0=B9 =D1=81=D0=BF=D0=BE=D1=81=D0=BE=D0=
+=B1 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 =D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=
+=B0=D0=BC=D0=BC=D0=BD=D0=BE=D0=B3=D0=BE =D0=BE=D0=B1=D0=B5=D1=81=D0=BF=D0=
+=B5=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =E2=80=94 =D1=8D=D1=82=D0=B8 =D1=84=D0=B0=
+=D0=B9=D0=BB=D1=8B =D1=87=D0=B0=D1=81=D1=82=D0=BE =D0=BD=D0=B0=D0=B7=D1=8B=
+=D0=B2=D0=B0=D1=8E=D1=82 <code class=3D"filename">INSTALL</code> =E2=80=94 =
+=D0=BF=D0=BE=D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B2=D1=8B=D1=8F=D1=81=D0=BD=
+=D0=B8=D1=82=D1=8C =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=
+=D0=B2=D1=83=D1=8E=D1=89=D0=B8=D0=B5 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=
+=D0=BC=D0=BE=D1=81=D1=82=D0=B8. =D0=92 =D0=B8=D0=B4=D0=B5=D0=B0=D0=BB=D0=B5=
+ =D0=B2=D1=81=D0=B5 =D0=B7=D0=B0=D0=B2=D0=B8=D1=81=D0=B8=D0=BC=D0=BE=D1=81=
+=D1=82=D0=B8 =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D1=8B =D0=B1=D1=8B=D1=82=D1=8C =
+=D1=83=D0=B4=D0=BE=D0=B2=D0=BB=D0=B5=D1=82=D0=B2=D0=BE=D1=80=D0=B5=D0=BD=D1=
+=8B =D0=B8=D0=B7 =D0=B4=D0=B8=D1=81=D1=82=D1=80=D0=B8=D0=B1=D1=83=D1=82=D0=
+=B8=D0=B2=D0=B0, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D0=
+=BC=D0=BE=D0=B3=D0=BE =D0=B4=D0=BB=D1=8F =D0=BF=D0=B5=D1=80=D0=B5=D1=81=D0=
+=B1=D0=BE=D1=80=D0=BA=D0=B8; =D0=B2 =D0=BF=D1=80=D0=BE=D1=82=D0=B8=D0=B2=D0=
+=BD=D0=BE=D0=BC =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=B5 =D0=BD=D0=B0=D1=87=D0=
+=B8=D0=BD=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D1=80=D0=B5=D0=BA=D1=83=D1=80=D1=
+=81=D0=B8=D0=B2=D0=BD=D1=8B=D0=B9 =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=
+=81, =D0=B2 =D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82=D0=B5 =
+=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=B5=
+=D1=82=D1=8B, =D1=83=D0=BF=D0=BE=D0=BC=D1=8F=D0=BD=D1=83=D1=82=D1=8B=D0=B5 =
+=D0=B2 =D0=BF=D0=BE=D0=BB=D0=B5 <code class=3D"literal">Build-Depends</code=
+>, =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D1=8B =D0=B1=D1=8B=D1=82=D1=8C =D0=B1=D1=
+=8D=D0=BA=D0=BF=D0=BE=D1=80=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D1=8B=
+ =D1=80=D0=B0=D0=BD=D1=8C=D1=88=D0=B5 =D1=86=D0=B5=D0=BB=D0=B5=D0=B2=D0=BE=
+=D0=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0. =D0=9D=D0=B5=D0=BA=D0=BE=
+=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D1=8B =D0=BC=
+=D0=BE=D0=B3=D1=83=D1=82 =D0=BD=D0=B5 =D1=82=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=
+=D0=B0=D1=82=D1=8C =D0=B1=D1=8D=D0=BA=D0=BF=D0=BE=D1=80=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F, =D0=B8 =D0=B8=D1=85 =D0=BC=D0=BE=D0=
+=B6=D0=BD=D0=BE =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=B8=D1=82=D1=
+=8C =D0=BA=D0=B0=D0=BA =D0=B5=D1=81=D1=82=D1=8C =D0=B2 =D0=BF=D1=80=D0=BE=
+=D1=86=D0=B5=D1=81=D1=81=D0=B5 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B8 (=D1=8F=
+=D1=80=D0=BA=D0=B8=D0=BC =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BE=D0=BC =
+=D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F <span class=3D"pkg pkg">de=
+bhelper</span>). =D0=9E=D0=B1=D1=80=D0=B0=D1=82=D0=B8=D1=82=D0=B5 =D0=B2=D0=
+=BD=D0=B8=D0=BC=D0=B0=D0=BD=D0=B8=D0=B5, =D1=87=D1=82=D0=BE =D0=BF=D1=80=D0=
+=BE=D1=86=D0=B5=D1=81=D1=81 =D0=B1=D1=8D=D0=BA=D0=BF=D0=BE=D1=80=D1=82=D0=
+=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=BC=D0=BE=D0=B6=D0=B5=D1=
+=82 =D1=81=D1=82=D0=B0=D1=82=D1=8C =D0=BB=D0=B0=D0=B2=D0=B8=D0=BD=D0=BE=D0=
+=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BD=D1=8B=D0=BC, =D0=B5=D1=81=D0=BB=D0=B8 =D0=
+=B2=D1=8B =D0=BD=D0=B5 =D0=B1=D1=83=D0=B4=D0=B5=D1=82=D0=B5 =D0=BE=D1=81=D1=
+=82=D0=BE=D1=80=D0=BE=D0=B6=D0=BD=D1=8B. =D0=9F=D0=BE=D1=8D=D1=82=D0=BE=D0=
+=BC=D1=83 =D0=B1=D1=8D=D0=BA=D0=BF=D0=BE=D1=80=D1=82=D1=8B =D0=B4=D0=BE=D0=
+=BB=D0=B6=D0=BD=D1=8B =D0=B1=D1=8B=D1=82=D1=8C =D1=81=D0=B2=D0=B5=D0=B4=D0=
+=B5=D0=BD=D1=8B =D0=BA =D0=B0=D0=B1=D1=81=D0=BE=D0=BB=D1=8E=D1=82=D0=BD=D0=
+=BE=D0=BC=D1=83 =D0=BC=D0=B8=D0=BD=D0=B8=D0=BC=D1=83=D0=BC=D1=83, =D0=BD=D0=
+=B0=D1=81=D0=BA=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D1=8D=D1=82=D0=BE =D0=B2=D0=
+=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=BD=D0=BE.
+			</div><a id=3D"id-1.18.4.6.23" class=3D"indexterm"></a><div class=3D"sid=
+ebar"><div class=3D"titlepage"><div><div><p class=3D"title"><strong><span c=
+lass=3D"emphasis"><em>=D0=A1=D0=9E=D0=92=D0=95=D0=A2</em></span> =D0=A3=D1=
+=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=D0=BA=D0=B0 <code class=3D"literal">Build=
+-Depends</code></strong></p></div></div></div><a id=3D"id-1.18.4.6.24.2" cl=
+ass=3D"indexterm"></a><div class=3D"para">
+				<code class=3D"command">apt-get</code> allows installing all packages m=
+entioned in the <code class=3D"literal">Build-Depends</code> fields of a so=
+urce package available in a distribution mentioned in a <code class=3D"lite=
+ral">deb-src</code> line of the <code class=3D"filename">/etc/apt/sources.l=
+ist</code> file. This is a simple matter of running the <code class=3D"comm=
+and">apt-get build-dep <em class=3D"replaceable">package</em></code> comman=
+d.
+			</div><a id=3D"id-1.18.4.6.24.4" class=3D"indexterm"></a><a id=3D"id-1.1=
+8.4.6.24.5" class=3D"indexterm"></a><a id=3D"id-1.18.4.6.24.6" class=3D"ind=
+exterm"></a></div></div><div class=3D"section"><div class=3D"titlepage"><di=
+v><div><h3 class=3D"title"><a xmlns=3D"" id=3D"id-1.18.4.7"></a>15.1.3. =D0=
+=97=D0=B0=D0=BF=D1=83=D1=81=D0=BA =D0=BF=D0=B5=D1=80=D0=B5=D1=81=D0=B1=D0=
+=BE=D1=80=D0=BA=D0=B8</h3></div></div></div><div class=3D"para">
+				=D0=9A=D0=BE=D0=B3=D0=B4=D0=B0 =D0=B2=D1=81=D0=B5 =D0=BD=D0=B5=D0=BE=D0=
+=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D1=8B=D0=B5 =D0=B8=D0=B7=D0=BC=D0=B5=D0=
+=BD=D0=B5=D0=BD=D0=B8=D1=8F =D0=B2=D0=BD=D0=B5=D1=81=D0=B5=D0=BD=D1=8B =D0=
+=B2 =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=B9 =D0=BA=D0=BE=D0=B4, =
+=D0=BC=D1=8B =D0=BC=D0=BE=D0=B6=D0=B5=D0=BC =D0=B7=D0=B0=D0=BF=D1=83=D1=81=
+=D1=82=D0=B8=D1=82=D1=8C =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =
+=D1=81=D0=BE=D0=B1=D1=81=D1=82=D0=B2=D0=B5=D0=BD=D0=BD=D0=BE =D0=B4=D0=B2=
+=D0=BE=D0=B8=D1=87=D0=BD=D0=BE=D0=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=
+=D0=B0 (=D1=84=D0=B0=D0=B9=D0=BB <code class=3D"filename">.deb</code>). =D0=
+=92=D0=B5=D1=81=D1=8C =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81 =D1=83=D0=
+=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BA=D0=BE=D0=
+=BC=D0=B0=D0=BD=D0=B4=D0=BE=D0=B9 <code class=3D"command">dpkg-buildpackage=
+</code>.
+			</div><a id=3D"id-1.18.4.7.3" class=3D"indexterm"></a><a id=3D"id-1.18.4=
+.7.4" class=3D"indexterm"></a><div class=3D"example"><a xmlns=3D"" id=3D"id=
+-1.18.4.7.5"></a><p class=3D"title"><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=
+=D1=80 15.1. =D0=9F=D0=B5=D1=80=D0=B5=D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B0 =
+=D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0</strong></p><div class=3D"example-cont=
+ents"><pre class=3D"screen"><code class=3D"computeroutput">$ </code><strong=
+ class=3D"userinput"><code>dpkg-buildpackage -us -uc
+</code></strong><code class=3D"computeroutput">[...]
+</code></pre></div></div><div class=3D"para">
+				The previous command can fail if the <code class=3D"literal">Build-Depe=
+nds</code> field has not been updated, or if the related packages are not i=
+nstalled. In such a case, it is possible to overrule this check by passing =
+the <code class=3D"literal">-d</code> option to <code class=3D"command">dpk=
+g-buildpackage</code>. However, explicitly ignoring these dependencies runs=
+ the risk of the build process failing at a later stage. Worse, the package=
+ may seem to build correctly but fail to run properly: some programs automa=
+tically disable some of their features when a required library is not avail=
+able at build time. The switch can still be very useful if you only want to=
+ create a source package, which is supposed to be passed to clean build env=
+ironments as described in <a class=3D"xref" href=3D"https://debian-handbook=
+.info/browse/ru-RU/stable/debian-packaging.html#sidebar.schroot"><span clas=
+s=3D"emphasis"><em>QUICK LOOK</em></span> Building packages in <span class=
+=3D"emphasis"><em>chrooted</em></span> and <span class=3D"emphasis"><em>vir=
+tual</em></span> environments</a>.
+			</div><div class=3D"para">
+				The other options used in the above example make sure that neither the =
+source package's <code class=3D"filename">.dsc</code> (<code class=3D"liter=
+al">-us</code>) nor the produced <code class=3D"filename">.changes</code> f=
+ile (<code class=3D"literal">-uc</code>) get signed with the package builde=
+r's cryptographic key after the asuccessful build.
+			</div><div class=3D"sidebar"><a xmlns=3D"" id=3D"sidebar.fakeroot"></a><=
+div class=3D"titlepage"><div><div><p class=3D"title"><strong><span class=3D=
+"emphasis"><em>=D0=98=D0=9D=D0=A1=D0=A2=D0=A0=D0=A3=D0=9C=D0=95=D0=9D=D0=A2=
+</em></span> <code class=3D"command">fakeroot</code></strong></p></div></di=
+v></div><a id=3D"id-1.18.4.7.8.2" class=3D"indexterm"></a><a id=3D"id-1.18.=
+4.7.8.3" class=3D"indexterm"></a><a id=3D"id-1.18.4.7.8.4" class=3D"indexte=
+rm"></a><div class=3D"para">
+				=D0=92 =D1=81=D1=83=D1=89=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D0=BF=D1=80=D0=
+=BE=D1=86=D0=B5=D1=81=D1=81 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=
+=8F =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0 =D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=
+=82=D1=81=D1=8F =D0=BF=D1=80=D0=BE=D1=81=D1=82=D1=8B=D0=BC =D1=81=D0=B1=D0=
+=BE=D1=80=D0=BE=D0=BC =D0=B2 =D0=B0=D1=80=D1=85=D0=B8=D0=B2 =D0=BD=D0=B0=D0=
+=B1=D0=BE=D1=80=D0=B0 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D1=83=D1=
+=8E=D1=89=D0=B8=D1=85 (=D0=B8=D0=BB=D0=B8 =D1=81=D0=BA=D0=BE=D0=BC=D0=BF=D0=
+=B8=D0=BB=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D1=85) =D1=84=D0=
+=B0=D0=B9=D0=BB=D0=BE=D0=B2; =D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=B8=D0=BD=D1=
+=81=D1=82=D0=B2=D0=BE =D1=84=D0=B0=D0=B9=D0=BB=D0=BE=D0=B2 =D0=B0=D1=80=D1=
+=85=D0=B8=D0=B2=D0=B0 =D0=B1=D1=83=D0=B4=D1=83=D1=82 =D0=B8=D0=BC=D0=B5=D1=
+=82=D1=8C =D0=B2 =D0=BA=D0=BE=D0=BD=D0=B5=D1=87=D0=BD=D0=BE=D0=BC =D0=B8=D1=
+=82=D0=BE=D0=B3=D0=B5 =D0=B2=D0=BB=D0=B0=D0=B4=D0=B5=D0=BB=D1=8C=D1=86=D0=
+=B0 <span class=3D"emphasis"><em>root</em></span>. =D0=A2=D0=B5=D0=BC =D0=
+=BD=D0=B5 =D0=BC=D0=B5=D0=BD=D0=B5=D0=B5, =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=
+=B0 =D0=B2=D1=81=D0=B5=D0=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0 =D0=
+=BE=D1=82 =D0=B8=D0=BC=D0=B5=D0=BD=D0=B8 =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=
+=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F =D0=
+=BF=D0=BE=D0=B4=D1=80=D0=B0=D0=B7=D1=83=D0=BC=D0=B5=D0=B2=D0=B0=D0=BB=D0=B0=
+ =D0=B1=D1=8B =D0=BF=D0=BE=D0=B2=D1=8B=D1=88=D0=B5=D0=BD=D0=BD=D1=8B=D0=B9 =
+=D1=80=D0=B8=D1=81=D0=BA; =D0=BA =D1=81=D1=87=D0=B0=D1=81=D1=82=D1=8C=D1=8E=
+, =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=B8=D0=
+=B7=D0=B1=D0=B5=D0=B6=D0=B0=D1=82=D1=8C =D1=81 =D0=BF=D0=BE=D0=BC=D0=BE=D1=
+=89=D1=8C=D1=8E =D0=BA=D0=BE=D0=BC=D0=B0=D0=BD=D0=B4=D1=8B <code class=3D"c=
+ommand">fakeroot</code>. =D0=AD=D1=82=D0=BE=D1=82 =D0=B8=D0=BD=D1=81=D1=82=
+=D1=80=D1=83=D0=BC=D0=B5=D0=BD=D1=82 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=
+=D1=8B=D1=82=D1=8C =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=
+=D0=B0=D0=BD =D0=B4=D0=BB=D1=8F =D0=B7=D0=B0=D0=BF=D1=83=D1=81=D0=BA=D0=B0 =
+=D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D1=8B =D0=B8 =D1=81=D0=BE=
+=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D1=83 =D0=BD=D0=B5=D1=91 =D0=B2=D0=BF=
+=D0=B5=D1=87=D0=B0=D1=82=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F, =D1=87=D1=82=D0=BE =
+=D0=BE=D0=BD=D0=B0 =D0=B7=D0=B0=D0=BF=D1=83=D1=89=D0=B5=D0=BD=D0=B0 =D0=BE=
+=D1=82 =D0=B8=D0=BC=D0=B5=D0=BD=D0=B8 <span class=3D"emphasis"><em>root</em=
+></span> =D0=B8 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=B5=D1=82 =D1=84=D0=B0=D0=
+=B9=D0=BB=D1=8B =D1=81 =D0=BF=D1=80=D0=BE=D0=B8=D0=B7=D0=B2=D0=BE=D0=BB=D1=
+=8C=D0=BD=D1=8B=D0=BC =D0=B2=D0=BB=D0=B0=D0=B4=D0=B5=D0=BB=D1=8C=D1=86=D0=
+=B5=D0=BC =D0=B8 =D0=BF=D1=80=D0=B0=D0=B2=D0=B0=D0=BC=D0=B8. =D0=9A=D0=BE=
+=D0=B3=D0=B4=D0=B0 =D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B0 =
+=D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=B5=D1=82 =D0=B0=D1=80=D1=85=D0=B8=D0=B2, =
+=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9 =D1=81=D1=82=D0=B0=D0=BD=D0=B5=
+=D1=82 =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=BE=D0=BC Debian, =D0=BE=D0=BD=D0=
+=B0 =D1=85=D0=B8=D1=82=D1=80=D1=8B=D0=BC =D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=
+=BE=D0=BC =D0=B2=D0=BD=D0=B5=D0=B4=D1=80=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=
+=B2 =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81 =D1=81=D0=BE=D0=B7=D0=B4=D0=
+=B0=D0=BD=D0=B8=D1=8F =D0=B0=D1=80=D1=85=D0=B8=D0=B2=D0=B0, =D1=81=D0=BE=D0=
+=B4=D0=B5=D1=80=D0=B6=D0=B0=D1=89=D0=B5=D0=B3=D0=BE =D1=84=D0=B0=D0=B9=D0=
+=BB=D1=8B, =D0=BF=D0=BE=D0=BC=D0=B5=D1=87=D0=B5=D0=BD=D0=BD=D1=8B=D0=B5 =D0=
+=BA=D0=B0=D0=BA =D0=BF=D1=80=D0=B8=D0=BD=D0=B0=D0=B4=D0=BB=D0=B5=D0=B6=D0=
+=B0=D1=89=D0=B8=D0=B5 =D0=BF=D1=80=D0=BE=D0=B8=D0=B7=D0=B2=D0=BE=D0=BB=D1=
+=8C=D0=BD=D1=8B=D0=BC =D0=B2=D0=BB=D0=B0=D0=B4=D0=B5=D0=BB=D1=8C=D1=86=D0=
+=B0=D0=BC, =D0=B2 =D1=82=D0=BE=D0=BC =D1=87=D0=B8=D1=81=D0=BB=D0=B5 <span c=
+lass=3D"emphasis"><em>root</em></span>. =D0=AD=D1=82=D0=BE =D0=BF=D0=BE=D0=
+=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BD=D0=B0=D1=81=D1=82=D0=BE=D0=
+=BB=D1=8C=D0=BA=D0=BE =D1=83=D0=B4=D0=BE=D0=B1=D0=BD=D0=BE, =D1=87=D1=82=D0=
+=BE <code class=3D"command">dpkg-buildpackage</code> =D0=B8=D1=81=D0=BF=D0=
+=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82 <code class=3D"command">fakeroot</c=
+ode> =D0=BF=D0=BE =D1=83=D0=BC=D0=BE=D0=BB=D1=87=D0=B0=D0=BD=D0=B8=D1=8E =
+=D0=BF=D1=80=D0=B8 =D1=81=D0=B1=D0=BE=D1=80=D0=BA=D0=B5 =D0=BF=D0=B0=D0=BA=
+=D0=B5=D1=82=D0=BE=D0=B2.
+			</div><div class=3D"para">
+				=D0=97=D0=B0=D0=BC=D0=B5=D1=82=D1=8C=D1=82=D0=B5, =D1=87=D1=82=D0=BE =
+=D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D1=83 =D1=82=D0=BE=D0=BB=
+=D1=8C=D0=BA=D0=BE =D0=B7=D0=B0=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D1=8F=D1=8E=
+=D1=82 =C2=AB=D0=BF=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C=C2=BB =D0=B2 =
+=D1=82=D0=BE, =D1=87=D1=82=D0=BE =D0=BE=D0=BD=D0=B0 =D1=80=D0=B0=D0=B1=D0=
+=BE=D1=82=D0=B0=D0=B5=D1=82 =D0=BF=D0=BE=D0=B4 =D0=BF=D1=80=D0=B8=D0=B2=D0=
+=B8=D0=BB=D0=B5=D0=B3=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D0=BE=D0=B9=
+ =D1=83=D1=87=D0=B5=D1=82=D0=BD=D0=BE=D0=B9 =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=
+=D1=8C=D1=8E, =D0=BD=D0=BE =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81 =D0=
+=BD=D0=B0 =D1=81=D0=B0=D0=BC=D0=BE=D0=BC =D0=B4=D0=B5=D0=BB=D0=B5 =D0=B2=D1=
+=8B=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BE=D1=82 =D0=
+=B8=D0=BC=D0=B5=D0=BD=D0=B8 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=
+=B0=D1=82=D0=B5=D0=BB=D1=8F, =D0=B7=D0=B0=D0=BF=D1=83=D1=81=D1=82=D0=B8=D0=
+=B2=D1=88=D0=B5=D0=B3=D0=BE <code class=3D"command">fakeroot <em class=3D"r=
+eplaceable">=D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=BC=D0=BC=D0=B0</em></co=
+de> (=D0=B8 =D0=BF=D1=80=D0=B0=D0=B2=D0=B0 =D0=BD=D0=B0 =D1=81=D0=BE=D0=B7=
+=D0=B4=D0=B0=D0=B2=D0=B0=D0=B5=D0=BC=D1=8B=D0=B5 =D1=84=D0=B0=D0=B9=D0=BB=
+=D1=8B =D0=B2 =D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D1=82=D0=B5=D0=BB=
+=D1=8C=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =D0=BF=D1=80=D0=B8=D0=BD=D0=B0=D0=B4=
+=D0=BB=D0=B5=D0=B6=D0=B0=D1=82 =D1=8D=D1=82=D0=BE=D0=BC=D1=83 =D0=BF=D0=BE=
+=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E). =D0=A4=D0=B0=
+=D0=BA=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8 =D0=BF=D1=80=D0=BE=D0=B3=
+=D1=80=D0=B0=D0=BC=D0=BC=D0=B0 =D0=BD=D0=B8 =D0=B2 =D0=BA=D0=B0=D0=BA=D0=BE=
+=D0=B9 =D0=BC=D0=BE=D0=BC=D0=B5=D0=BD=D1=82 =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=
+=D0=BD=D0=B8 =D0=BD=D0=B5 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=B5=D1=82 =
+=D0=BF=D1=80=D0=B8=D0=B2=D0=B8=D0=BB=D0=B5=D0=B3=D0=B8=D0=B9 =D1=81=D1=83=
+=D0=BF=D0=B5=D1=80=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=
+=B5=D0=BB=D1=8F, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=BC=D0=B8 =D0=BC=D0=
+=BE=D0=B3=D0=BB=D0=B0 =D0=B1=D1=8B =D0=B7=D0=BB=D0=BE=D1=83=D0=BF=D0=BE=D1=
+=82=D1=80=D0=B5=D0=B1=D0=BB=D1=8F=D1=82=D1=8C.
+			</div></div><div class=3D"para">
+				More often than not, Debian developers use a higher-level program such =
+as <code class=3D"command">debuild</code>; this runs <code class=3D"command=
+">dpkg-buildpackage</code> as usual, but it also adds an invocation of a pr=
+ogram that runs many checks to validate the generated package against the D=
+ebian policy. This script also cleans up the environment so that local envi=
+ronment variables do not =E2=80=9Cpollute=E2=80=9D the package build. The <=
+code class=3D"command">debuild</code> command is one of the tools in the <s=
+pan class=3D"pkg pkg">devscripts</span> suite, which share some consistency=
+ and configuration to make the maintainers' task easier.
+			</div><a id=3D"id-1.18.4.7.10" class=3D"indexterm"></a><a id=3D"id-1.18.=
+4.7.11" class=3D"indexterm"></a><div class=3D"sidebar"><a xmlns=3D"" id=3D"=
+sidebar.schroot"></a><div class=3D"titlepage"><div><div><p class=3D"title">=
+<strong><span class=3D"emphasis"><em>QUICK LOOK</em></span> Building packag=
+es in <span class=3D"emphasis"><em>chrooted</em></span> and <span class=3D"=
+emphasis"><em>virtual</em></span> environments</strong></p></div></div></di=
+v><a id=3D"id-1.18.4.7.12.2" class=3D"indexterm"></a><a id=3D"id-1.18.4.7.1=
+2.3" class=3D"indexterm"></a><a id=3D"id-1.18.4.7.12.4" class=3D"indexterm"=
+></a><a id=3D"id-1.18.4.7.12.5" class=3D"indexterm"></a><div class=3D"para"=
+>
+				Building a package on an existing system, like a workstation or server,=
+ can pose several problems. Maybe the system has packages installed, that c=
+onflict with the build requirements. Or maybe it has packages (libraries, h=
+eaders, etc.) installed, that the project to build is not supposed to use -=
+ e.g. from <span class=3D"distribution distribution">Testing</span>, <span =
+class=3D"distribution distribution">Unstable</span>, or even from third par=
+ties. Also it might have packages installed, which are actually required fo=
+r the build, but are not listed in <code class=3D"filename">debian/control<=
+/code>. It is therefore a good practice to build a packages in =E2=80=9Ccle=
+an=E2=80=9C environments.
+			</div><div class=3D"para">
+				The <code class=3D"command">sbuild</code>, <code class=3D"command">pbui=
+lder</code>, or <code class=3D"command">cowbuilder</code> programs (in the =
+similarly named packages) allow building a Debian package in a <span class=
+=3D"emphasis"><em>chrooted</em></span> environment. Each of them first crea=
+tes a temporary directory containing the minimal system required for buildi=
+ng the package (including the packages mentioned in the <span class=3D"emph=
+asis"><em>Build-Depends</em></span> field). This directory is then used as =
+the root directory (<code class=3D"filename">/</code>), using the <code cla=
+ss=3D"command">chroot</code> command, during the build process.
+			</div><a id=3D"id-1.18.4.7.12.8" class=3D"indexterm"></a><div class=3D"p=
+ara">
+				These tools allow the build process to happen in an environment that is=
+ not altered by users' manipulations. This also allows for quick detection =
+of the missing build-dependencies (since the build will fail unless the app=
+ropriate dependencies are documented). Finally, it allows building a packag=
+e for a Debian version that is not the one used by the system as a whole: t=
+he machine can be using <span class=3D"distribution distribution">Stable</s=
+pan> for its normal workload, and the chrooted environments can be running =
+on the same machine using <span class=3D"distribution distribution">Unstabl=
+e</span> for package builds. Using these tools, it is also possible to buil=
+d for a different distribution, like <span class=3D"distribution distributi=
+on">Ubuntu</span>.
+			</div><div class=3D"para">
+				<code class=3D"command">schroot</code>, <code class=3D"command">sbuild-=
+shell</code>, or <code class=3D"command">pbuilder</code> allow running a co=
+mmand or a login shell in a <span class=3D"emphasis"><em>chrooted</em></spa=
+n> environment.
+			</div><div class=3D"para">
+				Sometimes it is not enough to build a package in a chrooted environment=
+. This can be due to building for a different architecture where cross-comp=
+ilation does not work, or due to the tools not being able to create a chroo=
+ted environment for the desired target system. Then one can create virtual =
+machines to build the package there. These setups are usually more complex =
+then the tools mentioned above, and rarely needed, so we will only mention =
+this possibility without going into much detail. Check out <a class=3D"xref=
+" href=3D"https://debian-handbook.info/browse/ru-RU/stable/sect.virtualizat=
+ion.html">=D0=A0=D0=B0=D0=B7=D0=B4=D0=B5=D0=BB&nbsp;12.2, =C2=AB=D0=92=D0=
+=B8=D1=80=D1=82=D1=83=D0=B0=D0=BB=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F=C2=BB=
+</a> for an introduction into this topic.
+			</div><a id=3D"id-1.18.4.7.12.12" class=3D"indexterm"></a></div></div></=
+div></div><ul class=3D"docnav"><li class=3D"previous"><a accesskey=3D"p" hr=
+ef=3D"https://debian-handbook.info/browse/ru-RU/stable/sect.dealing-with-co=
+mpromised-machine.html"><strong>=D0=9F=D1=80=D0=B5=D0=B4.</strong>14.7. Dea=
+ling with a Compromised Machine</a></li><li class=3D"up"><a accesskey=3D"u"=
+ href=3D"https://debian-handbook.info/browse/ru-RU/stable/debian-packaging.=
+html#"><strong>=D0=9D=D0=B0=D0=B2=D0=B5=D1=80=D1=85</strong></a></li><li cl=
+ass=3D"home"><a accesskey=3D"h" href=3D"https://debian-handbook.info/browse=
+/ru-RU/stable/index.html"><strong>=D0=9D=D0=B0=D1=87=D0=B0=D0=BB=D0=BE</str=
+ong></a></li><li class=3D"next"><a accesskey=3D"n" href=3D"https://debian-h=
+andbook.info/browse/ru-RU/stable/sect.building-first-package.html"><strong>=
+=D0=A1=D0=BB=D0=B5=D0=B4.</strong>15.2. =D0=A1=D0=B1=D0=BE=D1=80=D0=BA=D0=
+=B0 =D0=B2=D0=B0=D1=88=D0=B5=D0=B3=D0=BE =D0=BF=D0=B5=D1=80=D0=B2=D0=BE=D0=
+=B3=D0=BE =D0=BF=D0=B0=D0=BA=D0=B5=D1=82=D0=B0</a></li></ul></body></html>
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/images//image_right.png
+
+iVBORw0KGgoAAAANSUhEUgAAAD4AAAAyCAYAAAAEA2g/AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
+/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wFAggoAnaBrzEAABIKSURBVGje
+7Zp5cFzVlcZ/59639CK11FqszZI3eZe8W7bBxtjGC9gYmyUkEEMgBJI4lZlMqrJUKsPUzEAqMwSS
+EJhUDROWhBCbxWbxwjLGmIDxzuJgHG/gBcuWZFu71N3v3vnjtTowlakBAoFQ3KpXrXrdpb5ff+d8
+5zvnXfhsfbY+Wx/1stbKx/XdH8sXX3Prvc7qVQefUENGzPeLfVSm5w9+XvT++gHJe1Zff+7xTyXw
+QYtvzD/dYjfrkfWjddLH9nYgroeORsHzWDCm4tCc8RUPjE96D45O5L/8qQA+fMk/lx1vCra4dWMH
+6ITG9najIhHE97FKMWNkOaPHV6GMISpCP0/3Jhx5tNyXR6b1Szwqonr+5oAPW/iPg4636e3emLFF
+KiaQ6s2BRhSzxlcycFQZ2lo8wLMGH/ARPCDfUeS5andc8ciQhLOquiDx8iceePnZ3x7fqQt/740Z
+E1O+xWbS6GgEFfGxKOZPq6Z8aAmOMbiAaw2eBdeCZy2OFRyxOAhawBUh4elURMtjSV+tGlPqPyYS
+7fhEAa+a8Q9z2iS53hsz1hHPgMmgIxEk4iNKsWjmAIoGJHGtxcHiWfCweMaircGxgrIWbUABGlAI
+SkCLoETha0XUUX+MaFaXx/Sq2qLESx8r8Mpp3/xcm1e6wh8zFnQGrMWJRlARD6U0F88bQl5FHE/A
+yTLtWxuybkBbi7IWZQSxBm0t1gIWxAqIIAiiFFoEJPxx4g64StbHHLX6rH7xVeL5J/9qwIsnfv2b
+PYnKn/l1YxFJIVhULIaKeLiu5vLzhxArjaOxuEI2r202tEO2tSELPAQqJgRuLRhrsFawKCyCVYCo
+bFQISguCxdNCnue83Xum9fsX1g+4r29/zkcBunTSDT/uTFR9JzKqDjE9ITPxGMr3iHgOyxYNxU9G
+0MqGTGcvTyxuNqw1ghKLQgjJtFgBsRYjgrFCIEJgDcYIgQEjYAFRCmXBVYJVwqvb36i8/f4n1Tv3
++KEDT4778r1dhQOv8oePQDI9oBUqFkX5LvkRh2sWD8fNd3GUQYvgCLjW4rW3k9faSk9RMY7voy0o
+AWVBLGQhYcQiJmTTWsEawYiEUWAsxoI1BqUFpRxe2bmH9rcOHml56MZ7PpJQ39Vt5ZxJV68xlaPP
+92prkSAFWqPyYqiIT0nc4yuLh6PjLlpbtIKqA/sYoqHC94j37494HkFTE92pDL3pFE2pDIeNhtJy
+MGCtwRohsBBYyOQuIWMsaYEAAIXrat7Y+Qf8M41cO298a2dvOjmuvs5+qIyf9/mbItMnXvkc1eMa
+3JqB2N4uxPVQsSjielTkedyweCTaV2gMtbtfYZwDflkZHSdP0tLayt5Umk5xcbTCT6cp0IoqBcPK
+i+g6eoi9TW2cHjEWA1gMxoKygurjTsLwtoDjal7d9iqFXc1cNX8CsVg8fuLkoQ9X3Eae89XCN0+c
+3iqDJg71qqqxmV6U56PiIdODi2LccOEIRAIcAqa9+AwliTze8nxOxvPpGDkqLE+2T8gsYgkFzVgK
+X9vFyH4FqGiUt/Ye4lD9VAIrZAwEWNIIaQvpbBoo5bBjyy7KglaumDWWeDyPWCxGV1dXXmVlZWff
+vtVfVKMnL6t+s7F5jxo0cahbVoHp7UK0g4pEwHMZVRxj+cIReJmAwqOHmffwvXQ4Ls+Om8ybk6bS
+M3I0LoKbNStO1qxoEwJXRmgbOYE9x06TOXkS55abia1aCRYsf1J4jKCweMph6wvbqbLtXDl7HLFY
+nEgkQmdnJzt27Mj/UMStctxlo1raOl9Ug6cW6JJSTG8X2o+gIhGM49BQls9V80aAWOKNh2lYv5Kj
+NYM5Ous8HEBZg8qGnFhFfNcOvKPHsK5LEFh6GqZDLA5GaBs9iWPfvZ6uti6co0ewRsAKlixwAVc7
+bNq0lcGRXi6dMYZ4PA/P8+ju7kZrTW1tbd479/+BGO9Xt3Rqc0dqlxo0pUAXJjG9XSjXRSIRrHaY
+WZ1k2eyRYMJyNWj9I5z08zh20WU4hI5LW0EZQaUyFN19F0FpBe0LFtM563x6Z52Pam1DjAIj2EBo
+SwvO0bdou+xajBGMBWPAILjaYcOGzQyLpbhs5ljieXn4vk9PTw+O42CMYZ9NXPatVXvVBwZePHLR
+wjM9wWandqqn8vKxqS6U6yNeBCOKBUP7sXT6cGwmQGFxm08Qe/Zpjiz9PBqbDWETMm4tpT+/jbZl
+1xH0q0Sycm0NmH5VmEAwQViydEsTpqiUTLIUYyULGlytWf/084xJWi6eMYZ4PJ4DrbXGGIPveRjP
+u/loa8czHwh44dC5X2rPqCf04CkQiUGqC3H9sAwhXFI/gFkTagkCgyiLsoaSu26nqbwaKSpCbBja
+ygoYwT1wAOu4YakyFmsUNggvEyjM6TaMgUxvBm/bC/QMqyMwWWGzCq0cHl+/kckVDkumjyEWj+N5
+HqlUCscJs9j3XF471c0v1v4xvWn38R+8b+AFQ2Z/p8P6d+tBDYjnQaYHvCji+hiEKxqGMXbkQIyx
+iDUhSCXkr3+MnokNiLUIBjEm67WBtMHu34cNwBqFSQUEGYPpTWFPtWDyCggCRfSxFWQqazj+47tD
+h2ZBa8WqtRuYMSDKomn1xLJMp9NptNY50K+2dHPT+rcyr73Zcs6JWxZtfl/iVjB45q0dEvuWO3AK
+oh1s0IuKJFCejwWuOquO/jUVWGMBAyKh0+rpxTnZSGpUHdaGntJI2G2BwKlTBK1t6F3bSddPxvam
+MV3dSH4RNt/HBFDwsxvxdr3EkbvWExghIAT90JqnmTeigLkNo4hGYziOQyaTwXEcrLW4jsMrzZ3c
+/OThzKuHTs04cdvil95XHY/VTL2/1yu5whk4GaUUYFGRPCQSQzsuV8xpoLRfKRHHEnUF37VEPIvr
+Cl6qnVFnDaNz+kyafvUASoXtpPT5J6vwNm2k4JZ/pXd8Az3nzCdIFCNNJ4luWIO39zVal17NmQu/
+iFGawIJ2hZVr17OorpjzGkYRiURxHIcgCLL7A0crdp7s5OZ1hzIvH2yeeeK2i158z93Z9lNWpo9p
+WJuOlS/Q/ceHpUeAaD7aj+G4LpfPnU4imSTiWnwtRD1LxBV8Bzzf4jiWUVOHYPMLOLxpR9gxiULI
+dhNZr62OHkU3txDZ+gJBJE5QUEL3iHGkKmqwVshYsNaiHGHFmjVcMqGccyeMIBqLobUO33sn6BMd
+3LTuYLDjQNPMptuWvPDn8P3ZUL/4a3c60+ombDL5NdN0RT1iMiFqPx/leniOYumCmXjxBFZCdTUC
+GYQASyAQWIsY6Jo0jfi2zWQgNCaSbaitCl+MJVNWDaU1dA0fT2AEa0IvjglLVmBBO8JvH3ucL0zt
+z4xxw4lEIjnQWmtEBEcrtjV28KP1B4Md+5vObfrpnwdNdqDxrlUzcXF85/aNW03BoEm6rB5r04go
+lB9HeRFifoQLLzgPJ5KPUgalsl2UAq0sSglaDEoEUZagtITi1StonTmXTL9yAgvGCtYKQV89tkJg
+LZlse9l3P1RvQTQ88OijXHV2DdPfARpAa41SCtd12NbYzo/XHTDb9p2c1fTTpb9/zxOYmrpFBSdb
+m3aSqBysqyaS6ukMQUXyEC9CfjzK3AsWoB0fV4f9rueAp8F3wnD3PYPvCJ5jcR1wNAz72udRvT0c
++vVqRAliVRjmNmTeBhKqurXZ7kuy5U3QGn63ahXXzaplSt0Q/P8FWmuNozVbjrfzb+v2m61/PDGr
+6WdLN/1/2pVjvGL2t4qam95+fUT9lJqxNTEyLQc4deIYfl4CXVBBQUGCORfMQ7QXbl4EpUDEoPoU
+S4HKjoBQWU1QcPq8hVT98lbcg/s5M3MBxoZ9c2BVNpRDxgOjwpbTWIwJ//+K1au4Yc5QJo8egud5
+KKVyOa2UCkE3tnPL+gNmy97G2c0/v3jTe6lUOeBpN/n9moZrFv79ggKmTxzJkrlTmDNlJNLZzLE9
+WymLpigrLaKwoj8pY9GhE0EU4fBHq1CxVXg/LNahnzaOS9PSL1D5qzugo5O20RMIRIcOzELGSDhF
+sZAxNmtOLCseeYTl84YzceQQXNfNMa2UQkRwHYeXGju49akD5qU9jec1337xxvfqS/6U4/nVV89b
+eMG4RZMrGFJbSyJRQFVFP6aNH8HFsydQFPfYufl5NjzyWyK9p6mqKscrKCYwAaIlbDZCvQrZFwk7
+KMCKEHhRTly6jOj+NyhdeQ9tdZNJ+bGQbROKYWAtxii0GFY+/BB/d/4oxg4fhOu6OaZFwmjTWrHl
+ZCc/ffqQ3fz68bnNt1/y7PtxoTlVVyJnsB2IRBERfN/HWovneeTl5bGkopLZ08Zw5kwrT27ezZO/
+u5PTnWkmnTOLUQ0z6HJiBCaTdWdhuFsRAiFUdAGt4MiSK2HJMmKH9uGcOUPXgKFYk61uRnAkYMWD
+D/OdC8cwqrYmZz2ttblXJcLmxi7ufPYtu3n323Ob77hkw/vtOXKM5w9s0JlI8ooFY8vBGjKZTCgc
+jpMLs2g0RjKZZMLoWuZPGclZdQM5cnA/qx5+hMa9r1CciFHRv5IeqwATgsnOxvrCOsj+3VNQTE9B
+EUE2tI0BjWHVyof43kVjc6D7mO4D7mjFlqZefvncEfvCq0fntdx56X9/kA4zB/zbN/1k/7PPPHdt
+yeAJBaPLXSyQyWRIp9MYY3IKqpTCcRzi8TyqKsqZNnYYF80YTU1JHi/v2sVDDz5K+lQjZSVJCktK
+6A1MOAgUsoNAyYLPilm2sHgYHl3xID+4ZALDB1Xjui4ikgNtrcVRiq0tAXc9f5jnXzkyv+XOzz3z
+oTxCyqu/bGGipu6Jf7p+IdMGe1gbCkmfqIgInufh+37OKRljcnnX0d7OqZZmNr68n7Vb3uBQUycN
+0yYzYWoDxJOk0mmwNjsuVuGsXQkRDI+vWMkPL21gyICqXHj3hba1Fkdrtp+x3PP7Izz38uEFLf9x
++ZN/yfToXQYmdfL1fYGTaH9h36n5TtFAaksdEjGfVDqdA2etJZ1Ok8lkcj9K30Zd16UwmWTM8MHM
+mzSMOfXVNL19jNVPPMPunS+TiLhUVZaTFheLRZTClwyPP7CSf7p8GoNrKt8F2hgTOjOl2Hoa7nvh
+KBt2Hj7/9C//MtD/p1cvnPzFWdba+wsGjK44Z/pkZg+NcfbQYpQIqXQml3t9UQDgeV5Offs2rJQi
+k8lwqrmJNw4eYc22vWza00j1wBoazppKTf8KHr7/Qf7lirOpqSrPWc8+loMgwNGarWeE3750jKe2
+Hrig/a4r133kj4kLpn55UdDT/o2SIXXzk9VDmFVfw8yBHuMHl9CTymCsJTvaJwiCXBWIRqO4rguQ
+uy8idHd30XSikS2vH+KpXW9yPBXjF9edQ/+Kslw69TEdBAFaCVtbNSteOsb6LfsXtv/XF9f+VZ+P
+z/jRzuj2h35yfWG/yq/H+w0cVtl/AOfW5jNnRB7Vpfl0dHajsuLXl5fGGHzfx/O8XK+cTqdzTUV7
+exs2yFBcWpZT7j7QmUwGRys2n1Y8tO1t1m3et6jjV8vWfKwnIvpf/u9DW4/uXZ6sHvoVFSuNjRhQ
+yZzaCHPri8mLePSk0rk87QMRBEEuFRzHobu7O2RUa5LJ5LtAp9NplBJebIFVO0+w7sV9izvuXvb4
+J+ooSNmSG+eZdPfyePGAxSpazNShJcwbHuHs4SUYYwlMGOJ9gHp6egiCgEgkQjQaGqVEIpH7TCqV
+QivFpibD4682sfb5vRd13HPVY5/YMzDf22vd//z2D66NJQqXxwrL6svK+jGzNsZZ/T1qywvpSWVy
+KRAEAb29vXR1deG6LtXVYc3OZDIIlo0nDE+81szaTXuWdNx79aN/M4d/Rnx3bU3L3s3LSyqrbyhI
+JguG9C9mUilMKI+QzIvSm/7TXCwIAgoLC0NfIPD02ynW7z7Fmk2vL+2490ur/2aPew1eft+srpZj
+y8sqKy8pKiqkrn8BdYleRpXE8DwHRJFMJsnPi7PurW6e2nOKNRv/cHH7fdes+lScc3vRWn3pNXdc
+66pgeWlp6djysiLGVUQYFk8zsiyPXekint3XxhMbdl/a/utrHv5UHvCbfMfu6iOb138jkUh+taKy
+X6J2xDDazrSxduNrn+v8zbUP/rX28bGdJQUY9cM1s06fbFze3mlXdvzmupV8tj5bH9n6Hw6SwUp2
+fbtUAAAAAElFTkSuQmCC
+
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/images//image_left.png
+
+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
+R/4fHRJGuFqkiWMAAAAASUVORK5CYII=
+
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/css/print.css
+
+@charset "utf-8";
+
+@import url("common.css");
+
+@import url("overrides.css");
+
+@import url("lang.css");
+
+#tocframe { display: none; }
+
+body.toc_embeded { margin-left: 30px; }
+
+.producttitle { color: rgb(51, 102, 153); }
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/css/lang.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/css/overrides.css
+
+@charset "utf-8";
+
+a:link { color: rgb(0, 53, 199); }
+
+a:visited { color: rgb(84, 99, 140); }
+
+h1 { color: rgb(199, 0, 54); }
+
+div.producttitle { color: rgb(199, 0, 54); }
+
+.section h1.title { color: rgb(199, 0, 54); }
+
+h2, h3, h4, h5, h6 { color: rgb(199, 0, 54); }
+
+.docnav.top li.home { color: rgb(199, 0, 54); }
+
+table { border: 1px solid rgb(170, 170, 170); }
+
+table th { background-color: rgb(153, 0, 0); }
+
+table tr.even td { background-color: rgb(245, 245, 245); }
+
+#title a { height: 54px; }
+
+.term { color: rgb(199, 0, 54); }
+
+.revhistory table th { color: rgb(199, 0, 54); }
+
+.titlepage .edition { color: rgb(199, 0, 54); }
+
+span.remark { background-color: rgb(255, 255, 0); }
+
+div.url { margin-top: 0.5em; }
+
+div.url + div.url { margin-top: 0px; }
+
+div.sidebar { border: 2px solid rgb(170, 170, 170); margin-top: 10px; margi=
+n-bottom: 10px; padding: 10px; font-size: 90%; background-color: rgb(238, 2=
+38, 238); }
+
+div.sidebar > div.titlepage { border-bottom: 1px solid; }
+
+div.sidebar > div.titlepage span.emphasis:nth-child(1) > em { color: rgb(10=
+2, 102, 102); font-style: normal; font-variant: small-caps; }
+
+div.sidebar p.title { margin-bottom: 0px; margin-top: 0px; }
+
+div.sidebar > p, div.sidebar > div.para { margin-top: 1em; margin-bottom: 0=
+px; }
+
+.screen .computeroutput { font-weight: normal; }
+
+#banner { position: fixed; top: 0px; right: 0px; z-index: 2; }
+
+#banner a { display: block; font-size: 13px; font-family: "DejaVu Sans Cond=
+ensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue=
+", Helvetica, Arial, "sans serif"; font-weight: bold; text-decoration: none=
+; text-shadow: rgb(68, 68, 68) 0px 0px 0.5em; border-bottom: none; backgrou=
+nd-color: rgb(154, 0, 0); color: rgb(255, 255, 255); text-align: center; bo=
+x-shadow: rgb(136, 136, 136) 0px 0px 13px; }
+
+#banner .text { display: block; padding: 3px 0px; border: 1px solid rgb(191=
+, 96, 96); }
+
+#banner a:hover { color: rgb(255, 255, 153); }
+
+@media (min-width: 1000px) {
+  #banner { height: 149px; width: 149px; overflow: hidden; padding: 0px; ma=
+rgin: 0px; }
+  #banner a { width: 190px; padding: 1px 15px 1px 25px; position: relative;=
+ left: 20px; top: -37px; transform-origin: 0px 0px; transform: rotate(45deg=
+); box-shadow: rgb(136, 136, 136) 0px 0px 13px; }
+}
+
+@media (max-width: 999px) {
+  #banner { width: 100%; position: fixed; top: 0px; left: 0px; }
+  #title { padding-top: 20px; }
+}
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/images/stock-go-up.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
+/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+IHCBMbFqNOhzQAAAJxSURBVDjL
+rZQ/a1NRGIefk3t7c5tTY0JdSkoHu0W6CQas2k7FTEKKS+AUGprSrOI3cFJwEUHjEgpuyVTo4CCi
+g7h1KiQfISko0bYnN+c2Dk3am5o0UfvCCxfOe57zu+8/kckDgNTqpxDC5gqs0+mYIGiqVCpdBZe1
+tTX6FOZyuRZXY+EgOG6MGXXhDvBtHPIZ+NDd/nFZoNSqALwGnhy62y9HgUPjvC61euS67otCoUA0
+Gn0mtcr9N1hqdVcI8X5jYyMSi8XY3NycdF33ldTq8T+DpVZJYDebzUZc12Vvb496vc76+vqkbdsl
+qdXDvwZLrRLAp3Q6fW1mZoZ6vY5lWezv79NsNslms5NCiLLU6v7YYKlVDPi8uLgYTyaTotFo9J1X
+q1V832d1dTUC7Eqtbo8ES63CQogPCwsLiVQqZR8cHNDpdP54vFqt4jgO6XRaAh+lVreGgqVWISFE
+ZW5u7tbS0lJ4GLRntVoNKSXLy8tTwBep1c1hit9MT08/WFlZidi2TTQaxXXds0Pf98+nKR5nfn4e
+x3FIJBIilUpdB752a4MILKGnwHOgDZwA2LZtb21tWc1mE4BGo0Ev37Ozs+zs7Pimf1zDQA24Fxzp
+t8C7oHxjzPdWa/D6MMZgjLGAGwOOj4Mj3RxQSDzPGwg+Ojq6dBUMbLdKEVEpYvWUDbLj4+NebOjS
+JVQpIgDrgg/tina73fuMVIr4cOqZPP6Z4u6rNjABON0ihMfdvV13gIlK8VRs8DfEBQ+NCQ5duHee
+40yeE8AEvA14AK1Wq9cBw/LtdePbgJfJY/py3IV7gNdNjQVQLpdHKf4FnGTy9BXjN4NR5Y2OWmfb
+AAAAAElFTkSuQmCC
+
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/images/stock-home.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
+/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+IHCBMbFqNOhzQAAAKzSURBVDjL
+rVXNSxtBHH0zu/nYGO0qKmkrWLwJrg0k5g+oSK+e4kEL9bA30YC59m4FMWfpveBJLPQitD14WW8t
+niTFJdZAbPNhdD+zs9uLCTEmmtQ++F1mZx5v37zf/IAusbu7S9ADutqcSqXeUkrTfr8/trGxYf0X
+4tXV1Vc+n+9zJBKhhUJBqVarrwVB0G6RECJmMpnL5jX6gFKJ5/l9WZYD6XTaNzU1FRdF8SsAbG5u
+YmtrCxzHtf2DjsTr6+tjHMd9WVhYCI2PjyOXy2FxcTEYjUZfAoDf7wfHcR1F8R2UPgHwbW5uToxG
+o+T09BSMMZyfnyOZTAZGR0fBGAMhnZ2kbUg5nuf34vH489nZWT6Xy4ExBgDQNA2qqkKSJJydncHz
+vO4V8zz/YWJiIjE/Px9UVRXX19e3vtu2jaurK1BKwRgDYyxACHkB4HvzPq7F13fDw8Py8vJyXz6f
+R6lUqh++U47joL+/H4ODg242m00mEok9RVGKd4jX1tbeCILwXpblvnK5jIuLC7iue29VKhVMTk6S
+gYGBYDabXZqZmdlXFOVPg/gmqx9lWRbC4TBOTk46Km0u27ZRLBYxPT1NQqFQQFXVpVgs9uno6Og3
+SaVSkud5PwBAEASsrKzg+Pj43otpaQ5IkoTt7W3UarX6ssTruv4zGAwOAYBhGCXTNFGr1RpJeAgc
+x6F+xvO8IQBgjNn8zs6ODkC/8RmmacKyLLiu2xUxpRSGYQCARymtZjIZ1jZumqbBtu2uFQOAZVkg
+hNgAwgAu2xIbhgHLsrr2GAB0XX+4QTRN65lY07R7iZ/WO8t13Z6sME0TAOjBwUGk1QoRwBgAOI6D
+kZGRXoZFI2blcvkZgAKACt/04BMAODw8xD/CJ4piXz6fJ60TZAxAqNNT2gWcm9j+ajeaCB6Hxo3/
+BRJWbtfwPe7lAAAAAElFTkSuQmCC
+
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/images/stock-go-back.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
+/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+IHCBMbFqNOhzQAAAKWSURBVDjL
+tZU/SBtRHMe/7+68R/NHL8pZ3Cq2EMS4SKEOigQHHVw8/001bUroGhzdXEopCKV0CUivW6gGwaER
+KqU00EEoXU46CnWIpB300rt48V6ugzkN8S5Vah98ecPd+7wf3/f9vUeUFP7L4K67IFxNpG8UvJT4
+QiSWfAlg9cbAD+69aMtkMhvRaPTJjVnRhVRob2/v0/Dw8GQ6nQ5cFSy0+hiyFm8zgX0eGxu7Mzs7
+K/I8j38GSyx5FwIKExMT8ujoKK9pGgYHB0EpBaxEpQXTLItqF/GKm8SS9wF8mJ6eDsdiMe7g4ACM
+MfT09CASifgSLcvC8vKyXRbVNsEjTpPgsT43Nxfs7e2FCwWAYrGIUqnkC+7r6/O2QmLJxwIVXs3P
+zwdkWcbh4eGlxe4mXqNarV4Gh6zFuA17TVEUUEqxv79/JajjOCCEAAA6Ozsvg3/Ttx8lllzd3t5+
+OjU1FTBNE8fHx9fqyu7ubu8cH/FrS7quP9/c3DQppejo6LgW2LIs/7iVRXWFt5JH+Xz+WTweD7S3
+t0PXdQBAMBj0TQUhBJXKRQqJ3+0WriYe8Tz/emRk5JYgCDAMA7IsY2trqwbAaVF4rSyqom9Ll0X1
+DWPsYaFQqOi6DkopTNMEAO7k5CTkp0gkEv5rS6uqmltYWDB3d3fXY7FYQJIkAEA2mz0PRV01AI6S
+Avth+Hicy4AA4F1ls9nC+Pj4DICNaDTqXkKhBnCtLpbLgAFnEjygQpP4nZ2dbwMDAzMA3tWh4TqU
+NchumO1mj4mHOABE0zQtn88rtm3/cjesi2v8zxXfP3RB7R+C8/3r+Yk7TT4ywzBKxWLxvWmaPwFU
+AZy6FTbplLR6THMZcA1VcQ1VNR8cc71WUmcF/QE2XBTTIuMwzAAAAABJRU5ErkJggg==
+
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/images/stock-go-forward.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
+/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+IHCBMbFqNOhzQAAALcSURBVDjL
+tZVPSBxXHMc/M+PubGeju2u2SLAG2kMvCsmt1z3k4kVKRLzFhtVdKBjIoVDsoSSQU045qghVC6aC
+ICha115CDhLQiuSQKULFhVUWnPFPcdY3kzfbQ2dlXXeDBX3w5b2Z+b3P/N53fu+N0pvhRpp61cDW
+8tAPNwIGfk4q2Zl7Xzxvum6w1tnZ+W2hUPgjevYoep1ghoeHI6lU6htd198llezn1waWUtLX1xfp
+6en52vf9zbhMf9Uo9tyvpJL9y/f9uw0zUNWI53lsb2+TSqVChmHcmZ2dXW8W3z34J/zLnw3BwO2R
+kZFIIpGob7CmYds2juNgmiZdXV2qruuJ6enpNzrZhwfl0dVGYMLhMPl8HiFEQysq/c7ODu3t7QwO
+Dt6anJycj5fS2SNt4te6Hruui+d5SCnrqrYVi0Wi0SgDAwNGS0vLaFLJ/lg3Y9u2sSwLz/PwfR9V
+Vet5feH68PCQZDJJf3+/MTEx8aKVoV1bGZ+5AD46OqJYLOK67pUrJZFI4LouS0tLTigUml9fX/+t
+435NxmdnZ//rPIjFYsRiMRYWFk4ty5qylfHvO+7XsUIIQVtbG1JKNE27BDo5OeH4+BiA5uZmdF1n
+cXHx1HGcV7Yy/lPdqvB9311eXpafSFDp7u5WAQzDAGBlZeXU87xnB+XRlw3rOB6Pf7m3t6c0ohqG
+cSiEiOi6jhCCtbU1B3h6UB4d/+TO+/v4pSA4WubGUINSVAEFUNLpNEIIHMdha2vLKZVKmampqdeA
+0puh3BA8N4YGl3QBblkWpmk6u7u76Vwu9ztgAHJuDAn/qfISNYA2ASEgHEgHIsBnweQogGmapY2N
+jce5XO5t8FwPFA7mh+bGUACagkG11JqxBmhSyoPV1dUn+Xx+M7hfDnq/Kp5KxlpvBj5sXPCoXKXK
+Er1CoZDb399/D3iBPlZJAm5vBu+8hGp/psEKqv1Va84Uv0oS8Ot9vH8B8ShDbicn5SQAAAAASUVO
+RK5CYII=
+
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/css/common.css
+
+@charset "utf-8";
+
+* { widows: 4 !important; orphans: 4 !important; }
+
+body, h1, h2, h3, h4, h5, h6, pre, li, div { line-height: 1.29em; }
+
+body { background-color: white; margin: 0px auto; font-family: "liberation =
+sans", "Myriad ", "Bitstream Vera Sans", "Lucida Grande", "Luxi Sans", "Tre=
+buchet MS", helvetica, verdana, arial, sans-serif; font-size: 14px; max-wid=
+th: 770px; color: black; }
+
+body.toc_embeded { margin-left: 300px; }
+
+object.toc, iframe.toc { position: fixed; width: 290px; height: 99.99%; top=
+: 0px; left: 0px; z-index: 100; border-style: none solid none none; border-=
+right-width: 1px; border-right-color: rgb(153, 153, 153); }
+
+body.notoc { margin-left: 3em; }
+
+iframe.notoc { border: none; padding: 0px; position: fixed; width: 21px; he=
+ight: 29px; top: 0px; left: 0px; overflow: hidden; margin: 0px 0px 0px -3px=
+; }
+
+body.desktop { margin-left: 26em; }
+
+body.desktop .book > .toc { display: block; width: 24em; height: 99.99%; po=
+sition: fixed; overflow: auto; top: 0px; left: 0px; background-color: rgb(2=
+38, 238, 238); font-size: 12px; }
+
+body.pdf { max-width: 100%; }
+
+.toc { line-height: 1.35em; }
+
+.toc .glossary, .toc .chapter, .toc .appendix { margin-top: 1em; }
+
+.toc .part { margin-top: 1em; display: block; }
+
+span.glossary, span.appendix { display: block; margin-top: 0.5em; }
+
+div { padding-top: 0px; }
+
+div.section { }
+
+p, div.para { padding-top: 0px; margin-top: 1em; padding-bottom: 0px; margi=
+n-bottom: 1em; }
+
+div.formalpara { padding-top: 0px; margin-top: 1em; padding-bottom: 0px; ma=
+rgin-bottom: 1em; }
+
+.varlistentry div.para { }
+
+a { outline: none; }
+
+a:link { text-decoration: none; border-bottom: 1px dotted; color: rgb(51, 1=
+02, 204); }
+
+body.pdf a:link { overflow-wrap: break-word; }
+
+a:visited { text-decoration: none; border-bottom: 1px dotted; color: rgb(0,=
+ 51, 102); }
+
+div.longdesc-link { float: right; color: rgb(153, 153, 153); }
+
+.toc a, .qandaset a { font-weight: normal; border: none; }
+
+.toc a:hover, .qandaset a:hover { border-bottom: 1px dotted; }
+
+h1, h2, h3, h4, h5, h6 { color: rgb(51, 102, 153); background-color: transp=
+arent; margin-bottom: 0px; margin-top: 20px; overflow-wrap: break-word; }
+
+h1 { font-size: 22px; }
+
+.titlepage h1.title { text-align: left; }
+
+.book > .titlepage h1.title { text-align: center; }
+
+.article > .titlepage h1.title, .article > .titlepage h2.title { text-align=
+: center; }
+
+.set .titlepage > div > div > h1.title { text-align: center; }
+
+.part > .titlepage h1.title { text-align: center; font-size: 24px; }
+
+div.producttitle { margin-top: 0px; margin-bottom: 20px; font-size: 48px; f=
+ont-weight: bold; color: rgb(51, 102, 153); text-align: center; padding-top=
+: 12px; }
+
+.titlepage .corpauthor { margin-top: 1em; text-align: center; }
+
+.section h1.title { font-size: 18px; padding: 0px; color: rgb(51, 102, 153)=
+; text-align: left; background: white; }
+
+h2 { font-size: 20px; margin-top: 30px; }
+
+.book div.subtitle, .book h2.subtitle, .book h3.subtitle { margin-top: 1em;=
+ margin-bottom: 1em; font-size: 18px; text-align: center; }
+
+div.subtitle { color: rgb(51, 102, 153); font-weight: bold; }
+
+h1.legalnotice { font-size: 24px; }
+
+.preface > div > div > div > h2.title, .preface > div > div > div > h1.titl=
+e { margin-top: 1em; font-size: 24px; }
+
+.appendix h2 { font-size: 24px; }
+
+h3 { font-size: 14px; padding-top: 0px; padding-bottom: 0px; margin-bottom:=
+ 0px; }
+
+h4 { font-size: 14px; padding-top: 0px; padding-bottom: 0px; }
+
+h5 { font-size: 14px; }
+
+h6 { font-size: 14px; margin-bottom: 0px; }
+
+.abstract h6 { margin-top: 1em; margin-bottom: 0.5em; font-size: 24px; }
+
+.index > div > div > div > h2.title { font-size: 24px; }
+
+.chapter > div > div > div > h2.title { font-size: 24px; }
+
+.section > div > div > div > h2.title { font-size: 21px; }
+
+.section > div > div > div > h3.title { font-size: 17px; }
+
+hr { border-collapse: collapse; border-style: dotted none none; border-top-=
+width: 1px; border-top-color: rgb(204, 204, 204); width: 100%; }
+
+ul.languages, .languages li { display: inline; padding: 0px; }
+
+.languages li a { padding: 0px 0.5em; text-decoration: none; }
+
+.languages li p, .languages li div.para { display: inline; }
+
+.languages li a:link, .languages li a:visited { color: rgb(68, 68, 68); }
+
+.languages li a:hover, .languages li a:focus, .languages li a:active { colo=
+r: black; }
+
+ul.languages { display: block; background-color: rgb(238, 238, 238); paddin=
+g: 0.5em; }
+
+.books { position: relative; }
+
+.versions li { width: 100%; clear: both; display: block; }
+
+a.version { font-size: 20px; text-decoration: none; width: 100%; display: b=
+lock; padding: 1em 0px 0.2em; clear: both; }
+
+a.version::before { content: "Version"; font-size: smaller; }
+
+a.version:visited, a.version:link { color: rgb(102, 102, 102); }
+
+a.version:focus, a.version:hover { color: black; }
+
+.books { display: block; position: relative; clear: both; width: 100%; }
+
+.books li { display: block; width: 200px; float: left; position: relative; =
+clear: none; }
+
+.books .html { width: 170px; display: block; }
+
+.books .pdf { position: absolute; left: 170px; top: 0px; font-size: smaller=
+; }
+
+.books .pdf:link, .books .pdf:visited { color: rgb(85, 85, 85); }
+
+.books .pdf:hover, .books .pdf:focus { color: rgb(0, 0, 0); }
+
+.books li a { text-decoration: none; }
+
+.books li a:hover { color: black; }
+
+.products li { display: block; width: 300px; float: left; }
+
+.products li a { width: 300px; padding: 0.5em 0px; }
+
+.products ul { clear: both; }
+
+.revhistory { display: block; }
+
+.revhistory table { background-color: transparent; border-color: rgb(255, 2=
+55, 255); padding: 0px; margin: 0px; border-collapse: collapse; border-styl=
+e: none; }
+
+.revhistory td { text-align: left; padding: 0px; border-right: none; border=
+-bottom: none; border-left: none; border-image: initial; border-top: 1px so=
+lid rgb(255, 255, 255); font-weight: bold; }
+
+.revhistory .simplelist td { font-weight: normal; }
+
+.revhistory .simplelist { margin-bottom: 1.5em; margin-left: 1em; }
+
+.revhistory table th { display: none; }
+
+.authorgroup div { clear: both; text-align: center; }
+
+div.author div.author, div.translator div.translator, div.othercredit div.o=
+thercredit, div.editor div.editor, div.contrib div.contrib { margin: 12px 0=
+px 0px; padding: 0px; font-size: 14px; font-weight: bold; color: rgb(51, 10=
+2, 153); }
+
+div.editedby { margin-top: 15px; margin-bottom: -0.8em; }
+
+div.authorgroup .author, div.authorgroup.editor, div.authorgroup.translator=
+, div.authorgroup.othercredit, div.authorgroup.contrib { display: block; fo=
+nt-size: 14px; }
+
+.revhistory .author { display: inline; }
+
+.othercredit h3 { padding-top: 1em; }
+
+.othercredit { margin: 0px; padding: 0px; }
+
+.releaseinfo { clear: both; }
+
+.copyright { margin-top: 1em; }
+
+.answer { margin-bottom: 1em; border-bottom: 1px dotted rgb(204, 204, 204);=
+ }
+
+.qandaset .toc { border-bottom: 1px dotted rgb(204, 204, 204); }
+
+.question { font-weight: bold; }
+
+.answer .data, .question .data { padding-left: 2.6em; }
+
+.answer .label, .question .label { float: left; font-weight: bold; }
+
+.perl_Alert { color: rgb(0, 0, 255); }
+
+.perl_BaseN { color: rgb(0, 127, 0); }
+
+.perl_BString { color: rgb(92, 53, 102); }
+
+.perl_Char { color: rgb(255, 0, 255); }
+
+.perl_Comment { color: rgb(136, 136, 136); }
+
+.perl_DataType { color: rgb(0, 0, 255); }
+
+.perl_DecVal { color: rgb(0, 0, 127); }
+
+.perl_Error { color: rgb(255, 0, 0); }
+
+.perl_Float { color: rgb(0, 0, 127); }
+
+.perl_Function { color: rgb(0, 127, 0); }
+
+.perl_IString { color: rgb(92, 53, 102); }
+
+.perl_Keyword { color: rgb(0, 47, 93); }
+
+.perl_Operator { color: rgb(255, 165, 0); }
+
+.perl_Others { color: rgb(176, 48, 96); }
+
+.perl_RegionMarker { color: rgb(150, 185, 255); }
+
+.perl_Reserved { color: rgb(155, 48, 255); }
+
+.perl_String { color: rgb(92, 53, 102); }
+
+.perl_Variable { color: rgb(0, 0, 255); }
+
+.perl_Warning { color: rgb(0, 0, 255); }
+
+ul { list-style-image: url("../images/dot.png"); list-style-type: circle; p=
+adding-left: 1.6em; }
+
+ul ul { list-style-image: url("../images/dot2.png"); list-style-type: circl=
+e; }
+
+ol.a, ol ol { list-style-type: lower-alpha; }
+
+ol.i { list-style-type: lower-roman; }
+
+ol.A { list-style-type: upper-alpha; }
+
+ol.I { list-style-type: upper-roman; }
+
+dt { font-weight: bold; margin-bottom: 0px; padding-bottom: 0px; }
+
+dd { margin: 0px 0px 0px 2em; padding-top: 0px; }
+
+li { padding-top: 0px; margin-top: 0px; padding-bottom: 0px; }
+
+img { display: block; margin: 2em 0px; max-width: 100%; }
+
+.inlinemediaobject, .inlinemediaobject img, .inlinemediaobject object { dis=
+play: inline; margin: 0px; overflow: hidden; }
+
+.figure { margin-top: 1em; width: 100%; }
+
+.figure img, .mediaobject img { display: block; margin: 0em; }
+
+.figure .title { margin-bottom: 2em; padding: 0px; }
+
+.confidential { background-color: rgb(153, 0, 0); color: white; padding: 0.=
+5em; text-transform: uppercase; text-align: center; }
+
+.longdesc-link { display: none; }
+
+.longdesc { display: none; }
+
+.prompt { padding: 0px 0.3em; }
+
+.screen .replaceable { }
+
+.guibutton, .guilabel { font-family: "dejavu sans mono", "liberation mono",=
+ "bitstream vera mono", "dejavu mono", monospace; font-weight: bold; }
+
+.example { background-color: rgb(255, 255, 255); border-left: 3px solid rgb=
+(170, 170, 170); padding-top: 1px; padding-bottom: 0.1em; padding-left: 1em=
+; }
+
+.equation { border-left: 3px solid rgb(170, 170, 170); background-color: rg=
+b(255, 255, 255); padding-top: 1px; padding-bottom: 0.1em; padding-left: 1e=
+m; }
+
+.equation-contents { margin-left: 4em; }
+
+div.title { margin-bottom: 1em; font-weight: bold; color: rgb(51, 102, 153)=
+; overflow-wrap: break-word; }
+
+.example-contents { background-color: rgb(255, 255, 255); }
+
+.example-contents .para { }
+
+.computeroutput, .option { font-family: "dejavu sans mono", "liberation mon=
+o", "bitstream vera mono", "dejavu mono", monospace; font-weight: bold; }
+
+.replaceable { font-style: italic; }
+
+.command, .filename, .keycap, .classname, .literal { font-family: "dejavu s=
+ans mono", "liberation mono", "bitstream vera mono", "dejavu mono", monospa=
+ce; font-weight: bold; }
+
+.toc * { font-weight: inherit; }
+
+.toc h1 { font-weight: bold; }
+
+div.programlisting { white-space: pre-wrap; overflow-wrap: break-word; }
+
+pre { font-family: "dejavu sans mono", "liberation mono", "bitstream vera m=
+ono", "dejavu mono", monospace; display: block; background-color: rgb(245, =
+245, 245); color: rgb(0, 0, 0); margin-bottom: 1em; padding: 0.5em 1em; whi=
+te-space: pre-wrap; overflow-wrap: break-word; font-size: 0.9em; border-sty=
+le: none; box-shadow: rgb(170, 170, 170) 0px 2px 5px inset; }
+
+body.pdf pre { border: 1px solid rgb(170, 170, 170); box-shadow: none; }
+
+pre .replaceable, pre .keycap { }
+
+code { font-family: "dejavu sans mono", "liberation mono", "bitstream vera =
+mono", "dejavu mono", monospace; white-space: pre-wrap; overflow-wrap: brea=
+k-word; font-weight: bold; }
+
+.parameter code { display: inline; white-space: pre-wrap; overflow-wrap: br=
+eak-word; }
+
+code.email { font-weight: normal; font-family: "liberation sans", "Myriad "=
+, "Bitstream Vera Sans", "Lucida Grande", "Luxi Sans", "Trebuchet MS", helv=
+etica, verdana, arial, sans-serif; }
+
+div.warning::before { content: url("../images/warning.png"); padding-left: =
+5px; }
+
+div.note::before { content: url("../images/note.png"); padding-left: 5px; }
+
+div.important::before { content: url("../images/important.png"); padding-le=
+ft: 5px; }
+
+div.warning, div.note, div.important { color: black; margin: 0px 0px 1em; p=
+adding: 0px; background: none white; border-bottom: 1px solid rgb(170, 170,=
+ 170); }
+
+div.admonition_header p { margin: 0px; padding: 0px; color: rgb(238, 238, 2=
+36); height: 1.4em; line-height: 1.4em; font-size: 17px; display: inline; }
+
+div.admonition_header { background-origin: content-box; clear: both; margin=
+: -40px 0px 0px; padding: 0px 0px 0px 58px; line-height: 1px; font-size: 1p=
+x; }
+
+div.warning div.admonition_header { background: linear-gradient(rgb(164, 0,=
+ 0), rgb(89, 0, 0)); }
+
+div.note div.admonition_header { background: linear-gradient(rgb(118, 159, =
+0), rgb(89, 120, 0)); }
+
+div.important div.admonition_header { background: linear-gradient(rgb(208, =
+142, 19), rgb(166, 113, 15)); }
+
+div.warning p:first-child, div.warning div.para:first-child, div.note p:fir=
+st-child, div.note div.para:first-child, div.important p:first-child, div.i=
+mportant div.para:first-child { padding: 0px; margin: 0px; }
+
+div.admonition { border-top: none; border-bottom: none; border-image: initi=
+al; border-left: 1px solid rgb(170, 170, 170); border-right: 1px solid rgb(=
+170, 170, 170); margin: 0px; padding: 1.5em 1em 1em 2em; background-color: =
+rgb(238, 238, 236); border-radius: 0px; }
+
+#title { display: block; height: 45px; padding-bottom: 1em; margin: 0px; }
+
+#title a.left { display: inline; border: none; }
+
+#title a.left img { border: none; float: left; margin: 0.7em 0px 0px; }
+
+#title a.right { padding-bottom: 1em; }
+
+#title a.right img { border: none; float: right; margin: 0.7em 0px 0px; }
+
+div.table { }
+
+table { border: 1px solid rgb(68, 68, 68); width: 100%; border-collapse: co=
+llapse; table-layout: fixed; overflow-wrap: break-word; }
+
+table.blockquote, table.simplelist, .calloutlist table { border-style: none=
+; }
+
+table th { text-align: left; background-color: rgb(102, 153, 204); padding:=
+ 0.3em 0.5em; color: white; }
+
+table td { padding: 0.15em 0.5em; }
+
+table tr.even td { background-color: rgb(245, 245, 245); }
+
+tr:nth-child(2n) { background-color: rgb(238, 238, 238); }
+
+table th p:first-child, table td p:first-child, table li p:first-child, tab=
+le th div.para:first-child, table td div.para:first-child, table li div.par=
+a:first-child { margin-top: 0px; padding-top: 0px; display: inline; }
+
+th, td { border-style: none; vertical-align: top; }
+
+.blockquote td, .simplelist th, .simplelist td { border: none; }
+
+table table td { border-bottom: 1px dotted rgb(170, 170, 170); background-c=
+olor: white; padding: 0.6em 0px; }
+
+table table { border: 1px solid white; }
+
+td.remarkval { color: rgb(68, 68, 68); }
+
+td.fieldval { font-weight: bold; }
+
+.lbname, .lbtype, .lbdescr, .lbdriver, .lbhost { color: white; font-weight:=
+ bold; background-color: rgb(153, 153, 153); width: 120px; }
+
+td.remarkval { width: 230px; }
+
+td.tname { font-weight: bold; }
+
+th.dbfield { width: 120px; }
+
+th.dbtype { width: 70px; }
+
+th.dbdefault { width: 70px; }
+
+th.dbnul { width: 70px; }
+
+th.dbkey { width: 70px; }
+
+span.book { margin-top: 4em; display: block; font-size: 11pt; }
+
+span.book a { font-weight: bold; }
+
+span.chapter { display: block; }
+
+table.simplelist td, .calloutlist table td { border-style: none; }
+
+table.lt-4-cols.lt-7-rows td { border: none; }
+
+table.lt-4-cols.gt-14-rows tr:nth-child(2n+1) { background-color: rgb(250, =
+250, 250); }
+
+.gt-8-cols td { border-left: 1px solid rgb(204, 204, 204); }
+
+.gt-8-cols td:first-child { border-left: 0px; }
+
+#breadcrumbs ul li.first::before { content: " "; }
+
+#breadcrumbs { color: rgb(153, 0, 0); padding: 3px; margin-bottom: 25px; }
+
+#breadcrumbs ul { margin-left: 0px; padding-left: 0px; display: inline; bor=
+der: none; }
+
+#breadcrumbs ul li { margin-left: 0px; padding-left: 2px; border: none; lis=
+t-style: none; display: inline; }
+
+#breadcrumbs ul li::before { content: "   =C2=BB "; color: rgb(51, 51, 51);=
+ }
+
+dl { margin-top: 0px; margin-left: 28px; }
+
+.toc dl { margin-left: 10px; }
+
+.glossary h3, .index h3 { font-size: 20px; color: rgb(170, 170, 170); margi=
+n: 0px; }
+
+.indexdiv { margin-bottom: 1em; }
+
+.glossary dt, .index dt { color: rgb(68, 68, 68); padding-top: 0.5em; }
+
+.glossary dl dl dt, .index dl dl dt { color: rgb(119, 119, 119); font-weigh=
+t: normal; padding-top: 0px; }
+
+.index dl dl dt::before { content: "- "; color: rgb(204, 204, 204); }
+
+.footnote { font-size: 10px; margin: 0px; color: rgb(34, 34, 34); }
+
+.footnotes { margin-bottom: 60px; }
+
+table .footnote { }
+
+sup { margin: 0px; padding: 0px; font-size: 10px; }
+
+.footnote { position: relative; }
+
+.footnote sup { color: black; left: 0.4em; }
+
+.footnote a:link, .footnote a:visited { text-decoration: none; border: none=
+; }
+
+.footnote .para sup { vertical-align: text-bottom; }
+
+a.footnote { padding-right: 0.5em; text-decoration: none; border: none; }
+
+.footnote sup a:link, .footnote sup a:visited { color: rgb(146, 145, 125); =
+text-decoration: none; }
+
+.footnote:hover sup a { text-decoration: none; }
+
+.footnote p, .footnote div.para { padding-left: 1em; }
+
+.footnote a:link, .footnote a:visited before { color: rgb(0, 83, 124); }
+
+.footnote a:hover { }
+
+.pdf-break { }
+
+div.legalnotice { }
+
+div.abstract { }
+
+div.chapter { }
+
+div.titlepage, div.titlepage > div, div.titlepage > div > div { }
+
+div.preface, div.part { }
+
+div.appendix { }
+
+div.section { }
+
+dt.varlistentry { }
+
+dd { }
+
+div.note .replaceable, div.important .replaceable, div.warning .replaceable=
+, div.note .keycap, div.important .keycap, div.warning .keycap { }
+
+ul li p:last-child, ul li para:last-child { margin-bottom: 0px; padding-bot=
+tom: 0px; }
+
+.docnav a, .docnav strong { border: none; text-decoration: none; font-weigh=
+t: normal; }
+
+.docnav { list-style: none; margin: 0px; padding: 1em 0px 2em; position: re=
+lative; width: 100%; height: 2.5em; line-height: 2.5em; }
+
+.docnav li { list-style: none; margin: 0px; padding: 0px; display: inline; =
+font-size: 14px; }
+
+.docnav li::before { content: " "; }
+
+.docnav li.previous, .docnav li.next { position: absolute; top: 1.5em; }
+
+.docnav li.up, .docnav li.home { margin: 0px 1.5em; }
+
+.docnav.top li.home { color: rgb(51, 102, 153); font-size: 22pt; font-weigh=
+t: bold; }
+
+.docnav li.previous { left: 0px; text-align: left; }
+
+.docnav li.next { right: 0px; text-align: right; }
+
+.docnav li.previous strong, .docnav li.next strong { height: 17px; display:=
+ block; }
+
+.docnav { margin: 0px auto; text-align: center; }
+
+.docnav li.next a strong { background: url("../images/stock-go-forward.png"=
+) right 120% no-repeat; padding-top: 3px; padding-bottom: 4px; padding-righ=
+t: 28px; }
+
+.docnav li.previous a strong { background: url("../images/stock-go-back.png=
+") left 120% no-repeat; padding: 3px 0.5em 4px 28px; }
+
+.docnav li.home a strong { background: url("../images/stock-home.png") left=
+ top no-repeat; padding: 5px 5px 5px 28px; }
+
+.docnav li.up a strong { background: url("../images/stock-go-up.png") left =
+top no-repeat; padding: 5px 5px 5px 28px; }
+
+.docnav a:link, .docnav a:visited { color: rgb(102, 102, 102); }
+
+.docnav a:hover, .docnav a:focus, .docnav a:active { color: black; }
+
+.docnav a { max-width: 10px; overflow: hidden; }
+
+.docnav a:link strong { text-decoration: none; }
+
+.docnav { margin: 0px auto; text-align: center; }
+
+ul.docnav { margin-bottom: 1em; }
+
+.reports ul { list-style: none; margin: 0px; padding: 0px; }
+
+.reports li { margin: 0px; padding: 0px; }
+
+.reports li.odd { background-color: rgb(238, 238, 238); margin: 0px; paddin=
+g: 0px; }
+
+.reports dl { display: inline; margin: -1.3em 17em 0px 0px; padding: 0px; f=
+loat: right; }
+
+.reports dt { display: inline; margin: 0px; padding: 0px; }
+
+.reports dd { display: inline; margin: 0px; padding: 0px 0.5em 0px 0px; }
+
+.reports h2, .reports h3 { display: inline; padding-right: 0.5em; font-size=
+: 14px; font-weight: normal; }
+
+.reports div.progress { display: inline; float: right; width: 16em; backgro=
+und: url("../images/shine.png") left top repeat-x rgb(204, 0, 0); margin: -=
+1.3em 0px 0px; padding: 0px; border: none; }
+
+body.results, body.reports { max-width: 57em; padding: 0px; }
+
+div.progress { display: block; float: left; width: 16em; background: url(".=
+./images/shine.png") left top repeat-x rgb(204, 0, 0); height: 1em; }
+
+div.progress span { height: 1em; float: left; }
+
+div.progress span.translated { background: url("../images/shine.png") left =
+top repeat-x rgb(102, 204, 51); }
+
+div.progress span.fuzzy { background: url("../images/shine.png") left top r=
+epeat-x rgb(255, 159, 0); }
+
+.results ul { list-style: none; margin: 0px; padding: 0px; }
+
+.results li { margin: 0px; padding: 0px; }
+
+.results li.odd { background-color: rgb(238, 238, 238); margin: 0px; paddin=
+g: 0px; }
+
+.results dl { display: inline; margin: -1.3em 17em 0px 0px; padding: 0px; f=
+loat: right; }
+
+.results dt { display: inline; margin: 0px; padding: 0px; }
+
+.results dd { display: inline; margin: 0px; padding: 0px 0.5em 0px 0px; }
+
+.results h2, .results h3 { display: inline; padding-right: 0.5em; font-size=
+: 14px; font-weight: normal; }
+
+.results div.progress { display: inline; float: right; width: 16em; backgro=
+und: url("../images/shine.png") left top repeat-x rgb(204, 0, 0); margin: -=
+1.3em 0px 0px; padding: 0px; border: none; }
+
+pre { border-radius: 11px; }
+
+.example { border-radius: 0px; }
+
+.example > a:first-child, .table > a:first-child, .procedure > a:first-chil=
+d { float: left; }
+
+.package, .citetitle { font-style: italic; }
+
+.titlepage .edition, .titlepage .releaseinfo { color: rgb(51, 102, 153); ba=
+ckground-color: transparent; margin-top: 1em; margin-bottom: 1em; font-size=
+: 20px; font-weight: bold; text-align: center; }
+
+span.remark { background-color: rgb(255, 0, 255); }
+
+.draft { background-image: url("../images/watermark-draft.png"); background=
+-repeat: repeat-y; background-position: center center; }
+
+.foreignphrase { font-style: inherit; }
+
+dt { clear: both; }
+
+dt img { border-style: none; max-width: 112px; }
+
+dt object { max-width: 112px; }
+
+dt .inlinemediaobject, dt object { display: inline; float: left; margin-bot=
+tom: 1em; padding-right: 1em; width: 112px; }
+
+dl::after { display: block; clear: both; content: ""; }
+
+.toc dd { padding-bottom: 0px; margin-bottom: 1em; padding-left: 1.3em; mar=
+gin-left: 0px; }
+
+div.toc > dl > dt { padding-bottom: 0px; margin-bottom: 0px; margin-top: 1e=
+m; }
+
+.strikethrough { text-decoration: line-through; }
+
+.underline { text-decoration: underline; }
+
+.calloutlist img, .callout { padding: 0px; margin: 0px; width: 12pt; displa=
+y: inline; vertical-align: middle; }
+
+li.step > a:first-child { display: block; }
+
+.stepalternatives { list-style-image: none; list-style-type: upper-alpha; }
+
+.task { }
+
+.added { background-color: rgb(153, 255, 153); }
+
+.changed { background-color: rgb(255, 255, 119); }
+
+.deleted { background-color: rgb(255, 68, 85); text-decoration: line-throug=
+h; }
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://debian-handbook.info/browse/ru-RU/stable/Common_Content/css/default.css
+
+@charset "utf-8";
+
+@import url("common.css");
+
+@import url("overrides.css");
+
+@import url("lang.css");
+------MultipartBoundary--PvB7wzaxRe6BRq0cbxz4aLTSw5rKe7yMWYz9MqhQbV------
