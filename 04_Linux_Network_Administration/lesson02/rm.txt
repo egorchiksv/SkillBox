@@ -1,0 +1,3 @@
+ifconfig - выведет информацию о сетевых интерфейсах
+ifconfig -a | grep ether | gawk '{print $2}' - выведет только MAC-адрес
+arp -a - выведет arp таблицу
