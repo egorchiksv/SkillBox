@@ -1,0 +1,254 @@
+route - покажет таблицу маршрутизации
+routel - покажет подобную таблицу маршрутизации
+ip route - также выведет информацию по маршрутизации
+sudo ip route add default via 10.0.2.14 - команда пропишет маршрут по умолчанию для указанного ip. Маршрут будет активен до перезагрузки.
+Для постоянной настройки шлюза по умолчанию, необходимо его прописать в файл в каталоге /etc/network/interfaces.d
+ip route show - покажет настроенные маршруты
+sudo ip route add 10.10.3.0/24 dev lo - добавляем маршрут через локальный интерфейс
+sudo ip route delete 10.10.3.0/24 dev lo - удаление маршрута
+sudo route add default gw 10.10.1.20 - добавляем шлюз
+
+ifconfig - покажет все доступные интерфейсы
+ifconfig eth0 nodeone netmask 255.0.0.0 - определяет маршрут в сети через интерфейс eth0
+
+sudo apt install - установка пакетов
+sudo apt-get update - получение обновлений
+apt install openssh-server - установка ssh
+sudo systemctl restart ssh - перезапуск службы
+systemctl status ssh - проверка статуса службы ssh
+sudo wfw disable - выключение брендмауэра
+ssh kali@10.0.2.15 - подключение по ssh
+ssh kali@10.0.2.15 -p 45- подключение по ssh в случае, если порт нестандартный
+sudo apt-get install vsftpd - установка службы для подключения
+cp /etc/vsftpd.conf - сделает копию файла конфигурации службы
+sudo adduser admin - создадим нового пользователя
+sudo mkdir /home/admin/ftp - создадим каталог для содержания файлов передаваемых по ftp
+sudo chown nobody:nogroup /home/admin/ftp - назначим владельца для папки
+sudo chmod a-w /home/admin/ftp - запретим запись в папку
+sudo ls -la /home/admin/ftp - проверим установленые права
+sudo mkdir /home/admin/ftp/files - создадим папку для загрузки файлов
+sudo chown admin:admin /home/admin/ftp/files - назначим владельца admin папки files 
+sudo ls -la /home/admin/ftp/files - проверим также владельца каталога
+sudo nano /etc/vsftpd.conf - открыть конфигурационный службы
+sudo systemctl restart vsftpd - перезапуск службы
+ftp -p 10.0.0.5 - подключение к ftp
+
+sudo apt-get install sendmail - установка почтовой службы
+nano /etc/php/8.4/apache2/php.ini - открытие конфига (в строке раскоментировать строку sendmail_from и после = вписать /usr/sbin/sendmail -t -l)
+sudo service apache2 restart - перезапуск почтовой службы
+
+______________________________________________________________________________________________________________________
+sudo apt-get install nfs-kernel-server - установка nfs на сервер (сетевая файловая система)
+rpcinfo -p | grep nfs - проверить правильно ли настроены порты у службы nfs
+cat /proc/filesystems| grep nfs - проверить поддрежку файловой системы ядром
+sudo modprobe nfs - загрузка nfs в ядро, в случае, если оно не добавлено в файл /proc/filesystems
+sudo apt-get install nfs-common - установка nfs на клиента
+sudo mkdir /var/nfs - создание общей папки для доступа в сети
+sudo nano /etc/exports - файл настройки доспупа к папкам системы nfs. В конец файла необходимо добавить путь к папке, которая создана для общего доступа /var/nfs 127.0.0.1(rw,sync)
+sudo exportfs -a - команда для обновления таблицы экспорта после всех настроек
+sudo mount 127.0.0.1:/var/nfs /mnt/ - подключение к созданной папке
+sudo umount 127.0.0.1:/var/nfs /mnt/ - отклдчение папки
+
+sudo apt-get install isc-dhcp-server - установка dhcp сервера
+sudo nano /etc/default/isc-dhcp-server - открытие конфигурационного файла dhcp сервера. Добавляем команду для прослушки интерфейса INTERFACES="eth0"
+sudo nano /etc/dhcp/dhcpd.conf - открытие оснонвного конфигурационного файла dhcp сервера
+
+sudo apt-get install wpasupplicant wireless-tools - утилиты для настройки беспроводного соединения
+iwlist wlan0 scan - команда для сканирования беспроводной сети
+sudo nano /etc/network/interfaces - конфигурационный файл утилиты настройки бепроводоной сети
+___________________________________________________________________________________________________________________________
+sudo apt install apache2 - установка apache2
+sudo systemctl eneble apache2 - добавление в автозагрузку
+sudo apache2ctl -M - выведет все запущенные модули
+a2enmod <name_module> - включить дополнительный модуль (a2enmod expires)
+a2dismod <name_module> - выключить модуль
+systemctl restart apache2 - перезапуситить apache2 после включения неоходимых модулей
+nano test.site.conf - создадим виртуальный хост со следующим содержанием
+	VirtualHost *:80>
+	ServerName test.site
+	ServerAlias www.test.site
+	ServerAdmin test@test.ru
+	DocumentRoot /var/www/test.site/public_html
+	ErrorLog ${APACHE_LOG_DIR}/error.log
+	</VirtualHost>
+
+a2ensite test.site - активируем виртуальный хост и затем перезагрузить службу
+a2dissite test.site - диактивируем виртуальный хост и затем также перезагрузить службу
+___________________________________________________________________________________________________________________________
+openssl req -new -x509 -days 30 -keyout server.key -out -server.pem - создание ключа и сертификата (создадуться 2 файла сертификат и ключ: server.key, -server.pem)
+Все сертификаты apache2 содержаться в папке /etc/ssl/certs, все ключи находятся в папке /etc/ssl/private
+Скопируем ключ и сертификат в соответствующие папки (для копирования сертификата, необходимо переименовать файл, убрать - перед именем).
+chmod 0600 /etc/ssl/private/server.key - разрешим чтение только администратору
+a2enmod ssl - подключим модуль, который работает с ssl. И соответственно перезагрузим службу systemctl restart apache2 
+
+В файл ssl.conf, расположенный /etc/apache2/mods-enabled после строки "SSLRandomSeed connect file:/dev/urandom 512
+" необходимо добавить:
+	SSLEngine On
+	SSLProtocol all -SSLv2
+	SSLCertificateFile /etc/ssl/certs/server.pem
+	SSLCertificateKeyFile /etc/ssl/private/server.key
+
+Затем перезагрузить службу systemctl restart apache2 и ввести пароль к сертификату
+____________________________________________________________________________________________________________________________
+sudo iptables -t filter -L
+sudo iptables -L
+sudo iptables -t nat -L 
+sudo iptables -t mangle -L
+sudo iptables -t security -L - все указанные команды отображают текущие правила в различных таблицах
+iptables -F
+iptables -е nat -F - удаление всех значений в таблицах iptables (это и указанная выше команда не удалит значения по умолчанию)
+nslookup skillbox.ru - выведет ip сайта и адрес комрьютера с которго ввели эту команду
+iptables -A OUTPUT -d 185.65.148.253 -j DROP - запрет доступа к сайту
+ip ad - выведет сетевые настройки
+iptables -A INPUT -i eth0 -p tcp --dport 22 -j ACCEPT - добавляем разрешение подключения по порту 22
+iptables -A INPUT -i eth0 -j DROP - запретить весь трафик
+iptables -P INPUT  DROP - запрет входящих пакетов в политики по умолчанию
+iptables -A INPUT -i eth0 -p tcp -s 192.168.1.0/24 --dport 80 -j ACCEPT - зарешаем входящие пакеты с определенной подсети
+iptables -D INPUT 1 - удалаем правило с номером 1
+iptables -P INPUT ACCEPT - разрешаем входящие пакеты в политики по умолчанию
+iptables -A INPUT -j DROP - блокируем весь входящий трафик
+iptables -I INPUT 1 -p tcp --dport 443 -j DROP - добавляем правило до правила 1
+iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT - разрешаем заходить на сайты
+iptables -A INPUT -p tcp --dport 80 -j ACCEPT - разрешение трафика по http
+iptables -A INPUT -p tcp --dport 53 -j ACCEPT - разрешение трафика по DNS
+iptables -A INPUT -p tcp --dport 443 -j ACCEPT - разрешение безопасного соединения с интернетом через протокол https
+iptables -A INPUT -p tcp -m multiport --dports 22,80,443 -j ACCEPT - разрешаем трафик сразу через указанные порты с помощью multiport
+iptables -A INPUT -p icmp --icmp-type echo-request -j DROP - запрещаем пинг нашей машины
+
+_____________________________________________________________________________________________________________________________
+
+ping -I lo -c 6 127.0.0.1 - внутренний пинг (цифра 6, это количество пингов)
+ping -c 6 -n 192.168.1.1 - для проверки физического подключения, в случае подключения через роутер.
+ping -I lo -c 5 -s 1024 127.0.0.1 - внутренний пинг размером пакетов 1024.
+ping -c 5 -s 1024 ya.ru - пинг ya.ru 5 пакетами размером 1024 байт.
+traceroute -m 30 skillbox.ru - трассеровка до сайта с количеством прыжков 30
+dig skillbox.ru - проверка доступности доменного имени
+dig @ns1.reg.ru skillbox.ru или dig @1.1.1.1 skillbox.ru - проверка доступности доменного имени через сервера
+nslookup ya.ru - позволяет проверить работоспособность и корректность настоек dns
+nslookup dns.google 1.1.1.1 - позволяет проверить работоспособность и корректность настоек dns на определенном сервере
+nslookup 77.88.44.242 - выполнит поиск имени по ip
+dig -x 8.8.8.8 - также покажет найденное имя по ip
+
+_____________________________________________________________________________________________________________________________
+ethtool enp0s3 - узнать имя сетевой карты
+sudo ethtool -s enp0s3 speed 1000 duplex full autoneg on - команда для установки скорости, включения режема полного duplex и автоматического согласонваия
+Для сохранения изменений и после перезагрузки, необходимо их внести в раздел SETTINGS файла настроек ethtool, который находится /etc/network/if-pre-up.d.
+sudo ethtool -S enp0s3 - просмотр статистики по сетевой карте
+sudo ethtool -p enp0s3 15 - команда заставляет индикатор не сетевой карте мигать продолжительностью 15 секунд
+sudo ethtool -е enp0s3 online - команда для онлайн тестирования сетевой карты
+sudo ethtool -ш enp0s3 - выведен информацию о драйвере сетевой карты.
+nmap - утилита для исследования сети и проверки безопасности.
+nmap -sV -v -n -p 22,23,80,443 192.168.1.112 - проверка прослушки портов (парматеры: -sV - проверка портов; -v - вывест подробную информацию; -n - проверять и не разбирать dns запросы; 22 - порт ssh; 23 - telnet; 80 - http; 443 - https; IP нашей машины, если проверям доступ из нутри).
+ip addr show или ip a - покажет сетевые настройки
+ip -br a - покажет только интефейс и его настройки
+ip a show enp0s3 - выведет только информацию об указанном интерфейсе
+ip a show dev enp0s3 permanent - выведет информацию об статическом IP адресе
+ip a show dev enp0s3 dynamic - выведет динамический IP
+sudo ip addr add 10.0.10.1/24 (или 10.0.10.1/255.255.255.0) dev enp0s3 - задаст IP адрес интерфейсу
+sudo ip addr del 10.0.10.1/24 (или 10.0.10.1/255.255.255.0) dev enp0s3 - удалит IP адрес у интерфейса
+sudo ip a flush - удалит все IP адреса
+sudo ip a flush to 10.0.10.0/24 - удалит все IP адреса подсети
+ip link show или ip link или ip l - просмотр списка сетевых интерфейсов
+sudo ip link set dev enp0s3 down - отключение интерфейса enp0s3
+sudo ip link set dev enp0s3 up - включение интерфейса enp0s3
+sudo ip l set mtu 4000 dev enp0s3 - устанавливаем размер одного пакета данных по умолчанию он 1500
+sudo ip l set dev enp0s3 address 0a:0b:0c:0d:0e:0f - команда задаст мак-адрес сетевому устройству. Для выполнения команды необходимо сначала отключить интерфейс
+ip neigh show и ip n - выведет содержание кеша
+sudo ip n del dev enp0s3 192.168.1.105 - удаление по одной записи по для указанного ip
+sudo ip n flush dev enp0s3 - удаление всех записей для указанного интерфейса
+ip r - вывод таблицы маршрутизации
+sudo ip route add 169.255.0.0 via 169.254.20.150 - добавляем маршрут в таблицу маршрутизации
+sudo ip route add 169.255.0.0 dev enp0s3 - добавляем маршрут в таблицу через интерфейс
+sudo ip route del 169.255.0.0 dev enp0s3 - удаление маршрута из таблицы маршрутизации
+Для использования команды netstat необходимо ее установить с помощью команды sudo apt install net-tools
+netstat -a - вывод используемых портов (т.к. вывод большой, можно использовать в таком виде netstat -a | more)
+netstat -at - выведет все tcp порты
+netstat -au - выведет все udp порты
+netstat -l - выведет сокеты ожидающие подключение (прослушивают)
+netstat -lt - выведет сокеты ожидающие подключение по tcp
+netstat -lu - выведет сокеты ожидающие подключение по udp
+netstat -s - выведет статистику по протоколам
+netstat -st - выведет статистику по tcp
+netstat -su - выведет статистику по udp
+netstat -c - будет постоянно выводить статистику
+netstat -r или netstat -rn - выведет таблицу маршрутизации ядра
+netstat -ap | grep ssh - вывести информацию о соответствии портов и процессов
+netstat -ap | grep '80' - выведет информацию о процессе, который занимает порт 80
+netstat -i - выведет статистику по сетевым интерфейсам
+netstat -ie - выведет развернутую информацию про сетевым интерфейсам
+netstat -lnptux - покажет все открытые порты, которые сейчас слушаются (l) по протоколам tcp (t), udp (u) и unixsocet (x) с адресами и номерами портов (n) с именем процессов (p)
+sudo tcpdump - позволяет перехватывать и анализировать всю информацию по сети
+sudo tcpdump -D - выведет список доступных сетевых интерфейсов
+sudo tcpdump -i enp0s3 - выведет информацию по указанному интефейсу
+sudo tcpdump -vv -i enp0s3 - выведет подробную информацию по указанному интефейсу
+sudo tcpdump -c 4 -i enp0s3 - будет перехвачено только 4 пакета
+sudo tcpdump -c 4 -i enp0s3 port 22 - будет перехвачено только 4 пакета поступающих на порт 22
+sudo tcpdump -c 4 -i enp0s3 host 192.168.1.115 - будет перехвачено только 4 пакета поступающих от или на IP 192.168.1.115
+sudo tcpdump -c 4 -i enp0s3 icmp - будет перехвачено только 4 пакета поступающих по протоколу icmp (ping)
+sudo tcpdump -c 3 -i enp0s3 scr 192.168.1.115 and port 22 - будет перехвачено только 3 пакета поступающих от или на 192.168.1.115 на порт 22
+sudo tcpdump -c 3 -i enp0s3 not arp - все кроме arp
+sudo tcpdump -i enp0s3 -c 5 -w cap.pcap - дамп запишется в файл cap.pcap
+sudo tcpdump -r cap.pcap - выведет содержание файла cap.pcap
+sudo tcpdump -A -r cap.pcap - выведет содержание файла cap.pcap с содержанием каждого пакета
+sudo tcpdump -A -c 3 -i enp0s3 scr 192.168.1.115 and port 22 - будет перехвачено только 3 пакета поступающих от или на 192.168.1.115 на порт 22 с содержанием пакета
+sudo tcpdump -c 3 -i enp0s3 -n -A port 80 - удет перехвачено только 3 пакета поступающих на порт 80 с содержанием пакета
+______________________________________________________________________________________________________________________
+less syslog - просмотр логов системы (если отсутствуют sudo apt install rsyslog, sudo apt-get install less)
+less auth.log - просмотр журнала авторизации пользователелей
+sudo dmesg - журнал загрузки системы. sudo dmesg | less - удобнее читать
+sudo dmesg -l err - вывод из журнала только ошибки
+sudo dmesg -l warn - вывод из журнала только предупреждения
+less alternatives.log - информация об символических ссылках на команды или библиотеки по умолчанию
+boot.log - журнал загрузки операционной системы
+caps - файл службы печати
+faillog -a - выведет содержание файла неудачных входов в систему
+less dpkg.log - выведет содержание файла о программах, которые были установленны с помощью dpkg
+lastlog - выведет информацию о последних сессиях пользователей
+sudo utmpdump /var/log/wtmp - журнал записей входа пользователей в систему 
+tail -f syslog - выведет конец файла syslog
+systemd - менеджер системы менеджеров
+systemctl - утилита для просмотра статусов сервисов
+systemd analys - статистика по процессу загрузки
+journald.conf - файл настройки, которые используются системой. Лежит /etc/systemd
+Сам журнал хранится /var/log/journal и далее созданная папка для пользователя (имя может быть очень длинным)
+journalctl - показывает все записи из всех журналов включая ошибки и предупреждения начиная с того момента, когда система начала загружаться. journalctl --utc выведет время в удобном формате
+journalctl -p 3 - выведет только ошибки (третий уровень важности). Добавление -p позволяет вывести события по уровню важности
+journalctl --list-boots - выведет истории загрузки
+journalctl -b 0 - выведет историю последней загрузки
+journalctl -b -1 - выведет историю предпоследней загрузки
+journalctl --since "2025-12-01" --until "2026-01-09" - выведет историю загрузки за период
+journalctl --since yesterday - выведет историю загрузки за вчерашний день
+journalctl --since 9:00 --until "1 hour ago" - выведет историю загрузки за период
+journalctl -k - вывод сообщений от ядра при загрузки
+journalctl -u NetworkManager - вывод сообщений от определенного менеджера
+systemctl list-units --type=service - выведет список доступных менеджеров
+journalctl -f - следит и выводит новые сообщения
+journalctl -e - выведет последние сообщения
+journalctl --file /var/log/journal/название папки/system.journal -f - увидим последнее сообщение из журнала
+journalctl --vacuum-size=100M - оставит последние 100 мб журнала, остальное удалит
+journalctl --vacuum-time=2d - оставит данные в журнале за последние 2 дня
+______________________________________________________________________________________________________________________
+sudo fdisk -l - отобразит все диски системы
+dd if=/dev/sda1 of=/dev/sdb1 bs=512 noerror - сделает копию диска sda1 на диск sdb1 размер сектора 512 байт и в случае наличия ошибок в секторах копирование не останавливается (noerror)
+______________________________________________________________________________________________________________________
+sudo apt-get install snort - установка системы обноружения вторжения
+После установки необходимо в файле /etc/snort/snort.lua в строке ipvar HOME_NET указать домашнюю сеть (например 192.168.1.1/24) и сохранить. Если локальной сети нет, то оставить anyю
+snort --version - проверить установку snort. Если все правильно установлено, то выведется
+
+ ,,_     -*> Snort++ <*-
+  o"  )~   Version 3.10.2.0
+   ''''    By Martin Roesch & The Snort Team
+           http://snort.org/contact#team
+           Copyright (C) 2014-2025 Cisco and/or its affiliates. All rights reserved.
+           Copyright (C) 1998-2013 Sourcefire, Inc., et al.
+           Using DAQ version 3.0.24
+           Using libpcap version 1.10.5 (with TPACKET_V3)
+           Using LuaJIT version 2.1.1761786044
+           Using LZMA version 5.8.2
+           Using OpenSSL 3.5.4 30 Sep 2025
+           Using PCRE2 version 10.46 2025-08-27
+           Using ZLIB version 1.3.1
+
+cat /etc/snort/rules/icmp.rules - правила icmp
+sudo snort -c /etc/snort/snort.lua -l /var/log/snort - запуск snort. Он будет писать логи в /var/log/snort
+sudo snort -D -c /etc/snort/snort.lua -l /var/log/snort - запуск snort в режиме демона
