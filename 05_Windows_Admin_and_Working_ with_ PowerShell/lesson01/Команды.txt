@@ -1,0 +1,7 @@
+Кнопку Windows+R и далее ввести secpol.msc - откроется окно Local Security Policy (Локальная политика безопасности)
+
+AppLocker - помогает контролировать доступ к файлам и их использование. AppIdSvc ("Удостоверение приложений") в Task Manager это приложение называетмя AppIdSvc, в Service Application Identity. 
+
+Создание шаблона с помощью командной строки, для этого нужно зайти в папку с шаблонами (C:\Users\User\Documents\Security\Templates) ввести команду secedit /validate .\test1.inf (название шаблона)
+После этого необходимо выполнить анализ примененнной политики, для этого вводим команду secedit /analyze /cfg/ test1.inf /db test1.sdb
+Применение шаблона secedit /configure /db test1.sdb /cfg test1.inf /log test1.log
